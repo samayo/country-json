@@ -1,19 +1,17 @@
-country2json - useful country info in json
+country2json
 =======================================
 
-A simple reusable data of some useful information of the world (by country).
+A simple useful data of the world (by country).
 
-Usage
+Usage & Examples
 -----
-Simply import any of the json data to your database. 
+All information is stored in `.json` format, for easier integration. Simply import download and keep going.
 
-### EXAMPLES By Language
-
-#### PHP 
+##### PHP 
 ```php
 <?php 
 
-$file = file_get_contents('/src/country-city.json');
+$file = file_get_contents("/src/country-city.json");
 $data = json_decode($file, true); 
 
 foreach ($data as $key => $value) {
