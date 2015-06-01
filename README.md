@@ -1,4 +1,4 @@
-country2json
+country.json
 =======================================
 
 A simple useful data of the world (by country).
