@@ -36,6 +36,8 @@
 {"country" : "Sudan", "animal" : "Secretary Bird"},
 {"country" : "Syria", "animal" : "Eagle "},
 {"country" : "Turkey", "animal" : "Crescent & Star"},
-{"country" : "United Kingdom", "animal" : " Barbary Lion"},
+{"country" : "England", "animal" : "Barbary Lion"},
+{"country" : "Scotland", "animal" : "Unicorn"},
+{"country" : "Wales", "animal" : "Dragon"},
 {"country" : "U.S.A.", "plant" : "Rose"}
 ]
