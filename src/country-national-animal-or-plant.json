@@ -8,11 +8,12 @@
 {"country" : "Chile", "animal" : "Candor & Huemul"},
 {"country" : "Denmark", "animal" : "Mute Swan "},
 {"country" : "Dominica", "animal" : "Sisserou Parrot"},
+{"country" : "England", "animal" : "Barbary Lion"},
 {"country" : "Eritrea", "animal" : "Arabian Camel"},
 {"country" : "Ethiopia", "animal" : "The Ibex Goat"},
 {"country" : "France", "animal" : "Lily "},
 {"country" : "Germany", "animal" : "Corn Flower"},
-{"country" : "Guyana", "animal" : "Canje Pheasant",} 
+{"country" : "Guyana", "animal" : "Canje Pheasant"},
 {"country" : "Hong Kong", "animal" : "Bauhinia (Orchid Tree)"},
 {"country" : "India", "animal" : "Lioned Capital "},
 {"country" : "Iran", "animal" : "Rose"},
@@ -29,13 +30,14 @@
 {"country" : "Norway", "animal" : "Lion "},
 {"country" : "Pakistan", "animal" : "Crescent"},
 {"country" : "Papua", "animal" : "New Guinea Bird of paradise "},
-{"country" : "Spain", "animal" : "Eagle"},
+{"country" : "Scotland", "animal" : "Unicorn"},
 {"country" : "Senegal", "animal" : "Bhobab Tree"},
 {"country" : "Sierra Leone", "animal" : "Lion"},
+{"country" : "Spain", "animal" : "Eagle"},
 {"country" : "Sri Lanka", "animal" : "Lion "},
 {"country" : "Sudan", "animal" : "Secretary Bird"},
 {"country" : "Syria", "animal" : "Eagle "},
 {"country" : "Turkey", "animal" : "Crescent & Star"},
-{"country" : "United Kingdom", "animal" : " Barbary Lion"},
-{"country" : "U.S.A.", "plant" : "Rose"}
+{"country" : "U.S.A.", "plant" : "Rose"},
+{"country" : "Wales", "animal" : "Dragon"}
 ]
