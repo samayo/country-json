@@ -1,0 +1,8 @@
+{
+  "name": "country.json",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-jsonlint": "~1.1.0",
+    "gulp-util": "~3.0.5"
+  }
+}
