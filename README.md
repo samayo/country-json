@@ -3,6 +3,8 @@ country.json
 
 A simple useful data of the world (by country).
 
+[![Build Status](https://api.travis-ci.org/samayo/country.json.svg)](https://travis-ci.org/samayo/country.json)
+
 Usage & Examples
 -----
 All information is stored in `.json` format, for easier integration. Simply import download and keep going.
