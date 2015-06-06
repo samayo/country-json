@@ -13,7 +13,7 @@ All information is stored in `.json` format, for easier integration. Simply impo
 ````
 <?php 
 
-$file = file_get_contents("/src/country-city.json");
+$file = file_get_contents("/src/country-capital-city.json");
 $data = json_decode($file, true); 
 
 foreach ($data as $key => $value) {
