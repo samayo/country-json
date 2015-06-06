@@ -10,7 +10,7 @@ Usage & Examples
 All information is stored in `.json` format, for easier integration. Simply import download and keep going.
 
 ##### PHP 
-````
+````php
 <?php 
 
 $file = file_get_contents("/src/country-capital-city.json");
@@ -27,7 +27,7 @@ foreach ($data as $key => $value) {
 
 ##### Node.js
 
-````
+````javascript
 var fs = require('fs');
 
 fs.readFile('./src/country-capital-city.json', 'utf8', function(err, cities) {
