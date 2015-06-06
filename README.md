@@ -10,20 +10,40 @@ Usage & Examples
 All information is stored in `.json` format, for easier integration. Simply import download and keep going.
 
 ##### PHP 
-```php
+````
 <?php 
 
 $file = file_get_contents("/src/country-city.json");
 $data = json_decode($file, true); 
 
 foreach ($data as $key => $value) {
- 	list($country, $city) = $value;
-
- 	 // initialize your database .. 
- 	$db->query("INSERT INTO countries (country, city) VALUES ($country, $city)"); 
+  list($country, $city) = $value;
+  
+  // initialize your database .. 
+  $db->query("INSERT INTO countries (country, city) VALUES ($country, $city)"); 
  } 
 
- ```
+ ````
+
+##### Node.js
+
+````
+var fs = require('fs');
+
+fs.readFile('./src/country-capital-city.json', 'utf8', function(err, cities) {
+
+  try {
+    cities = JSON.parse(cities);
+  } catch (e) {
+    console.log('error parsing JSON', e);
+  }
+
+  console.log(cities[0]); // { country: 'Afghanistan', city: 'Kabul' }
+
+});
+
+````
+
 
 #### Contribution.
 
