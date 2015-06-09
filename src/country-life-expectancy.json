@@ -11,7 +11,7 @@
 {"country" : "Armenia", "expectancy" : 66.4},
 {"country" : "American Samoa", "expectancy" : 75.1},
 {"country" : "Antarctica", "expectancy" : null},
-{"country" : "French Southern territories", "expectancy" : },
+{"country" : "French Southern territories", "expectancy" : null},
 {"country" : "Antigua and Barbuda", "expectancy" : 70.5},
 {"country" : "Australia", "expectancy" : 79.8},
 {"country" : "Austria", "expectancy" : 77.7},
