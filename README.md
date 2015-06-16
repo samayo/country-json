@@ -6,7 +6,11 @@ A simple but useful data of the world (by country) in JSON format.
 Using git
 
 ```bash
-$ git clone https://github.com/samayo/country.json
+$ git clone https://github.com/samayo/country-data
+```
+Using composer
+```bash
+php composer.phar require samayo/country-data
 ```
 
 ### Usage
@@ -44,15 +48,13 @@ fs.readFile('./src/country-capital-city.json', 'utf8', function(err, cities) {
 });
 ```
 
-### Resources
-
-- [Processing country.json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)
-
 ### Contributing
-So contributions are welcome. Feel free to PR anything. 
+Contributions are welcome. Feel free to send a PR anytime. 
 
 #### Big Changes
 If you are fixing a minor typo or something similar, you can do a PR anytime. However, for bigger Changes like country and/or city names, language, population change .. then please include a source, if possible. 
 
+### Resources
+- [Processing country.json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)
 ### LICENSE
 MIT
