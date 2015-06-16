@@ -54,6 +54,7 @@ Contributions are welcome. Feel free to send a PR anytime.
 If you are fixing a minor typo or something similar, you can do a PR anytime. However, for bigger Changes like country and/or city names, language, population change .. then please include a source, if possible. 
 
 ### Resources
-- [Processing country.json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)
+- [Processing country.json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)    
+
 ### LICENSE
 MIT
