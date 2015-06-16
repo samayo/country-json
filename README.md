@@ -1,20 +1,19 @@
-## country.json  [![Build Status](https://api.travis-ci.org/samayo/country.json.svg)](https://travis-ci.org/samayo/country.json)
+## country-data  [![Build Status](https://api.travis-ci.org/samayo/country-data.svg)](https://travis-ci.org/samayo/country-data)
 
 A simple but useful data of the world (by country) in JSON format.
 
 ### Download
 Using git
-
 ```bash
 $ git clone https://github.com/samayo/country-data
 ```
 Using composer
 ```bash
-php composer.phar require samayo/country-data
+$ php composer.phar require samayo/country-data
 ```
 
 ### Usage
-Below, You'll find examples using various languages to integrate/display the data. 
+Examples using various languages to integrate/display the data. 
 
 ##### PHP 
 ```php
