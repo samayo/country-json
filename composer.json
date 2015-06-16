@@ -1,5 +1,5 @@
 {
-    "name": "samayo/country.json",
+    "name": "samayo/country-data",
     "description": "A simple but useful data of the world (by country) in JSON formats",
     "keywords": ["json", "country", "data"],
     "homepage": "http://github.com/samayo/country-data",
