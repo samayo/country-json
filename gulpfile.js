@@ -12,7 +12,7 @@ gulp.task('lint', function () {
 // Custom reporter for jsonlint to ensure Gulp exits correctly on fail for Travis tests.
 var failReporter = function (file) {
   if (file.jsonlint && !file.jsonlint.success) {
-    throw new gutil.PluginError('gulp-jsonlint', 'jsonlint failed for ' + file.relative);
+    throw new gutil.PluginError('gulp-jsonlint', file.jsonlint.message);
   }
 };
 

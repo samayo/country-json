@@ -1,4 +1,4 @@
-## country-data  [![Build Status](https://api.travis-ci.org/samayo/country-data.svg)](https://travis-ci.org/samayo/country-data)
+## country-data  [![Build Status](https://travis-ci.org/samayo/country-data.svg?branch=master)](https://travis-ci.org/samayo/country-data)
 
 A simple but useful data of the world (by country) in JSON format.
 
