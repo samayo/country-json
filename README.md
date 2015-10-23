@@ -47,6 +47,17 @@ fs.readFile('./src/country-capital-city.json', 'utf8', function(err, cities) {
 });
 ```
 
+##### Ruby
+Make sure you have `json` gem installed.
+```ruby
+require 'json'
+
+file = File.read('./src/country-capital-city.json')
+json = JSON.parse(file)
+
+puts json[0] # {"country"=>"Afghanistan", "city"=>"Kabul"}
+```
+
 ### Contributing
 Contributions are welcome. Feel free to send a PR anytime. 
 
