@@ -58,6 +58,15 @@ json = JSON.parse(file)
 puts json[0] # {"country"=>"Afghanistan", "city"=>"Kabul"}
 ```
 
+##### Python
+```python
+import yaml
+
+with open('./src/country-capital-city.json') as json_file:
+    for line in yaml.safe_load(json_file):
+        print line # {'country': 'Afghanistan', 'city': 'Kabul'}
+```
+
 ### Contributing
 Contributions are welcome. Feel free to send a PR anytime. 
 
