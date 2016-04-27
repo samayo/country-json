@@ -140,7 +140,7 @@
 {"country" : "Mayotte" , "name" : "Euro" , "code" : "EUR"},
 {"country" : "Mexico" , "name" : "Mexican Nuevo Peso" , "code" : "MXN"},
 {"country" : "Micronesia" , "name" : "US Dollar" , "code" : "USD"},
-{"country" : "Moldova" , "name" : "MDL"},
+{"country" : "Moldova" , "name" : "Moldovan Leu", "code" : "MDL"},
 {"country" : "Monaco" , "code" : "EUR"},
 {"country" : "Mongolia" , "name" : "Mongolian Tugrik" , "code" : "MNT"},
 {"country" : "Montenegro" , "name" : "Euro" , "code" : "EUR"},
