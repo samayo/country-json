@@ -1,6 +1,6 @@
 ## country-data  [![Build Status](https://travis-ci.org/samayo/country-data.svg?branch=master)](https://travis-ci.org/samayo/country-data)
 
-A simple but useful data of the world (by country) each in JSON format.
+A simple but useful data of the world (by country) each in JSON formats.
 
 ### Download
 Using git
@@ -23,10 +23,7 @@ $file = file_get_contents("./src/country-capital-city.json");
 $data = json_decode($file, true); 
 
 foreach ($data as $key => $value) {
-  list($country, $city) = $value;
-  
-  // initialize your database .. 
-  $db->query("INSERT INTO countries (country, city) VALUES ($country, $city)"); 
+  var_dump($value); // { country: 'Afghanistan', city: 'Kabul' ..}
 } 
 ```
 
@@ -48,7 +45,6 @@ fs.readFile('./src/country-capital-city.json', 'utf8', function(err, cities) {
 ```
 
 ##### Ruby
-Make sure you have `json` gem installed.
 ```ruby
 require 'json'
 
@@ -67,14 +63,38 @@ with open('./src/country-capital-city.json') as json_file:
         print line # {'country': 'Afghanistan', 'city': 'Kabul'}
 ```
 
-##### ??  
-[Click here to add an example using another language](https://github.com/samayo/country-data/blob/master/README.md)
+##### Golang
+
+```golang
+package main
+
+import (
+  "encoding/json"
+  "fmt"
+  "io/ioutil"
+)
+
+func main() {
+  data, err := ioutil.ReadFile("path/to/country-capital-city.json")
+  if err != nil {
+    panic(err)
+  }
+
+  var entries []struct{ Country, City string }
+  if err = json.Unmarshal(data, &entries); err != nil {
+    panic(err)
+  }
+
+  for _, entry := range entries {
+    fmt.Println(entry.Country, entry.City)  # {'country': 'Afghanistan', 'city': 'Kabul'}
+  }
+}
+
+```  
+
 
 ### Contributing
-Contributions are recommended. Feel free to add/edit anytime. 
-
-#### Big Changes
-If you are fixing a minor typo or something similar, you can send a PR anytime. However, for bigger changes like country, city names, language, population changes .. then please include a source, if possible. 
+Contributions are needed. Feel free to send a PR anytime specially for minior changes (like typo..) for much more complex/bigger changes then please include a source, if possible. 
 
 ### Resources
 - [Processing country.json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)    
