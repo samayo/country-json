@@ -65,7 +65,7 @@ with open('./src/country-capital-city.json') as json_file:
 
 ##### Golang
 
-```golang
+```go
 package main
 
 import (
