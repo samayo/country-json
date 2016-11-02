@@ -94,15 +94,15 @@ func main() {
 
 ### Data
 
-- [List of countries](https://github.com/samayo/country.json/blob/master/src/country.json)
+- [List of countries](https://github.com/samayo/country.json/blob/master/src/countries.json)
 - [Countries abbreviation](https://github.com/samayo/country.json/blob/master/src/country-abbreviation.json)
 - [Countries average male height](https://github.com/samayo/country.json/blob/master/src/country-avg-male-height.json)
-- [Countries by alphabet letter](https://github.com/samayo/country.json/blob/master/src/country-by-alphabet-letter.json)
+- [Countries by alphabet letter](https://github.com/samayo/country.json/blob/master/src/country-by-alphabet-letters.json)
 - [Countries by coastline length](https://github.com/samayo/country.json/blob/master/src/country-by-costline.json)
-- [Countries by average land elevation](https://github.com/samayo/country.json/blob/master/src/country-elevation.json)
+- [Countries by average land elevation](https://github.com/samayo/country.json/blob/master/src/country-by-elevation.json)
 - [Countries by their national dish (official or proposed)](https://github.com/samayo/country.json/blob/master/src/country-by-national-dish.json)
 - [Countries international calling code](https://github.com/samayo/country.json/blob/master/src/country-calling-code.json)
-- [Countries capital city list](https://github.com/samayo/country.json/blob/master/src/country.json)
+- [Countries capital city list](https://github.com/samayo/country.json/blob/master/src/country-capital-city.json)
 - [Countries with their continent location](https://github.com/samayo/country.json/blob/master/src/country-continent.json)
 - [Countries currency name and code](https://github.com/samayo/country.json/blob/master/src/country-currency-name-and-code.json)
 - [Countries by their national domain TLD](https://github.com/samayo/country.json/blob/master/src/country-domain-tld.json)
