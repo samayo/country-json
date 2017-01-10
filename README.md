@@ -95,34 +95,35 @@ func main() {
 ### Data
 
 - [List of countries](https://github.com/samayo/country.json/blob/master/src/countries.json)
-- [Countries abbreviation](https://github.com/samayo/country.json/blob/master/src/country-abbreviation.json)
-- [Countries average male height](https://github.com/samayo/country.json/blob/master/src/country-avg-male-height.json)
+- [Countries by abbreviation](https://github.com/samayo/country.json/blob/master/src/country-abbreviation.json)
+- [Countries by average male height](https://github.com/samayo/country.json/blob/master/src/country-avg-male-height.json)
 - [Countries by alphabet letter](https://github.com/samayo/country.json/blob/master/src/country-by-alphabet-letters.json)
 - [Countries by coastline length](https://github.com/samayo/country.json/blob/master/src/country-by-costline.json)
 - [Countries by average land elevation](https://github.com/samayo/country.json/blob/master/src/country-by-elevation.json)
 - [Countries by their national dish (official or proposed)](https://github.com/samayo/country.json/blob/master/src/country-by-national-dish.json)
-- [Countries international calling code](https://github.com/samayo/country.json/blob/master/src/country-calling-code.json)
-- [Countries capital city list](https://github.com/samayo/country.json/blob/master/src/country-capital-city.json)
-- [Countries with their continent location](https://github.com/samayo/country.json/blob/master/src/country-continent.json)
-- [Countries currency name and code](https://github.com/samayo/country.json/blob/master/src/country-currency-name-and-code.json)
+- [Countries by international calling code](https://github.com/samayo/country.json/blob/master/src/country-calling-code.json)
+- [Countries by capital city list](https://github.com/samayo/country.json/blob/master/src/country-capital-city.json)
+- [Countries by with their continent location](https://github.com/samayo/country.json/blob/master/src/country-continent.json)
+- [Countries by currency name and code](https://github.com/samayo/country.json/blob/master/src/country-currency-name-and-code.json)
 - [Countries by their national domain TLD](https://github.com/samayo/country.json/blob/master/src/country-domain-tld.json)
-- [Countries flag in base64 format (experimental)](https://github.com/samayo/country.json/blob/master/src/country-flag.json)
-- [Countries geo-coordinate](https://github.com/samayo/country.json/blob/master/src/country-geo-cordinations.json)
-- [Countries government type](https://github.com/samayo/country.json/blob/master/src/country-government-type.json)
-- [Countries independence year](https://github.com/samayo/country.json/blob/master/src/country-independence-date.json)
-- [Countries ISO code](https://github.com/samayo/country.json/blob/master/src/country-iso-numeric.json)
-- [Countries landlocked status](https://github.com/samayo/country.json/blob/master/src/country-landlocked.json)
-- [Countries life expectancy](https://github.com/samayo/country.json/blob/master/src/country-life-expectancy.json)
-- [Countries national animal/plant](https://github.com/samayo/country.json/blob/master/src/country-national-animal-or-plant.json)
-- [Countries population](https://github.com/samayo/country.json/blob/master/src/country-population.json)
-- [Countries population density](https://github.com/samayo/country.json/blob/master/src/country-population-density.json)
+- [Countries by flag in base64 format (experimental)](https://github.com/samayo/country.json/blob/master/src/country-flag.json)
+- [Countries by geo-coordinate](https://github.com/samayo/country.json/blob/master/src/country-geo-cordinations.json)
+- [Countries by government type](https://github.com/samayo/country.json/blob/master/src/country-government-type.json)
+- [Countries by independence year](https://github.com/samayo/country.json/blob/master/src/country-independence-date.json)
+- [Countries by ISO code](https://github.com/samayo/country.json/blob/master/src/country-iso-numeric.json)
+- [Countries by landlocked status](https://github.com/samayo/country.json/blob/master/src/country-landlocked.json)
+- [Countries by life expectancy](https://github.com/samayo/country.json/blob/master/src/country-life-expectancy.json)
+- [Countries by national animal/plant](https://github.com/samayo/country.json/blob/master/src/country-national-animal-or-plant.json)
+- [Countries by population](https://github.com/samayo/country.json/blob/master/src/country-population.json)
+- [Countries by population density](https://github.com/samayo/country.json/blob/master/src/country-population-density.json)
 - [Countries by region location](https://github.com/samayo/country.json/blob/master/src/country-region-in-world.json)
-- [Countries surface area](https://github.com/samayo/country.json/blob/master/src/country-surface-area.json)
-- [Countries yearly average temperature](https://github.com/samayo/country.json/blob/master/src/country-yearly-average-temperature.json)
+- [Countries by surface area](https://github.com/samayo/country.json/blob/master/src/country-surface-area.json)
+- [Countries by yearly average temperature](https://github.com/samayo/country.json/blob/master/src/country-yearly-average-temperature.json)
 
 
 ### Contributing
-Contributions are needed. Feel free to send a PR anytime specially for minior changes (like typo..) for much more complex/bigger changes then please include a source, if possible. 
+Contributions are needed. Feel free to send a PR anytime.    
+For non-minor changes about country (eg: name, languages, capital-city, independance..), please include a source, if possible. 
 
 ### Resources
 - [Processing country.json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)    
