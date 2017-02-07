@@ -123,6 +123,7 @@ func main() {
 - [Countries by region location](https://github.com/samayo/country.json/blob/master/src/country-region-in-world.json)
 - [Countries by surface area](https://github.com/samayo/country.json/blob/master/src/country-surface-area.json)
 - [Countries by yearly average temperature](https://github.com/samayo/country.json/blob/master/src/country-yearly-average-temperature.json)
+- [Countries by barcode prefix](https://github.com/samayo/country.json/blob/master/src/country-by-barcode-prefix.json)
 
 
 ### Contribution
