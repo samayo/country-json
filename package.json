@@ -1,8 +1,29 @@
 {
-  "name": "country-data",
+  "name": "country-json",
   "devDependencies": {
     "gulp": "~3.9.0",
     "gulp-jsonlint": "~1.1.0",
     "gulp-util": "~3.0.5"
-  }
+  },
+  "description": "A simple but useful data of the world (by country) each in JSON format.",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samayo/country-json.git"
+  },
+  "keywords": [
+    "json",
+    "country",
+    "data"
+  ],
+  "author": "Samson Daniel <samayo@protonmail.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samayo/country-json/issues"
+  },
+  "homepage": "https://github.com/samayo/country-json#readme"
 }
