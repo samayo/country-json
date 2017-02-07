@@ -1,15 +1,19 @@
-## country-data  [![Build Status](https://travis-ci.org/samayo/country-data.svg?branch=master)](https://travis-ci.org/samayo/country-data)
+## country->json  [![Build Status](https://travis-ci.org/samayo/country-json.svg?branch=master)](https://travis-ci.org/samayo/country-json)
 
-A simple but useful data of the world (by country) each in JSON formats.
+A simple but useful data of the world (by country) each in JSON format.
 
 ### Download
+Using npm
+```bash
+$ npm install country-json
+```
 Using git
 ```bash
-$ git clone https://github.com/samayo/country-data
+$ git clone https://github.com/samayo/country-json
 ```
 Using composer
 ```bash
-$ composer require samayo/country-data
+$ composer require samayo/country-json
 ```
 
 ### Usage
@@ -121,9 +125,9 @@ func main() {
 - [Countries by yearly average temperature](https://github.com/samayo/country.json/blob/master/src/country-yearly-average-temperature.json)
 
 
-### Contributing
-Contributions are needed. Feel free to send a PR anytime.    
-For non-minor changes about country (eg: name, languages, capital-city, independance..), please include a source, if possible. 
+### Contribution
+Feel free to send a PR anytime, any help or correction is appreciated.    
+For non-minor changes about country (ex: name, languages, capital-city, independence date..), please include a source, if possible. 
 
 ### Resources
 - [Processing country.json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)    
