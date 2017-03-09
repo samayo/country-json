@@ -16,7 +16,7 @@ or  git
 $ git clone https://github.com/samayo/country-json
 ```
 ### List of contents provided in JSON formats:
-- [Country by Name](https://github.com/samayo/country-json/blob/master/src/countries-by-name.json)
+- [Country by Name](https://github.com/samayo/country-json/blob/master/src/country-by-name.json)
 - [Country by Abbreviation](https://github.com/samayo/country-json/blob/master/src/country-by-abbreviation.json)
 - [Country by Alphabet Letters](https://github.com/samayo/country-json/blob/master/src/country-by-alphabet-letters.json)
 - [Country by Avg Male Height](https://github.com/samayo/country-json/blob/master/src/country-by-avg-male-height.json)
