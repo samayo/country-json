@@ -49,8 +49,7 @@ $ git clone https://github.com/samayo/country-json
 Examples using various languages one how display/integrate the data. 
 
 ##### PHP 
-```php
-<?php 
+```php 
 $file = file_get_contents("./src/country-capital-city.json");
 
 foreach (json_decode($file, true) as $key => $value) {
@@ -129,7 +128,7 @@ func main() {
 
 ### Contribution
 Feel free to send a PR to fix, update or add new entry anytime.    
-For non-minor changes about country (ex: name, languages, city, independence date..), please include a source, if possible. 
+For non-minor changes (ex: country: name, language, city, independence date..), please include a source, if possible. 
 
 ### Resources
 - [Processing country-json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)    
