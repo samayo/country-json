@@ -46,7 +46,7 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Yearly Average Temperature](https://github.com/samayo/country-json/blob/master/src/country-by-yearly-average-temperature.json)
 
 ### Usage
-Examples using various languages one how display/integrate the data. 
+Examples using various languages on how display/integrate the data. 
 
 ##### PHP 
 ```php 
