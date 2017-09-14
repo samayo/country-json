@@ -159,7 +159,7 @@
 {"country" : "Niue" , "currency_name" : "New Zealand Dollar"},
 {"country" : "Norfolk Island" , "currency_name" : "Australian Dollar"},
 {"country" : "North Korea" , "currency_name" : "North Korean Won"},
-{"country" : "Northern Mariana Islands US Dollar"},
+{"country" : "Northern Mariana Islands" , "currency_name" : "US Dollar"},
 {"country" : "Norway" , "currency_name" : "Norwegian Krone"},
 {"country" : "Oman" , "currency_name" : "Omani Rial"},
 {"country" : "Pakistan" , "currency_name" : "Pakistan Rupee"},
