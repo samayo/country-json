@@ -30,7 +30,7 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Domain Tld](https://github.com/samayo/country-json/blob/master/src/country-by-domain-tld.json)
 - [Country by Elevation](https://github.com/samayo/country-json/blob/master/src/country-by-elevation.json)
 - [Country by Flag](https://github.com/samayo/country-json/blob/master/src/country-by-flag.json)
-- [Country by Geo Coordinates](https://github.com/samayo/country-json/blob/master/src/country-by-geo-coordinates.json)
+- [Country by Geo Coordinates](https://github.com/samayo/country-json/blob/master/src/country-by-geo-cordinations.json)
 - [Country by Government Type](https://github.com/samayo/country-json/blob/master/src/country-by-government-type.json)
 - [Country by Independence Date](https://github.com/samayo/country-json/blob/master/src/country-by-independence-date.json)
 - [Country by Iso Numeric](https://github.com/samayo/country-json/blob/master/src/country-by-iso-numeric.json)
