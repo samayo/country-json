@@ -30,7 +30,7 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Domain Tld](https://github.com/samayo/country-json/blob/master/src/country-by-domain-tld.json)
 - [Country by Elevation](https://github.com/samayo/country-json/blob/master/src/country-by-elevation.json)
 - [Country by Flag](https://github.com/samayo/country-json/blob/master/src/country-by-flag.json)
-- [Country by Geo Coordinates](https://github.com/samayo/country-json/blob/master/src/country-by-geo-coordinates.json)
+- [Country by Geo Coordinates](https://github.com/samayo/country-json/blob/master/src/country-by-geo-cordinations.json)
 - [Country by Government Type](https://github.com/samayo/country-json/blob/master/src/country-by-government-type.json)
 - [Country by Independence Date](https://github.com/samayo/country-json/blob/master/src/country-by-independence-date.json)
 - [Country by Iso Numeric](https://github.com/samayo/country-json/blob/master/src/country-by-iso-numeric.json)
@@ -46,11 +46,10 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Yearly Average Temperature](https://github.com/samayo/country-json/blob/master/src/country-by-yearly-average-temperature.json)
 
 ### Usage
-Examples using various languages one how display/integrate the data. 
+Examples using various languages on how display/integrate the data. 
 
 ##### PHP 
-```php
-<?php 
+```php 
 $file = file_get_contents("./src/country-capital-city.json");
 
 foreach (json_decode($file, true) as $key => $value) {
@@ -129,7 +128,7 @@ func main() {
 
 ### Contribution
 Feel free to send a PR to fix, update or add new entry anytime.    
-For non-minor changes about country (ex: name, languages, city, independence date..), please include a source, if possible. 
+For non-minor changes (ex: country: name, language, city, independence date..), please include a source, if possible. 
 
 ### Resources
 - [Processing country-json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)    
