@@ -25,6 +25,7 @@
 {"country" : "Lebanon", "symbol":"Tree", "name" : "Cedar Tree"},
 {"country" : "Luxenbourg", "symbol":"animal", "name" : "Lion with Crown"},
 {"country" : "Mongolia", "symbol":"Other", "name" : "The Soyombo"},
+{"country": "Nepal", "symbol": "animal", "name": "Danphe (Lophophorus)"},
 {"country" : "Netherlands", "symbol":"animal", "name" : "Lion"},
 {"country" : "New Zealand", "symbol":"animal", "name" : "Southern Cross, Kiwi, Fern"},
 {"country" : "Norway", "symbol":"animal", "name" : "Lion"},
