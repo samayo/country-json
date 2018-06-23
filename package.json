@@ -6,7 +6,7 @@
     "gulp-util": "~3.0.5"
   },
   "description": "A simple but useful data of the world (by country) each in JSON format.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
