@@ -1,122 +1,974 @@
 [
-{"country":"Albania" , "barcode" : "530"},
-{"country":"Algeria" , "barcode" : "613"},
-{"country":"Argentina" , "barcode" : "778 – 779"},
-{"country":"Armenia" , "barcode" : "485"},
-{"country":"Australia" , "barcode" : "930 – 939"},
-{"country":"Austria" , "barcode" : "900 – 919"},
-{"country":"Azerbaijan" , "barcode" : "476"},
-{"country":"Bahrain" , "barcode" : "608"},
-{"country":"Belarus" , "barcode" : "481"},
-{"country":"Belgium and  Luxembourg" , "barcode" : "540 – 549"},
-{"country":"Bolivia" , "barcode" : "777"},
-{"country":"Bosnia and Herzegovina" , "barcode" : "387"},
-{"country":"Brazil" , "barcode" : "789 – 790"},
-{"country":"Brunei" , "barcode" : "623"},
-{"country":"Bulgaria" , "barcode" : "380"},
-{"country":"Cambodia" , "barcode" : "884"},
-{"country":"Canada" , "barcode" : "000 – 019"},
-{"country":"Canada" , "barcode" : "754 – 755"},
-{"country":"Chile" , "barcode" : "780"},
-{"country":"China" , "barcode" : "690 – 699"},
-{"country":"Colombia" , "barcode" : "770 – 771"},
-{"country":"Costa Rica" , "barcode" : "744"},
-{"country":"Croatia" , "barcode" : "385"},
-{"country":"Cuba" , "barcode" : "850"},
-{"country":"Cyprus" , "barcode" : "529"},
-{"country":"Czech Republic" , "barcode" : "859"},
-{"country":"Denmark" , "barcode" : "570 – 579"},
-{"country":"Dominican Republic" , "barcode" : "746"},
-{"country":"Ecuador" , "barcode" : "786"},
-{"country":"Egypt" , "barcode" : "622"},
-{"country":"El Salvador" , "barcode" : "741"},
-{"country":"Estonia" , "barcode" : "474"},
-{"country":"Faroe Islands" , "barcode" : "570 – 579"},
-{"country":"Finland" , "barcode" : "640 – 649"},
-{"country":"France and  Monaco" , "barcode" : "300 – 379"},
-{"country":"Georgia" , "barcode" : "486"},
-{"country":"Germany" , "barcode" : "400 – 440"},
-{"country":"Ghana" , "barcode" : "603"},
-{"country":"Greece" , "barcode" : "520 – 521"},
-{"country":"Greenland" , "barcode" : "570 – 579"},
-{"country":"Guatemala" , "barcode" : "740"},
-{"country":"Honduras" , "barcode" : "742"},
-{"country":"Hong Kong" , "barcode" : "489"},
-{"country":"Hungary" , "barcode" : "599"},
-{"country":"Iceland" , "barcode" : "569"},
-{"country":"India" , "barcode" : "890"},
-{"country":"Indonesia" , "barcode" : "899"},
-{"country":"Iran" , "barcode" : "626"},
-{"country":"Israel" , "barcode" : "729"},
-{"country":"Italy,  San Marino and   Vatican City" , "barcode" : "800 – 839"},
-{"country":"Ivory Coast" , "barcode" : "618"},
-{"country":"Japan" , "barcode" : "450 – 459"},
-{"country":"Japan" , "barcode" : "490 – 499"},
-{"country":"Jordan" , "barcode" : "625"},
-{"country":"Kazakhstan" , "barcode" : "487"},
-{"country":"Kenya" , "barcode" : "616"},
-{"country":"Kosovo" , "barcode" : "390"},
-{"country":"Kuwait" , "barcode" : "627"},
-{"country":"Kyrgyzstan" , "barcode" : "470"},
-{"country":"Latvia" , "barcode" : "475"},
-{"country":"Lebanon" , "barcode" : "528"},
-{"country":"Libya" , "barcode" : "624"},
-{"country":"Lithuania" , "barcode" : "477"},
-{"country":"Macau" , "barcode" : "958"},
-{"country":"Macedonia" , "barcode" : "531"},
-{"country":"Malaysia" , "barcode" : "955"},
-{"country":"Malta" , "barcode" : "535"},
-{"country":"Mauritius" , "barcode" : "609"},
-{"country":"Mexico" , "barcode" : "750"},
-{"country":"Moldova" , "barcode" : "484"},
-{"country":"Mongolia" , "barcode" : "865"},
-{"country":"Montenegro" , "barcode" : "389"},
-{"country":"Morocco" , "barcode" : "611"},
-{"country":"Netherlands" , "barcode" : "870 – 879"},
-{"country":"New Zealand" , "barcode" : "940 – 949"},
-{"country":"Nicaragua" , "barcode" : "743"},
-{"country":"Nigeria" , "barcode" : "615"},
-{"country":"North Korea" , "barcode" : "867"},
-{"country":"Norway" , "barcode" : "700 – 709"},
-{"country":"Pakistan" , "barcode" : "896"},
-{"country":"Panama" , "barcode" : "745"},
-{"country":"Paraguay" , "barcode" : "784"},
-{"country":"Peru" , "barcode" : "775"},
-{"country":"Philippines" , "barcode" : "480"},
-{"country":"Poland" , "barcode" : "590"},
-{"country":"Portugal" , "barcode" : "560"},
-{"country":"Republic of Ireland" , "barcode" : "539"},
-{"country":"Romania" , "barcode" : "594"},
-{"country":"Russia" , "barcode" : "460 – 469"},
-{"country":"Saudi Arabia" , "barcode" : "628"},
-{"country":"Senegal" , "barcode" : "604"},
-{"country":"Serbia" , "barcode" : "860"},
-{"country":"Singapore" , "barcode" : "888"},
-{"country":"Slovakia" , "barcode" : "858"},
-{"country":"Slovenia" , "barcode" : "383"},
-{"country":"South Africa" , "barcode" : "600 – 601"},
-{"country":"South Korea" , "barcode" : "880"},
-{"country":"Spain and  Andorra" , "barcode" : "840 – 849"},
-{"country":"Sri Lanka" , "barcode" : "479"},
-{"country":"Sweden : EAN/GS1 Sweden" , "barcode" : "730 – 739"},
-{"country":"Switzerland and  Liechtenstein" , "barcode" : "760 – 769"},
-{"country":"Syria" , "barcode" : "621"},
-{"country":"Taiwan" , "barcode" : "471"},
-{"country":"Tajikistan" , "barcode" : "488"},
-{"country":"Tanzania" , "barcode" : "620"},
-{"country":"Thailand" , "barcode" : "885"},
-{"country":"Tunisia" , "barcode" : "619"},
-{"country":"Turkey" , "barcode" : "868 – 869"},
-{"country":"Turkmenistan" , "barcode" : "483"},
-{"country":"Ukraine" , "barcode" : "482"},
-{"country":"United Arab Emirates" , "barcode" : "629"},
-{"country":"United Kingdom" , "barcode" : "500 – 509"},
-{"country":"United States and  Canada" , "barcode" : "060 – 099"},
-{"country":"United States" , "barcode" : "000 – 019"},
-{"country":"United States" , "barcode" : "100 – 139"},
-{"country":"United States drugs" , "barcode" : "030 – 039"},
-{"country":"Uruguay" , "barcode" : "773"},
-{"country":"Uzbekistan" , "barcode" : "478"},
-{"country":"Venezuela" , "barcode" : "759"},
-{"country":"Vietnam" , "barcode" : "893"}
+    {
+        "country": "Afghanistan",
+        "barcode": null
+    },
+    {
+        "country": "Albania",
+        "barcode": "530"
+    },
+    {
+        "country": "Algeria",
+        "barcode": "613"
+    },
+    {
+        "country": "American Samoa",
+        "barcode": null
+    },
+    {
+        "country": "Andorra",
+        "barcode": null
+    },
+    {
+        "country": "Angola",
+        "barcode": null
+    },
+    {
+        "country": "Anguilla",
+        "barcode": null
+    },
+    {
+        "country": "Antarctica",
+        "barcode": null
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "barcode": null
+    },
+    {
+        "country": "Argentina",
+        "barcode": "778 – 779"
+    },
+    {
+        "country": "Armenia",
+        "barcode": "485"
+    },
+    {
+        "country": "Aruba",
+        "barcode": null
+    },
+    {
+        "country": "Australia",
+        "barcode": "930 – 939"
+    },
+    {
+        "country": "Austria",
+        "barcode": "900 – 919"
+    },
+    {
+        "country": "Azerbaijan",
+        "barcode": "476"
+    },
+    {
+        "country": "Bahamas",
+        "barcode": null
+    },
+    {
+        "country": "Bahrain",
+        "barcode": "608"
+    },
+    {
+        "country": "Bangladesh",
+        "barcode": null
+    },
+    {
+        "country": "Barbados",
+        "barcode": null
+    },
+    {
+        "country": "Belarus",
+        "barcode": "481"
+    },
+    {
+        "country": "Belgium",
+        "barcode": null
+    },
+    {
+        "country": "Belize",
+        "barcode": null
+    },
+    {
+        "country": "Benin",
+        "barcode": null
+    },
+    {
+        "country": "Bermuda",
+        "barcode": null
+    },
+    {
+        "country": "Bhutan",
+        "barcode": null
+    },
+    {
+        "country": "Bolivia",
+        "barcode": "777"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "barcode": "387"
+    },
+    {
+        "country": "Botswana",
+        "barcode": null
+    },
+    {
+        "country": "Bouvet Island",
+        "barcode": null
+    },
+    {
+        "country": "Brazil",
+        "barcode": "789 – 790"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "barcode": null
+    },
+    {
+        "country": "Brunei",
+        "barcode": "623"
+    },
+    {
+        "country": "Bulgaria",
+        "barcode": "380"
+    },
+    {
+        "country": "Burkina Faso",
+        "barcode": null
+    },
+    {
+        "country": "Burundi",
+        "barcode": null
+    },
+    {
+        "country": "Cambodia",
+        "barcode": "884"
+    },
+    {
+        "country": "Cameroon",
+        "barcode": null
+    },
+    {
+        "country": "Canada",
+        "barcode": "000 – 019"
+    },
+    {
+        "country": "Cape Verde",
+        "barcode": null
+    },
+    {
+        "country": "Cayman Islands",
+        "barcode": null
+    },
+    {
+        "country": "Central African Republic",
+        "barcode": null
+    },
+    {
+        "country": "Chad",
+        "barcode": null
+    },
+    {
+        "country": "Chile",
+        "barcode": "780"
+    },
+    {
+        "country": "China",
+        "barcode": "690 – 699"
+    },
+    {
+        "country": "Christmas Island",
+        "barcode": null
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "barcode": null
+    },
+    {
+        "country": "Colombia",
+        "barcode": "770 – 771"
+    },
+    {
+        "country": "Comoros",
+        "barcode": null
+    },
+    {
+        "country": "Congo",
+        "barcode": null
+    },
+    {
+        "country": "Cook Islands",
+        "barcode": null
+    },
+    {
+        "country": "Costa Rica",
+        "barcode": "744"
+    },
+    {
+        "country": "Croatia",
+        "barcode": "385"
+    },
+    {
+        "country": "Cuba",
+        "barcode": "850"
+    },
+    {
+        "country": "Cyprus",
+        "barcode": "529"
+    },
+    {
+        "country": "Czech Republic",
+        "barcode": "859"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "570 – 579"
+    },
+    {
+        "country": "Djibouti",
+        "barcode": null
+    },
+    {
+        "country": "Dominica",
+        "barcode": null
+    },
+    {
+        "country": "Dominican Republic",
+        "barcode": "746"
+    },
+    {
+        "country": "East Timor",
+        "barcode": null
+    },
+    {
+        "country": "Ecuador",
+        "barcode": "786"
+    },
+    {
+        "country": "Egypt",
+        "barcode": "622"
+    },
+    {
+        "country": "El Salvador",
+        "barcode": "741"
+    },
+    {
+        "country": "England",
+        "barcode": null
+    },
+    {
+        "country": "Equatorial Guinea",
+        "barcode": null
+    },
+    {
+        "country": "Eritrea",
+        "barcode": null
+    },
+    {
+        "country": "Estonia",
+        "barcode": "474"
+    },
+    {
+        "country": "Ethiopia",
+        "barcode": null
+    },
+    {
+        "country": "Falkland Islands",
+        "barcode": null
+    },
+    {
+        "country": "Faroe Islands",
+        "barcode": "570 – 579"
+    },
+    {
+        "country": "Fiji Islands",
+        "barcode": null
+    },
+    {
+        "country": "Finland",
+        "barcode": "640 – 649"
+    },
+    {
+        "country": "France",
+        "barcode": null
+    },
+    {
+        "country": "French Guiana",
+        "barcode": null
+    },
+    {
+        "country": "French Polynesia",
+        "barcode": null
+    },
+    {
+        "country": "French Southern territories",
+        "barcode": null
+    },
+    {
+        "country": "Gabon",
+        "barcode": null
+    },
+    {
+        "country": "Gambia",
+        "barcode": null
+    },
+    {
+        "country": "Georgia",
+        "barcode": "486"
+    },
+    {
+        "country": "Germany",
+        "barcode": "400 – 440"
+    },
+    {
+        "country": "Ghana",
+        "barcode": "603"
+    },
+    {
+        "country": "Gibraltar",
+        "barcode": null
+    },
+    {
+        "country": "Greece",
+        "barcode": "520 – 521"
+    },
+    {
+        "country": "Greenland",
+        "barcode": "570 – 579"
+    },
+    {
+        "country": "Grenada",
+        "barcode": null
+    },
+    {
+        "country": "Guadeloupe",
+        "barcode": null
+    },
+    {
+        "country": "Guam",
+        "barcode": null
+    },
+    {
+        "country": "Guatemala",
+        "barcode": "740"
+    },
+    {
+        "country": "Guinea",
+        "barcode": null
+    },
+    {
+        "country": "Guinea-Bissau",
+        "barcode": null
+    },
+    {
+        "country": "Guyana",
+        "barcode": null
+    },
+    {
+        "country": "Haiti",
+        "barcode": null
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "barcode": null
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "barcode": null
+    },
+    {
+        "country": "Honduras",
+        "barcode": "742"
+    },
+    {
+        "country": "Hong Kong",
+        "barcode": "489"
+    },
+    {
+        "country": "Hungary",
+        "barcode": "599"
+    },
+    {
+        "country": "Iceland",
+        "barcode": "569"
+    },
+    {
+        "country": "India",
+        "barcode": "890"
+    },
+    {
+        "country": "Indonesia",
+        "barcode": "899"
+    },
+    {
+        "country": "Iran",
+        "barcode": "626"
+    },
+    {
+        "country": "Iraq",
+        "barcode": null
+    },
+    {
+        "country": "Ireland",
+        "barcode": null
+    },
+    {
+        "country": "Israel",
+        "barcode": "729"
+    },
+    {
+        "country": "Italy",
+        "barcode": null
+    },
+    {
+        "country": "Ivory Coast",
+        "barcode": "618"
+    },
+    {
+        "country": "Jamaica",
+        "barcode": null
+    },
+    {
+        "country": "Japan",
+        "barcode": "450 – 459"
+    },
+    {
+        "country": "Jordan",
+        "barcode": "625"
+    },
+    {
+        "country": "Kazakstan",
+        "barcode": null
+    },
+    {
+        "country": "Kenya",
+        "barcode": "616"
+    },
+    {
+        "country": "Kiribati",
+        "barcode": null
+    },
+    {
+        "country": "Kuwait",
+        "barcode": "627"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "barcode": "470"
+    },
+    {
+        "country": "Laos",
+        "barcode": null
+    },
+    {
+        "country": "Latvia",
+        "barcode": "475"
+    },
+    {
+        "country": "Lebanon",
+        "barcode": "528"
+    },
+    {
+        "country": "Lesotho",
+        "barcode": null
+    },
+    {
+        "country": "Liberia",
+        "barcode": null
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "barcode": null
+    },
+    {
+        "country": "Liechtenstein",
+        "barcode": null
+    },
+    {
+        "country": "Lithuania",
+        "barcode": "477"
+    },
+    {
+        "country": "Luxembourg",
+        "barcode": null
+    },
+    {
+        "country": "Macao",
+        "barcode": null
+    },
+    {
+        "country": "Macedonia",
+        "barcode": "531"
+    },
+    {
+        "country": "Madagascar",
+        "barcode": null
+    },
+    {
+        "country": "Malawi",
+        "barcode": null
+    },
+    {
+        "country": "Malaysia",
+        "barcode": "955"
+    },
+    {
+        "country": "Maldives",
+        "barcode": null
+    },
+    {
+        "country": "Mali",
+        "barcode": null
+    },
+    {
+        "country": "Malta",
+        "barcode": "535"
+    },
+    {
+        "country": "Marshall Islands",
+        "barcode": null
+    },
+    {
+        "country": "Martinique",
+        "barcode": null
+    },
+    {
+        "country": "Mauritania",
+        "barcode": null
+    },
+    {
+        "country": "Mauritius",
+        "barcode": "609"
+    },
+    {
+        "country": "Mayotte",
+        "barcode": null
+    },
+    {
+        "country": "Mexico",
+        "barcode": "750"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "barcode": null
+    },
+    {
+        "country": "Moldova",
+        "barcode": "484"
+    },
+    {
+        "country": "Monaco",
+        "barcode": null
+    },
+    {
+        "country": "Mongolia",
+        "barcode": "865"
+    },
+    {
+        "country": "Montserrat",
+        "barcode": null
+    },
+    {
+        "country": "Morocco",
+        "barcode": "611"
+    },
+    {
+        "country": "Mozambique",
+        "barcode": null
+    },
+    {
+        "country": "Myanmar",
+        "barcode": null
+    },
+    {
+        "country": "Namibia",
+        "barcode": null
+    },
+    {
+        "country": "Nauru",
+        "barcode": null
+    },
+    {
+        "country": "Nepal",
+        "barcode": null
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "870 – 879"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "barcode": null
+    },
+    {
+        "country": "New Caledonia",
+        "barcode": null
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "940 – 949"
+    },
+    {
+        "country": "Nicaragua",
+        "barcode": "743"
+    },
+    {
+        "country": "Niger",
+        "barcode": null
+    },
+    {
+        "country": "Nigeria",
+        "barcode": "615"
+    },
+    {
+        "country": "Niue",
+        "barcode": null
+    },
+    {
+        "country": "Norfolk Island",
+        "barcode": null
+    },
+    {
+        "country": "North Korea",
+        "barcode": "867"
+    },
+    {
+        "country": "Northern Ireland",
+        "barcode": null
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "barcode": null
+    },
+    {
+        "country": "Norway",
+        "barcode": "700 – 709"
+    },
+    {
+        "country": "Oman",
+        "barcode": null
+    },
+    {
+        "country": "Pakistan",
+        "barcode": "896"
+    },
+    {
+        "country": "Palau",
+        "barcode": null
+    },
+    {
+        "country": "Palestine",
+        "barcode": null
+    },
+    {
+        "country": "Panama",
+        "barcode": "745"
+    },
+    {
+        "country": "Papua New Guinea",
+        "barcode": null
+    },
+    {
+        "country": "Paraguay",
+        "barcode": "784"
+    },
+    {
+        "country": "Peru",
+        "barcode": "775"
+    },
+    {
+        "country": "Philippines",
+        "barcode": "480"
+    },
+    {
+        "country": "Pitcairn",
+        "barcode": null
+    },
+    {
+        "country": "Poland",
+        "barcode": "590"
+    },
+    {
+        "country": "Portugal",
+        "barcode": "560"
+    },
+    {
+        "country": "Puerto Rico",
+        "barcode": null
+    },
+    {
+        "country": "Qatar",
+        "barcode": null
+    },
+    {
+        "country": "Reunion",
+        "barcode": null
+    },
+    {
+        "country": "Romania",
+        "barcode": "594"
+    },
+    {
+        "country": "Russian Federation",
+        "barcode": null
+    },
+    {
+        "country": "Rwanda",
+        "barcode": null
+    },
+    {
+        "country": "Saint Helena",
+        "barcode": null
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "barcode": null
+    },
+    {
+        "country": "Saint Lucia",
+        "barcode": null
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "barcode": null
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "barcode": null
+    },
+    {
+        "country": "Samoa",
+        "barcode": null
+    },
+    {
+        "country": "San Marino",
+        "barcode": null
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "barcode": null
+    },
+    {
+        "country": "Saudi Arabia",
+        "barcode": "628"
+    },
+    {
+        "country": "Scotland",
+        "barcode": null
+    },
+    {
+        "country": "Senegal",
+        "barcode": "604"
+    },
+    {
+        "country": "Seychelles",
+        "barcode": null
+    },
+    {
+        "country": "Sierra Leone",
+        "barcode": null
+    },
+    {
+        "country": "Singapore",
+        "barcode": "888"
+    },
+    {
+        "country": "Slovakia",
+        "barcode": "858"
+    },
+    {
+        "country": "Slovenia",
+        "barcode": "383"
+    },
+    {
+        "country": "Solomon Islands",
+        "barcode": null
+    },
+    {
+        "country": "Somalia",
+        "barcode": null
+    },
+    {
+        "country": "South Africa",
+        "barcode": "600 – 601"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "barcode": null
+    },
+    {
+        "country": "South Korea",
+        "barcode": "880"
+    },
+    {
+        "country": "South Sudan",
+        "barcode": null
+    },
+    {
+        "country": "Spain",
+        "barcode": null
+    },
+    {
+        "country": "SriLanka",
+        "barcode": null
+    },
+    {
+        "country": "Sudan",
+        "barcode": null
+    },
+    {
+        "country": "Suriname",
+        "barcode": null
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "barcode": null
+    },
+    {
+        "country": "Swaziland",
+        "barcode": null
+    },
+    {
+        "country": "Sweden",
+        "barcode": null
+    },
+    {
+        "country": "Switzerland",
+        "barcode": null
+    },
+    {
+        "country": "Syria",
+        "barcode": "621"
+    },
+    {
+        "country": "Tajikistan",
+        "barcode": "488"
+    },
+    {
+        "country": "Tanzania",
+        "barcode": "620"
+    },
+    {
+        "country": "Thailand",
+        "barcode": "885"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "barcode": null
+    },
+    {
+        "country": "Togo",
+        "barcode": null
+    },
+    {
+        "country": "Tokelau",
+        "barcode": null
+    },
+    {
+        "country": "Tonga",
+        "barcode": null
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "barcode": null
+    },
+    {
+        "country": "Tunisia",
+        "barcode": "619"
+    },
+    {
+        "country": "Turkey",
+        "barcode": "868 – 869"
+    },
+    {
+        "country": "Turkmenistan",
+        "barcode": "483"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "barcode": null
+    },
+    {
+        "country": "Tuvalu",
+        "barcode": null
+    },
+    {
+        "country": "Uganda",
+        "barcode": null
+    },
+    {
+        "country": "Ukraine",
+        "barcode": "482"
+    },
+    {
+        "country": "United Arab Emirates",
+        "barcode": "629"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "500 – 509"
+    },
+    {
+        "country": "United States",
+        "barcode": "000 – 019"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "barcode": null
+    },
+    {
+        "country": "Uruguay",
+        "barcode": "773"
+    },
+    {
+        "country": "Uzbekistan",
+        "barcode": "478"
+    },
+    {
+        "country": "Vanuatu",
+        "barcode": null
+    },
+    {
+        "country": "Venezuela",
+        "barcode": "759"
+    },
+    {
+        "country": "Vietnam",
+        "barcode": "893"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "barcode": null
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "barcode": null
+    },
+    {
+        "country": "Wales",
+        "barcode": null
+    },
+    {
+        "country": "Wallis and Futuna",
+        "barcode": null
+    },
+    {
+        "country": "Western Sahara",
+        "barcode": null
+    },
+    {
+        "country": "Yemen",
+        "barcode": null
+    },
+    {
+        "country": "Yugoslavia",
+        "barcode": null
+    },
+    {
+        "country": "Zambia",
+        "barcode": null
+    },
+    {
+        "country": "Zimbabwe",
+        "barcode": null
+    }
 ]

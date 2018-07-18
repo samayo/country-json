@@ -1,242 +1,974 @@
 [
-{"country" : "Aruba", "government" : "Nonmetropolitan Territory of The Netherlands"},
-{"country" : "Afghanistan", "government" : "Islamic Emirate"},
-{"country" : "Angola", "government" : "Republic"},
-{"country" : "Anguilla", "government" : "Dependent Territory of the UK"},
-{"country" : "Albania", "government" : "Republic"},
-{"country" : "Andorra", "government" : "Parliamentary Coprincipality"},
-{"country" : "Netherlands Antilles", "government" : "Nonmetropolitan Territory of The Netherlands"},
-{"country" : "United Arab Emirates", "government" : "Emirate Federation"},
-{"country" : "Argentina", "government" : "Federal Republic"},
-{"country" : "Armenia", "government" : "Republic"},
-{"country" : "American Samoa", "government" : "US Territory"},
-{"country" : "Antarctica", "government" : "Co-administrated"},
-{"country" : "French Southern territories", "government" : "Nonmetropolitan Territory of France"},
-{"country" : "Antigua and Barbuda", "government" : "Constitutional Monarchy"},
-{"country" : "Australia", "government" : "Federation Constitutional Monarchy"},
-{"country" : "Austria", "government" : "Federal Republic"},
-{"country" : "Azerbaijan", "government" : "Federal Republic"},
-{"country" : "Burundi", "government" : "Republic"},
-{"country" : "Belgium", "government" : "Federation Constitutional Monarchy"},
-{"country" : "Benin", "government" : "Republic"},
-{"country" : "Burkina Faso", "government" : "Republic"},
-{"country" : "Bangladesh", "government" : "Republic"},
-{"country" : "Bulgaria", "government" : "Republic"},
-{"country" : "Bahrain", "government" : "Monarchy (Emirate)"},
-{"country" : "Bahamas", "government" : "Constitutional Monarchy"},
-{"country" : "Bosnia and Herzegovina", "government" : "Federal Republic"},
-{"country" : "Belarus", "government" : "Republic"},
-{"country" : "Belize", "government" : "Constitutional Monarchy"},
-{"country" : "Bermuda", "government" : "Dependent Territory of the UK"},
-{"country" : "Bolivia", "government" : "Republic"},
-{"country" : "Brazil", "government" : "Federal Republic"},
-{"country" : "Barbados", "government" : "Constitutional Monarchy"},
-{"country" : "Brunei", "government" : "Monarchy (Sultanate)"},
-{"country" : "Bhutan", "government" : "Monarchy"},
-{"country" : "Bouvet Island", "government" : "Dependent Territory of Norway"},
-{"country" : "Botswana", "government" : "Republic"},
-{"country" : "Central African Republic", "government" : "Republic"},
-{"country" : "Canada", "government" : "Constitutional Monarchy, Federation"},
-{"country" : "Cocos (Keeling) Islands", "government" : "Territory of Australia"},
-{"country" : "Switzerland", "government" : "Federation"},
-{"country" : "Chile", "government" : "Republic"},
-{"country" : "China", "government" : "People's Republic"},
-{"country" : "Ivory Coast", "government" : "Republic"},
-{"country" : "Cameroon", "government" : "Republic"},
-{"country" : "Congo, The Democratic Republic of the", "government" : "Republic"},
-{"country" : "Congo", "government" : "Republic"},
-{"country" : "Cook Islands", "government" : "Nonmetropolitan Territory of New Zealand"},
-{"country" : "Colombia", "government" : "Republic"},
-{"country" : "Comoros", "government" : "Republic"},
-{"country" : "Cape Verde", "government" : "Republic"},
-{"country" : "Costa Rica", "government" : "Republic"},
-{"country" : "Cuba", "government" : "Socialistic Republic"},
-{"country" : "Christmas Island", "government" : "Territory of Australia"},
-{"country" : "Cayman Islands", "government" : "Dependent Territory of the UK"},
-{"country" : "Cyprus", "government" : "Republic"},
-{"country" : "Czech Republic", "government" : "Republic"},
-{"country" : "Germany", "government" : "Federal Republic"},
-{"country" : "Djibouti", "government" : "Republic"},
-{"country" : "Dominica", "government" : "Republic"},
-{"country" : "Denmark", "government" : "Constitutional Monarchy"},
-{"country" : "Dominican Republic", "government" : "Republic"},
-{"country" : "Algeria", "government" : "Republic"},
-{"country" : "Ecuador", "government" : "Republic"},
-{"country" : "Egypt", "government" : "Republic"},
-{"country" : "Eritrea", "government" : "Republic"},
-{"country" : "Western Sahara", "government" : "Occupied by Marocco"},
-{"country" : "Spain", "government" : "Constitutional Monarchy"},
-{"country" : "Estonia", "government" : "Republic"},
-{"country" : "Ethiopia", "government" : "Republic"},
-{"country" : "Finland", "government" : "Republic"},
-{"country" : "Fiji Islands", "government" : "Republic"},
-{"country" : "Falkland Islands", "government" : "Dependent Territory of the UK"},
-{"country" : "France", "government" : "Republic"},
-{"country" : "Faroe Islands", "government" : "Part of Denmark"},
-{"country" : "Micronesia, Federated States of", "government" : "Federal Republic"},
-{"country" : "Gabon", "government" : "Republic"},
-{"country" : "United Kingdom", "government" : "Constitutional Monarchy"},
-{"country" : "Georgia", "government" : "Republic"},
-{"country" : "Ghana", "government" : "Republic"},
-{"country" : "Gibraltar", "government" : "Dependent Territory of the UK"},
-{"country" : "Guinea", "government" : "Republic"},
-{"country" : "Guadeloupe", "government" : "Overseas Department of France"},
-{"country" : "Gambia", "government" : "Republic"},
-{"country" : "Guinea-Bissau", "government" : "Republic"},
-{"country" : "Equatorial Guinea", "government" : "Republic"},
-{"country" : "Greece", "government" : "Republic"},
-{"country" : "Grenada", "government" : "Constitutional Monarchy"},
-{"country" : "Greenland", "government" : "Part of Denmark"},
-{"country" : "Guatemala", "government" : "Republic"},
-{"country" : "French Guiana", "government" : "Overseas Department of France"},
-{"country" : "Guam", "government" : "US Territory"},
-{"country" : "Guyana", "government" : "Republic"},
-{"country" : "Hong Kong", "government" : "Special Administrative Region of China"},
-{"country" : "Heard Island and McDonald Islands", "government" : "Territory of Australia"},
-{"country" : "Honduras", "government" : "Republic"},
-{"country" : "Croatia", "government" : "Republic"},
-{"country" : "Haiti", "government" : "Republic"},
-{"country" : "Hungary", "government" : "Republic"},
-{"country" : "Indonesia", "government" : "Republic"},
-{"country" : "India", "government" : "Federal Republic"},
-{"country" : "British Indian Ocean Territory", "government" : "Dependent Territory of the UK"},
-{"country" : "Ireland", "government" : "Republic"},
-{"country" : "Iran", "government" : "Islamic Republic"},
-{"country" : "Iraq", "government" : "Republic"},
-{"country" : "Iceland", "government" : "Republic"},
-{"country" : "Israel", "government" : "Republic"},
-{"country" : "Italy", "government" : "Republic"},
-{"country" : "Jamaica", "government" : "Constitutional Monarchy"},
-{"country" : "Jordan", "government" : "Constitutional Monarchy"},
-{"country" : "Japan", "government" : "Constitutional Monarchy"},
-{"country" : "Kazakstan", "government" : "Republic"},
-{"country" : "Kenya", "government" : "Republic"},
-{"country" : "Kyrgyzstan", "government" : "Republic"},
-{"country" : "Cambodia", "government" : "Constitutional Monarchy"},
-{"country" : "Kiribati", "government" : "Republic"},
-{"country" : "Saint Kitts and Nevis", "government" : "Constitutional Monarchy"},
-{"country" : "South Korea", "government" : "Republic"},
-{"country" : "Kuwait", "government" : "Constitutional Monarchy (Emirate)"},
-{"country" : "Laos", "government" : "Republic"},
-{"country" : "Lebanon", "government" : "Republic"},
-{"country" : "Liberia", "government" : "Republic"},
-{"country" : "Libyan Arab Jamahiriya", "government" : "Socialistic State"},
-{"country" : "Saint Lucia", "government" : "Constitutional Monarchy"},
-{"country" : "Liechtenstein", "government" : "Constitutional Monarchy"},
-{"country" : "Sri Lanka", "government" : "Republic"},
-{"country" : "Lesotho", "government" : "Constitutional Monarchy"},
-{"country" : "Lithuania", "government" : "Republic"},
-{"country" : "Luxembourg", "government" : "Constitutional Monarchy"},
-{"country" : "Latvia", "government" : "Republic"},
-{"country" : "Macao", "government" : "Special Administrative Region of China"},
-{"country" : "Morocco", "government" : "Constitutional Monarchy"},
-{"country" : "Monaco", "government" : "Constitutional Monarchy"},
-{"country" : "Moldova", "government" : "Republic"},
-{"country" : "Madagascar", "government" : "Federal Republic"},
-{"country" : "Maldives", "government" : "Republic"},
-{"country" : "Mexico", "government" : "Federal Republic"},
-{"country" : "Marshall Islands", "government" : "Republic"},
-{"country" : "Macedonia", "government" : "Republic"},
-{"country" : "Mali", "government" : "Republic"},
-{"country" : "Malta", "government" : "Republic"},
-{"country" : "Myanmar", "government" : "Republic"},
-{"country" : "Mongolia", "government" : "Republic"},
-{"country" : "Northern Mariana Islands", "government" : "Commonwealth of the US"},
-{"country" : "Mozambique", "government" : "Republic"},
-{"country" : "Mauritania", "government" : "Republic"},
-{"country" : "Montserrat", "government" : "Dependent Territory of the UK"},
-{"country" : "Martinique", "government" : "Overseas Department of France"},
-{"country" : "Mauritius", "government" : "Republic"},
-{"country" : "Malawi", "government" : "Republic"},
-{"country" : "Malaysia", "government" : "Constitutional Monarchy"},
-{"country" : "Mayotte", "government" : "Territorial Collectivity of France"},
-{"country" : "Namibia", "government" : "Republic"},
-{"country" : "New Caledonia", "government" : "Nonmetropolitan Territory of France"},
-{"country" : "Niger", "government" : "Republic"},
-{"country" : "Norfolk Island", "government" : "Territory of Australia"},
-{"country" : "Nigeria", "government" : "Federal Republic"},
-{"country" : "Nicaragua", "government" : "Republic"},
-{"country" : "Niue", "government" : "Nonmetropolitan Territory of New Zealand"},
-{"country" : "Netherlands", "government" : "Constitutional Monarchy"},
-{"country" : "Norway", "government" : "Constitutional Monarchy"},
-{"country" : "Nepal", "government" : "Federal parliamentary republic"},
-{"country" : "Nauru", "government" : "Republic"},
-{"country" : "New Zealand", "government" : "Constitutional Monarchy"},
-{"country" : "Oman", "government" : "Monarchy (Sultanate)"},
-{"country" : "Pakistan", "government" : "Republic"},
-{"country" : "Panama", "government" : "Republic"},
-{"country" : "Pitcairn", "government" : "Dependent Territory of the UK"},
-{"country" : "Peru", "government" : "Republic"},
-{"country" : "Philippines", "government" : "Republic"},
-{"country" : "Palau", "government" : "Republic"},
-{"country" : "Papua New Guinea", "government" : "Constitutional Monarchy"},
-{"country" : "Poland", "government" : "Republic"},
-{"country" : "Puerto Rico", "government" : "Commonwealth of the US"},
-{"country" : "North Korea", "government" : "Socialistic Republic"},
-{"country" : "Portugal", "government" : "Republic"},
-{"country" : "Paraguay", "government" : "Republic"},
-{"country" : "Palestine", "government" : "Autonomous Area"},
-{"country" : "French Polynesia", "government" : "Nonmetropolitan Territory of France"},
-{"country" : "Qatar", "government" : "Monarchy"},
-{"country" : "Reunion", "government" : "Overseas Department of France"},
-{"country" : "Romania", "government" : "Republic"},
-{"country" : "Russian Federation", "government" : "Federal Republic"},
-{"country" : "Rwanda", "government" : "Republic"},
-{"country" : "Saudi Arabia", "government" : "Monarchy"},
-{"country" : "Sudan", "government" : "Islamic Republic"},
-{"country" : "Senegal", "government" : "Republic"},
-{"country" : "Singapore", "government" : "Republic"},
-{"country" : "South Georgia and the South Sandwich Islands", "government" : "Dependent Territory of the UK"},
-{"country" : "Saint Helena", "government" : "Dependent Territory of the UK"},
-{"country" : "Svalbard and Jan Mayen", "government" : "Dependent Territory of Norway"},
-{"country" : "Solomon Islands", "government" : "Constitutional Monarchy"},
-{"country" : "Sierra Leone", "government" : "Republic"},
-{"country" : "El Salvador", "government" : "Republic"},
-{"country" : "San Marino", "government" : "Republic"},
-{"country" : "Somalia", "government" : "Republic"},
-{"country" : "Saint Pierre and Miquelon", "government" : "Territorial Collectivity of France"},
-{"country" : "Sao Tome and Principe", "government" : "Republic"},
-{"country" : "Suriname", "government" : "Republic"},
-{"country" : "Slovakia", "government" : "Republic"},
-{"country" : "Slovenia", "government" : "Republic"},
-{"country" : "Sweden", "government" : "Constitutional Monarchy"},
-{"country" : "Swaziland", "government" : "Monarchy"},
-{"country" : "Seychelles", "government" : "Republic"},
-{"country" : "Syria", "government" : "Republic"},
-{"country" : "Turks and Caicos Islands", "government" : "Dependent Territory of the UK"},
-{"country" : "Chad", "government" : "Republic"},
-{"country" : "Togo", "government" : "Republic"},
-{"country" : "Thailand", "government" : "Constitutional Monarchy"},
-{"country" : "Tajikistan", "government" : "Republic"},
-{"country" : "Tokelau", "government" : "Nonmetropolitan Territory of New Zealand"},
-{"country" : "Turkmenistan", "government" : "Republic"},
-{"country" : "East Timor", "government" : "Administrated by the UN"},
-{"country" : "Tonga", "government" : "Monarchy"},
-{"country" : "Trinidad and Tobago", "government" : "Republic"},
-{"country" : "Tunisia", "government" : "Republic"},
-{"country" : "Turkey", "government" : "Republic"},
-{"country" : "Tuvalu", "government" : "Constitutional Monarchy"},
-{"country" : "Taiwan", "government" : "Republic"},
-{"country" : "Tanzania", "government" : "Republic"},
-{"country" : "Uganda", "government" : "Republic"},
-{"country" : "Ukraine", "government" : "Republic"},
-{"country" : "United States Minor Outlying Islands", "government" : "Dependent Territory of the US"},
-{"country" : "Uruguay", "government" : "Republic"},
-{"country" : "United States", "government" : "Federal Republic"},
-{"country" : "Uzbekistan", "government" : "Republic"},
-{"country" : "Holy See (Vatican City State)", "government" : "Independent Church State"},
-{"country" : "Saint Vincent and the Grenadines", "government" : "Constitutional Monarchy"},
-{"country" : "Venezuela", "government" : "Federal Republic"},
-{"country" : "British", "government" : "Dependent Territory of the UK"},
-{"country" : "Virgin Islands", "government" : null},
-{"country" : "U.S.", "government" : "US Territory"},
-{"country" : "Vietnam", "government" : "Socialistic Republic"},
-{"country" : "Vanuatu", "government" : "Republic"},
-{"country" : "Wallis and Futuna", "government" : "Nonmetropolitan Territory of France"},
-{"country" : "Samoa", "government" : "Parlementary Monarchy"},
-{"country" : "Yemen", "government" : "Republic"},
-{"country" : "Yugoslavia", "government" : "Federal Republic"},
-{"country" : "South Africa", "government" : "Republic"},
-{"country" : "Zambia", "government" : "Republic"},
-{"country" : "Zimbabwe", "government" : "Republic"}
+    {
+        "country": "Afghanistan",
+        "government": "Islamic Emirate"
+    },
+    {
+        "country": "Albania",
+        "government": "Republic"
+    },
+    {
+        "country": "Algeria",
+        "government": "Republic"
+    },
+    {
+        "country": "American Samoa",
+        "government": "US Territory"
+    },
+    {
+        "country": "Andorra",
+        "government": "Parliamentary Coprincipality"
+    },
+    {
+        "country": "Angola",
+        "government": "Republic"
+    },
+    {
+        "country": "Anguilla",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Antarctica",
+        "government": "Co-administrated"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Argentina",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Armenia",
+        "government": "Republic"
+    },
+    {
+        "country": "Aruba",
+        "government": "Nonmetropolitan Territory of The Netherlands"
+    },
+    {
+        "country": "Australia",
+        "government": "Federation Constitutional Monarchy"
+    },
+    {
+        "country": "Austria",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Azerbaijan",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Bahamas",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Bahrain",
+        "government": "Monarchy (Emirate)"
+    },
+    {
+        "country": "Bangladesh",
+        "government": "Republic"
+    },
+    {
+        "country": "Barbados",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Belarus",
+        "government": "Republic"
+    },
+    {
+        "country": "Belgium",
+        "government": "Federation Constitutional Monarchy"
+    },
+    {
+        "country": "Belize",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Benin",
+        "government": "Republic"
+    },
+    {
+        "country": "Bermuda",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Bhutan",
+        "government": "Monarchy"
+    },
+    {
+        "country": "Bolivia",
+        "government": "Republic"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Botswana",
+        "government": "Republic"
+    },
+    {
+        "country": "Bouvet Island",
+        "government": "Dependent Territory of Norway"
+    },
+    {
+        "country": "Brazil",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Brunei",
+        "government": "Monarchy (Sultanate)"
+    },
+    {
+        "country": "Bulgaria",
+        "government": "Republic"
+    },
+    {
+        "country": "Burkina Faso",
+        "government": "Republic"
+    },
+    {
+        "country": "Burundi",
+        "government": "Republic"
+    },
+    {
+        "country": "Cambodia",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Cameroon",
+        "government": "Republic"
+    },
+    {
+        "country": "Canada",
+        "government": "Constitutional Monarchy, Federation"
+    },
+    {
+        "country": "Cape Verde",
+        "government": "Republic"
+    },
+    {
+        "country": "Cayman Islands",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Central African Republic",
+        "government": "Republic"
+    },
+    {
+        "country": "Chad",
+        "government": "Republic"
+    },
+    {
+        "country": "Chile",
+        "government": "Republic"
+    },
+    {
+        "country": "China",
+        "government": "People's Republic"
+    },
+    {
+        "country": "Christmas Island",
+        "government": "Territory of Australia"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "government": "Territory of Australia"
+    },
+    {
+        "country": "Colombia",
+        "government": "Republic"
+    },
+    {
+        "country": "Comoros",
+        "government": "Republic"
+    },
+    {
+        "country": "Congo",
+        "government": "Republic"
+    },
+    {
+        "country": "Cook Islands",
+        "government": "Nonmetropolitan Territory of New Zealand"
+    },
+    {
+        "country": "Costa Rica",
+        "government": "Republic"
+    },
+    {
+        "country": "Croatia",
+        "government": "Republic"
+    },
+    {
+        "country": "Cuba",
+        "government": "Socialistic Republic"
+    },
+    {
+        "country": "Cyprus",
+        "government": "Republic"
+    },
+    {
+        "country": "Czech Republic",
+        "government": "Republic"
+    },
+    {
+        "country": "Denmark",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Djibouti",
+        "government": "Republic"
+    },
+    {
+        "country": "Dominica",
+        "government": "Republic"
+    },
+    {
+        "country": "Dominican Republic",
+        "government": "Republic"
+    },
+    {
+        "country": "East Timor",
+        "government": "Administrated by the UN"
+    },
+    {
+        "country": "Ecuador",
+        "government": "Republic"
+    },
+    {
+        "country": "Egypt",
+        "government": "Republic"
+    },
+    {
+        "country": "El Salvador",
+        "government": "Republic"
+    },
+    {
+        "country": "England",
+        "government": null
+    },
+    {
+        "country": "Equatorial Guinea",
+        "government": "Republic"
+    },
+    {
+        "country": "Eritrea",
+        "government": "Republic"
+    },
+    {
+        "country": "Estonia",
+        "government": "Republic"
+    },
+    {
+        "country": "Ethiopia",
+        "government": "Republic"
+    },
+    {
+        "country": "Falkland Islands",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Faroe Islands",
+        "government": "Part of Denmark"
+    },
+    {
+        "country": "Fiji Islands",
+        "government": "Republic"
+    },
+    {
+        "country": "Finland",
+        "government": "Republic"
+    },
+    {
+        "country": "France",
+        "government": "Republic"
+    },
+    {
+        "country": "French Guiana",
+        "government": "Overseas Department of France"
+    },
+    {
+        "country": "French Polynesia",
+        "government": "Nonmetropolitan Territory of France"
+    },
+    {
+        "country": "French Southern territories",
+        "government": "Nonmetropolitan Territory of France"
+    },
+    {
+        "country": "Gabon",
+        "government": "Republic"
+    },
+    {
+        "country": "Gambia",
+        "government": "Republic"
+    },
+    {
+        "country": "Georgia",
+        "government": "Republic"
+    },
+    {
+        "country": "Germany",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Ghana",
+        "government": "Republic"
+    },
+    {
+        "country": "Gibraltar",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Greece",
+        "government": "Republic"
+    },
+    {
+        "country": "Greenland",
+        "government": "Part of Denmark"
+    },
+    {
+        "country": "Grenada",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Guadeloupe",
+        "government": "Overseas Department of France"
+    },
+    {
+        "country": "Guam",
+        "government": "US Territory"
+    },
+    {
+        "country": "Guatemala",
+        "government": "Republic"
+    },
+    {
+        "country": "Guinea",
+        "government": "Republic"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "government": "Republic"
+    },
+    {
+        "country": "Guyana",
+        "government": "Republic"
+    },
+    {
+        "country": "Haiti",
+        "government": "Republic"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "government": "Territory of Australia"
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "government": "Independent Church State"
+    },
+    {
+        "country": "Honduras",
+        "government": "Republic"
+    },
+    {
+        "country": "Hong Kong",
+        "government": "Special Administrative Region of China"
+    },
+    {
+        "country": "Hungary",
+        "government": "Republic"
+    },
+    {
+        "country": "Iceland",
+        "government": "Republic"
+    },
+    {
+        "country": "India",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Indonesia",
+        "government": "Republic"
+    },
+    {
+        "country": "Iran",
+        "government": "Islamic Republic"
+    },
+    {
+        "country": "Iraq",
+        "government": "Republic"
+    },
+    {
+        "country": "Ireland",
+        "government": "Republic"
+    },
+    {
+        "country": "Israel",
+        "government": "Republic"
+    },
+    {
+        "country": "Italy",
+        "government": "Republic"
+    },
+    {
+        "country": "Ivory Coast",
+        "government": "Republic"
+    },
+    {
+        "country": "Jamaica",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Japan",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Jordan",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Kazakstan",
+        "government": "Republic"
+    },
+    {
+        "country": "Kenya",
+        "government": "Republic"
+    },
+    {
+        "country": "Kiribati",
+        "government": "Republic"
+    },
+    {
+        "country": "Kuwait",
+        "government": "Constitutional Monarchy (Emirate)"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "government": "Republic"
+    },
+    {
+        "country": "Laos",
+        "government": "Republic"
+    },
+    {
+        "country": "Latvia",
+        "government": "Republic"
+    },
+    {
+        "country": "Lebanon",
+        "government": "Republic"
+    },
+    {
+        "country": "Lesotho",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Liberia",
+        "government": "Republic"
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "government": "Socialistic State"
+    },
+    {
+        "country": "Liechtenstein",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Lithuania",
+        "government": "Republic"
+    },
+    {
+        "country": "Luxembourg",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Macao",
+        "government": "Special Administrative Region of China"
+    },
+    {
+        "country": "Macedonia",
+        "government": "Republic"
+    },
+    {
+        "country": "Madagascar",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Malawi",
+        "government": "Republic"
+    },
+    {
+        "country": "Malaysia",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Maldives",
+        "government": "Republic"
+    },
+    {
+        "country": "Mali",
+        "government": "Republic"
+    },
+    {
+        "country": "Malta",
+        "government": "Republic"
+    },
+    {
+        "country": "Marshall Islands",
+        "government": "Republic"
+    },
+    {
+        "country": "Martinique",
+        "government": "Overseas Department of France"
+    },
+    {
+        "country": "Mauritania",
+        "government": "Republic"
+    },
+    {
+        "country": "Mauritius",
+        "government": "Republic"
+    },
+    {
+        "country": "Mayotte",
+        "government": "Territorial Collectivity of France"
+    },
+    {
+        "country": "Mexico",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Moldova",
+        "government": "Republic"
+    },
+    {
+        "country": "Monaco",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Mongolia",
+        "government": "Republic"
+    },
+    {
+        "country": "Montserrat",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Morocco",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Mozambique",
+        "government": "Republic"
+    },
+    {
+        "country": "Myanmar",
+        "government": "Republic"
+    },
+    {
+        "country": "Namibia",
+        "government": "Republic"
+    },
+    {
+        "country": "Nauru",
+        "government": "Republic"
+    },
+    {
+        "country": "Nepal",
+        "government": "Federal parliamentary republic"
+    },
+    {
+        "country": "Netherlands",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "government": "Nonmetropolitan Territory of The Netherlands"
+    },
+    {
+        "country": "New Caledonia",
+        "government": "Nonmetropolitan Territory of France"
+    },
+    {
+        "country": "New Zealand",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Nicaragua",
+        "government": "Republic"
+    },
+    {
+        "country": "Niger",
+        "government": "Republic"
+    },
+    {
+        "country": "Nigeria",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Niue",
+        "government": "Nonmetropolitan Territory of New Zealand"
+    },
+    {
+        "country": "Norfolk Island",
+        "government": "Territory of Australia"
+    },
+    {
+        "country": "North Korea",
+        "government": "Socialistic Republic"
+    },
+    {
+        "country": "Northern Ireland",
+        "government": null
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "government": "Commonwealth of the US"
+    },
+    {
+        "country": "Norway",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Oman",
+        "government": "Monarchy (Sultanate)"
+    },
+    {
+        "country": "Pakistan",
+        "government": "Republic"
+    },
+    {
+        "country": "Palau",
+        "government": "Republic"
+    },
+    {
+        "country": "Palestine",
+        "government": "Autonomous Area"
+    },
+    {
+        "country": "Panama",
+        "government": "Republic"
+    },
+    {
+        "country": "Papua New Guinea",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Paraguay",
+        "government": "Republic"
+    },
+    {
+        "country": "Peru",
+        "government": "Republic"
+    },
+    {
+        "country": "Philippines",
+        "government": "Republic"
+    },
+    {
+        "country": "Pitcairn",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Poland",
+        "government": "Republic"
+    },
+    {
+        "country": "Portugal",
+        "government": "Republic"
+    },
+    {
+        "country": "Puerto Rico",
+        "government": "Commonwealth of the US"
+    },
+    {
+        "country": "Qatar",
+        "government": "Monarchy"
+    },
+    {
+        "country": "Reunion",
+        "government": "Overseas Department of France"
+    },
+    {
+        "country": "Romania",
+        "government": "Republic"
+    },
+    {
+        "country": "Russian Federation",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Rwanda",
+        "government": "Republic"
+    },
+    {
+        "country": "Saint Helena",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Saint Lucia",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "government": "Territorial Collectivity of France"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Samoa",
+        "government": "Parlementary Monarchy"
+    },
+    {
+        "country": "San Marino",
+        "government": "Republic"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "government": "Republic"
+    },
+    {
+        "country": "Saudi Arabia",
+        "government": "Monarchy"
+    },
+    {
+        "country": "Scotland",
+        "government": null
+    },
+    {
+        "country": "Senegal",
+        "government": "Republic"
+    },
+    {
+        "country": "Seychelles",
+        "government": "Republic"
+    },
+    {
+        "country": "Sierra Leone",
+        "government": "Republic"
+    },
+    {
+        "country": "Singapore",
+        "government": "Republic"
+    },
+    {
+        "country": "Slovakia",
+        "government": "Republic"
+    },
+    {
+        "country": "Slovenia",
+        "government": "Republic"
+    },
+    {
+        "country": "Solomon Islands",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Somalia",
+        "government": "Republic"
+    },
+    {
+        "country": "South Africa",
+        "government": "Republic"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "South Korea",
+        "government": "Republic"
+    },
+    {
+        "country": "South Sudan",
+        "government": null
+    },
+    {
+        "country": "Spain",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "SriLanka",
+        "government": null
+    },
+    {
+        "country": "Sudan",
+        "government": "Islamic Republic"
+    },
+    {
+        "country": "Suriname",
+        "government": "Republic"
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "government": "Dependent Territory of Norway"
+    },
+    {
+        "country": "Swaziland",
+        "government": "Monarchy"
+    },
+    {
+        "country": "Sweden",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Switzerland",
+        "government": "Federation"
+    },
+    {
+        "country": "Syria",
+        "government": "Republic"
+    },
+    {
+        "country": "Tajikistan",
+        "government": "Republic"
+    },
+    {
+        "country": "Tanzania",
+        "government": "Republic"
+    },
+    {
+        "country": "Thailand",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "government": null
+    },
+    {
+        "country": "Togo",
+        "government": "Republic"
+    },
+    {
+        "country": "Tokelau",
+        "government": "Nonmetropolitan Territory of New Zealand"
+    },
+    {
+        "country": "Tonga",
+        "government": "Monarchy"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "government": "Republic"
+    },
+    {
+        "country": "Tunisia",
+        "government": "Republic"
+    },
+    {
+        "country": "Turkey",
+        "government": "Republic"
+    },
+    {
+        "country": "Turkmenistan",
+        "government": "Republic"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "government": "Dependent Territory of the UK"
+    },
+    {
+        "country": "Tuvalu",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "Uganda",
+        "government": "Republic"
+    },
+    {
+        "country": "Ukraine",
+        "government": "Republic"
+    },
+    {
+        "country": "United Arab Emirates",
+        "government": "Emirate Federation"
+    },
+    {
+        "country": "United Kingdom",
+        "government": "Constitutional Monarchy"
+    },
+    {
+        "country": "United States",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "government": "Dependent Territory of the US"
+    },
+    {
+        "country": "Uruguay",
+        "government": "Republic"
+    },
+    {
+        "country": "Uzbekistan",
+        "government": "Republic"
+    },
+    {
+        "country": "Vanuatu",
+        "government": "Republic"
+    },
+    {
+        "country": "Venezuela",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Vietnam",
+        "government": "Socialistic Republic"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "government": null
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "government": null
+    },
+    {
+        "country": "Wales",
+        "government": null
+    },
+    {
+        "country": "Wallis and Futuna",
+        "government": "Nonmetropolitan Territory of France"
+    },
+    {
+        "country": "Western Sahara",
+        "government": "Occupied by Marocco"
+    },
+    {
+        "country": "Yemen",
+        "government": "Republic"
+    },
+    {
+        "country": "Yugoslavia",
+        "government": "Federal Republic"
+    },
+    {
+        "country": "Zambia",
+        "government": "Republic"
+    },
+    {
+        "country": "Zimbabwe",
+        "government": "Republic"
+    }
 ]

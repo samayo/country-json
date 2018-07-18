@@ -1,247 +1,974 @@
 [
-{"country" : "Afghanistan", "landlocked" : true},
-{"country" : "Albania", "landlocked" : false},
-{"country" : "Algeria", "landlocked" : false},
-{"country" : "American Samoa", "landlocked" : false},
-{"country" : "Andorra", "landlocked" : true},
-{"country" : "Angola", "landlocked" : false},
-{"country" : "Anguilla", "landlocked" : false},
-{"country" : "Antarctica", "landlocked" : false},
-{"country" : "Antigua and Barbuda", "landlocked" : false},
-{"country" : "Argentina", "landlocked" : false},
-{"country" : "Armenia", "landlocked" : true},
-{"country" : "Aruba", "landlocked" : false},
-{"country" : "Australia", "landlocked" : false},
-{"country" : "Austria", "landlocked" : true},
-{"country" : "Azerbaijan", "landlocked" : true},
-{"country" : "Bahamas", "landlocked" : false},
-{"country" : "Bahrain", "landlocked" : false},
-{"country" : "Bangladesh", "landlocked" : false},
-{"country" : "Barbados", "landlocked" : false},
-{"country" : "Belarus", "landlocked" : true},
-{"country" : "Belgium", "landlocked" : false},
-{"country" : "Belize", "landlocked" : false},
-{"country" : "Benin", "landlocked" : false},
-{"country" : "Bermuda", "landlocked" : false},
-{"country" : "Bhutan", "landlocked" : true},
-{"country" : "Bolivia", "landlocked" : true},
-{"country" : "Bosnia and Herzegovina", "landlocked" : false},
-{"country" : "Botswana", "landlocked" : true},
-{"country" : "Bouvet Island", "landlocked" : false},
-{"country" : "Brazil", "landlocked" : false},
-{"country" : "British Indian Ocean Territory", "landlocked" : false},
-{"country" : "Brunei", "landlocked" : false},
-{"country" : "Bulgaria", "landlocked" : false},
-{"country" : "Burkina Faso", "landlocked" : true},
-{"country" : "Burundi", "landlocked" : true},
-{"country" : "Cambodia", "landlocked" : false},
-{"country" : "Cameroon", "landlocked" : false},
-{"country" : "Canada", "landlocked" : false},
-{"country" : "Cape Verde", "landlocked" : false},
-{"country" : "Cayman Islands", "landlocked" : false},
-{"country" : "Central African Republic", "landlocked" : true},
-{"country" : "Chad", "landlocked" : true},
-{"country" : "Chile", "landlocked" : false},
-{"country" : "China", "landlocked" : false},
-{"country" : "Christmas Island", "landlocked" : false},
-{"country" : "Cocos (Keeling) Islands", "landlocked" : false},
-{"country" : "Colombia", "landlocked" : false},
-{"country" : "Comoros", "landlocked" : false},
-{"country" : "Congo", "landlocked" : false},
-{"country" : "Congo, The Democratic Republic of the", "landlocked" : false},
-{"country" : "Cook Islands", "landlocked" : false},
-{"country" : "Costa Rica", "landlocked" : false},
-{"country" : "Ivory Coast", "landlocked" : false},
-{"country" : "Croatia", "landlocked" : false},
-{"country" : "Cuba", "landlocked" : false},
-{"country" : "Cyprus", "landlocked" : false},
-{"country" : "Czech Republic", "landlocked" : true},
-{"country" : "Denmark", "landlocked" : false},
-{"country" : "Djibouti", "landlocked" : false},
-{"country" : "Dominica", "landlocked" : false},
-{"country" : "Dominican Republic", "landlocked" : false},
-{"country" : "East Timor", "landlocked" : false},
-{"country" : "Ecuador", "landlocked" : false},
-{"country" : "Egypt", "landlocked" : false},
-{"country" : "England", "landlocked" : false},
-{"country" : "El Salvador", "landlocked" : false},
-{"country" : "Equatorial Guinea", "landlocked" : false},
-{"country" : "Eritrea", "landlocked" : false},
-{"country" : "Estonia", "landlocked" : false},
-{"country" : "Ethiopia", "landlocked" : true},
-{"country" : "Falkland Islands", "landlocked" : false},
-{"country" : "Faroe Islands", "landlocked" : false},
-{"country" : "Fiji Islands", "landlocked" : false},
-{"country" : "Finland", "landlocked" : false},
-{"country" : "France", "landlocked" : false},
-{"country" : "French Guiana", "landlocked" : false},
-{"country" : "French Polynesia", "landlocked" : false},
-{"country" : "French Southern territories", "landlocked" : false},
-{"country" : "Gabon", "landlocked" : false},
-{"country" : "Gambia", "landlocked" : false},
-{"country" : "Georgia", "landlocked" : false},
-{"country" : "Germany", "landlocked" : false},
-{"country" : "Ghana", "landlocked" : false},
-{"country" : "Gibraltar", "landlocked" : false},
-{"country" : "Greece", "landlocked" : false},
-{"country" : "Greenland", "landlocked" : false},
-{"country" : "Grenada", "landlocked" : false},
-{"country" : "Guadeloupe", "landlocked" : false},
-{"country" : "Guam", "landlocked" : false},
-{"country" : "Guatemala", "landlocked" : false},
-{"country" : "Guinea", "landlocked" : false},
-{"country" : "Guinea-Bissau", "landlocked" : false},
-{"country" : "Guyana", "landlocked" : false},
-{"country" : "Haiti", "landlocked" : false},
-{"country" : "Heard Island and McDonald Islands", "landlocked" : false},
-{"country" : "Honduras", "landlocked" : false},
-{"country" : "Hong Kong", "landlocked" : false},
-{"country" : "Hungary", "landlocked" : true},
-{"country" : "Iceland", "landlocked" : false},
-{"country" : "India", "landlocked" : false},
-{"country" : "Indonesia", "landlocked" : false},
-{"country" : "Iran", "landlocked" : false},
-{"country" : "Iraq", "landlocked" : false},
-{"country" : "Ireland", "landlocked" : false},
-{"country" : "Israel", "landlocked" : false},
-{"country" : "Italy", "landlocked" : false},
-{"country" : "Jamaica", "landlocked" : false},
-{"country" : "Japan", "landlocked" : false},
-{"country" : "Jordan", "landlocked" : false},
-{"country" : "Kazakstan", "landlocked" : true},
-{"country" : "Kenya", "landlocked" : false},
-{"country" : "Kiribati", "landlocked" : false},
-{"country" : "Kuwait", "landlocked" : false},
-{"country" : "Kyrgyzstan", "landlocked" : true},
-{"country" : "Laos", "landlocked" : true},
-{"country" : "Latvia", "landlocked" : false},
-{"country" : "Lebanon", "landlocked" : false},
-{"country" : "Lesotho", "landlocked" : true},
-{"country" : "Liberia", "landlocked" : false},
-{"country" : "Libyan Arab Jamahiriya", "landlocked" : false},
-{"country" : "Liechtenstein", "landlocked" : true},
-{"country" : "Lithuania", "landlocked" : false},
-{"country" : "Luxembourg", "landlocked" : true},
-{"country" : "Macao", "landlocked" : false},
-{"country" : "Macedonia", "landlocked" : true},
-{"country" : "Madagascar", "landlocked" : false},
-{"country" : "Malawi", "landlocked" : true},
-{"country" : "Malaysia", "landlocked" : false},
-{"country" : "Maldives", "landlocked" : false},
-{"country" : "Mali", "landlocked" : true},
-{"country" : "Malta", "landlocked" : false},
-{"country" : "Marshall Islands", "landlocked" : false},
-{"country" : "Martinique", "landlocked" : false},
-{"country" : "Mauritania", "landlocked" : false},
-{"country" : "Mauritius", "landlocked" : false},
-{"country" : "Mayotte", "landlocked" : false},
-{"country" : "Mexico", "landlocked" : false},
-{"country" : "Micronesia, Federated States of", "landlocked" : false},
-{"country" : "Moldova", "landlocked" : true},
-{"country" : "Monaco", "landlocked" : false},
-{"country" : "Mongolia", "landlocked" : true},
-{"country" : "Montserrat", "landlocked" : false},
-{"country" : "Morocco", "landlocked" : false},
-{"country" : "Mozambique", "landlocked" : false},
-{"country" : "Myanmar", "landlocked" : false},
-{"country" : "Namibia", "landlocked" : false},
-{"country" : "Nauru", "landlocked" : false},
-{"country" : "Nepal", "landlocked" : true},
-{"country" : "Netherlands", "landlocked" : false},
-{"country" : "Netherlands Antilles", "landlocked" : false},
-{"country" : "New Caledonia", "landlocked" : false},
-{"country" : "New Zealand", "landlocked" : false},
-{"country" : "Nicaragua", "landlocked" : false},
-{"country" : "Niger", "landlocked" : true},
-{"country" : "Nigeria", "landlocked" : false},
-{"country" : "Niue", "landlocked" : false},
-{"country" : "Norfolk Island", "landlocked" : false},
-{"country" : "North Korea", "landlocked" : false},
-{"country" : "Northern Ireland", "landlocked" : false},
-{"country" : "Northern Mariana Islands", "landlocked" : false},
-{"country" : "Norway", "landlocked" : false},
-{"country" : "Oman", "landlocked" : false},
-{"country" : "Pakistan", "landlocked" : false},
-{"country" : "Palau", "landlocked" : false},
-{"country" : "Palestine", "landlocked" : false},
-{"country" : "Panama", "landlocked" : false},
-{"country" : "Papua New Guinea", "landlocked" : false},
-{"country" : "Paraguay", "landlocked" : true},
-{"country" : "Peru", "landlocked" : false},
-{"country" : "Philippines", "landlocked" : false},
-{"country" : "Pitcairn", "landlocked" : false},
-{"country" : "Poland", "landlocked" : false},
-{"country" : "Portugal", "landlocked" : false},
-{"country" : "Puerto Rico", "landlocked" : false},
-{"country" : "Qatar", "landlocked" : false},
-{"country" : "Reunion", "landlocked" : false},
-{"country" : "Romania", "landlocked" : false},
-{"country" : "Russian Federation", "landlocked" : false},
-{"country" : "Rwanda", "landlocked" : true},
-{"country" : "Saint Helena", "landlocked" : false},
-{"country" : "Saint Kitts and Nevis", "landlocked" : false},
-{"country" : "Saint Lucia", "landlocked" : false},
-{"country" : "Saint Pierre and Miquelon", "landlocked" : false},
-{"country" : "Saint Vincent and the Grenadines", "landlocked" : false},
-{"country" : "Samoa", "landlocked" : false},
-{"country" : "San Marino", "landlocked" : true},
-{"country" : "Sao Tome and Principe", "landlocked" : false},
-{"country" : "Saudi Arabia", "landlocked" : false},
-{"country" : "Scotland", "landlocked" : false},
-{"country" : "Senegal", "landlocked" : false},
-{"country" : "Serbia", "landlocked" : true},
-{"country" : "Seychelles", "landlocked" : false},
-{"country" : "Sierra Leone", "landlocked" : false},
-{"country" : "Singapore", "landlocked" : false},
-{"country" : "Slovakia", "landlocked" : true},
-{"country" : "Slovenia", "landlocked" : false},
-{"country" : "Solomon Islands", "landlocked" : false},
-{"country" : "Somalia", "landlocked" : false},
-{"country" : "South Africa", "landlocked" : false},
-{"country" : "South Georgia and the South Sandwich Islands", "landlocked" : false},
-{"country" : "South Korea", "landlocked" : false},
-{"country" : "South Sudan", "landlocked" : true},
-{"country" : "Spain", "landlocked" : false},
-{"country" : "SriLanka", "landlocked" : false},
-{"country" : "Sudan", "landlocked" : false},
-{"country" : "Suriname", "landlocked" : false},
-{"country" : "Svalbard and Jan Mayen", "landlocked" : false},
-{"country" : "Swaziland", "landlocked" : true},
-{"country" : "Sweden", "landlocked" : false},
-{"country" : "Switzerland", "landlocked" : true},
-{"country" : "Syria", "landlocked" : false},
-{"country" : "Taiwan", "landlocked" : false},
-{"country" : "Tajikistan", "landlocked" : true},
-{"country" : "Tanzania", "landlocked" : false},
-{"country" : "Thailand", "landlocked" : false},
-{"country" : "Togo", "landlocked" : false},
-{"country" : "Tokelau", "landlocked" : false},
-{"country" : "Tonga", "landlocked" : false},
-{"country" : "Trinidad and Tobago", "landlocked" : false},
-{"country" : "Tunisia", "landlocked" : false},
-{"country" : "Turkey", "landlocked" : false},
-{"country" : "Turkmenistan", "landlocked" : true},
-{"country" : "Turks and Caicos Islands", "landlocked" : false},
-{"country" : "Tuvalu", "landlocked" : false},
-{"country" : "Uganda", "landlocked" : true},
-{"country" : "Ukraine", "landlocked" : false},
-{"country" : "United Arab Emirates", "landlocked" : false},
-{"country" : "United Kingdom", "landlocked" : false},
-{"country" : "United States", "landlocked" : false},
-{"country" : "United States Minor Outlying Islands", "landlocked" : false},
-{"country" : "Uruguay", "landlocked" : false},
-{"country" : "Uzbekistan", "landlocked" : true},
-{"country" : "Vatican City", "landlocked" : true},
-{"country" : "Vanuatu", "landlocked" : false},
-{"country" : "Venezuela", "landlocked" : false},
-{"country" : "Vietnam", "landlocked" : false},
-{"country" : "Virgin Islands, British", "landlocked" : false},
-{"country" : "Virgin Islands, U.S.", "landlocked" : false},
-{"country" : "Wales", "landlocked" : false},
-{"country" : "Wallis and Futuna", "landlocked" : false},
-{"country" : "Western Sahara", "landlocked" : false},
-{"country" : "Yemen", "landlocked" : false},
-{"country" : "Yugoslavia", "landlocked" : false},
-{"country" : "Zambia", "landlocked" : true},
-{"country" : "Zimbabwe",  "landlocked" : true}
+    {
+        "country": "Afghanistan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Albania",
+        "landlocked": ""
+    },
+    {
+        "country": "Algeria",
+        "landlocked": ""
+    },
+    {
+        "country": "American Samoa",
+        "landlocked": ""
+    },
+    {
+        "country": "Andorra",
+        "landlocked": "1"
+    },
+    {
+        "country": "Angola",
+        "landlocked": ""
+    },
+    {
+        "country": "Anguilla",
+        "landlocked": ""
+    },
+    {
+        "country": "Antarctica",
+        "landlocked": ""
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "landlocked": ""
+    },
+    {
+        "country": "Argentina",
+        "landlocked": ""
+    },
+    {
+        "country": "Armenia",
+        "landlocked": "1"
+    },
+    {
+        "country": "Aruba",
+        "landlocked": ""
+    },
+    {
+        "country": "Australia",
+        "landlocked": ""
+    },
+    {
+        "country": "Austria",
+        "landlocked": "1"
+    },
+    {
+        "country": "Azerbaijan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Bahamas",
+        "landlocked": ""
+    },
+    {
+        "country": "Bahrain",
+        "landlocked": ""
+    },
+    {
+        "country": "Bangladesh",
+        "landlocked": ""
+    },
+    {
+        "country": "Barbados",
+        "landlocked": ""
+    },
+    {
+        "country": "Belarus",
+        "landlocked": "1"
+    },
+    {
+        "country": "Belgium",
+        "landlocked": ""
+    },
+    {
+        "country": "Belize",
+        "landlocked": ""
+    },
+    {
+        "country": "Benin",
+        "landlocked": ""
+    },
+    {
+        "country": "Bermuda",
+        "landlocked": ""
+    },
+    {
+        "country": "Bhutan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Bolivia",
+        "landlocked": "1"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "landlocked": ""
+    },
+    {
+        "country": "Botswana",
+        "landlocked": "1"
+    },
+    {
+        "country": "Bouvet Island",
+        "landlocked": ""
+    },
+    {
+        "country": "Brazil",
+        "landlocked": ""
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "landlocked": ""
+    },
+    {
+        "country": "Brunei",
+        "landlocked": ""
+    },
+    {
+        "country": "Bulgaria",
+        "landlocked": ""
+    },
+    {
+        "country": "Burkina Faso",
+        "landlocked": "1"
+    },
+    {
+        "country": "Burundi",
+        "landlocked": "1"
+    },
+    {
+        "country": "Cambodia",
+        "landlocked": ""
+    },
+    {
+        "country": "Cameroon",
+        "landlocked": ""
+    },
+    {
+        "country": "Canada",
+        "landlocked": ""
+    },
+    {
+        "country": "Cape Verde",
+        "landlocked": ""
+    },
+    {
+        "country": "Cayman Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Central African Republic",
+        "landlocked": "1"
+    },
+    {
+        "country": "Chad",
+        "landlocked": "1"
+    },
+    {
+        "country": "Chile",
+        "landlocked": ""
+    },
+    {
+        "country": "China",
+        "landlocked": ""
+    },
+    {
+        "country": "Christmas Island",
+        "landlocked": ""
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Colombia",
+        "landlocked": ""
+    },
+    {
+        "country": "Comoros",
+        "landlocked": ""
+    },
+    {
+        "country": "Congo",
+        "landlocked": ""
+    },
+    {
+        "country": "Cook Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Costa Rica",
+        "landlocked": ""
+    },
+    {
+        "country": "Croatia",
+        "landlocked": ""
+    },
+    {
+        "country": "Cuba",
+        "landlocked": ""
+    },
+    {
+        "country": "Cyprus",
+        "landlocked": ""
+    },
+    {
+        "country": "Czech Republic",
+        "landlocked": "1"
+    },
+    {
+        "country": "Denmark",
+        "landlocked": ""
+    },
+    {
+        "country": "Djibouti",
+        "landlocked": ""
+    },
+    {
+        "country": "Dominica",
+        "landlocked": ""
+    },
+    {
+        "country": "Dominican Republic",
+        "landlocked": ""
+    },
+    {
+        "country": "East Timor",
+        "landlocked": ""
+    },
+    {
+        "country": "Ecuador",
+        "landlocked": ""
+    },
+    {
+        "country": "Egypt",
+        "landlocked": ""
+    },
+    {
+        "country": "El Salvador",
+        "landlocked": ""
+    },
+    {
+        "country": "England",
+        "landlocked": ""
+    },
+    {
+        "country": "Equatorial Guinea",
+        "landlocked": ""
+    },
+    {
+        "country": "Eritrea",
+        "landlocked": ""
+    },
+    {
+        "country": "Estonia",
+        "landlocked": ""
+    },
+    {
+        "country": "Ethiopia",
+        "landlocked": "1"
+    },
+    {
+        "country": "Falkland Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Faroe Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Fiji Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Finland",
+        "landlocked": ""
+    },
+    {
+        "country": "France",
+        "landlocked": ""
+    },
+    {
+        "country": "French Guiana",
+        "landlocked": ""
+    },
+    {
+        "country": "French Polynesia",
+        "landlocked": ""
+    },
+    {
+        "country": "French Southern territories",
+        "landlocked": ""
+    },
+    {
+        "country": "Gabon",
+        "landlocked": ""
+    },
+    {
+        "country": "Gambia",
+        "landlocked": ""
+    },
+    {
+        "country": "Georgia",
+        "landlocked": ""
+    },
+    {
+        "country": "Germany",
+        "landlocked": ""
+    },
+    {
+        "country": "Ghana",
+        "landlocked": ""
+    },
+    {
+        "country": "Gibraltar",
+        "landlocked": ""
+    },
+    {
+        "country": "Greece",
+        "landlocked": ""
+    },
+    {
+        "country": "Greenland",
+        "landlocked": ""
+    },
+    {
+        "country": "Grenada",
+        "landlocked": ""
+    },
+    {
+        "country": "Guadeloupe",
+        "landlocked": ""
+    },
+    {
+        "country": "Guam",
+        "landlocked": ""
+    },
+    {
+        "country": "Guatemala",
+        "landlocked": ""
+    },
+    {
+        "country": "Guinea",
+        "landlocked": ""
+    },
+    {
+        "country": "Guinea-Bissau",
+        "landlocked": ""
+    },
+    {
+        "country": "Guyana",
+        "landlocked": ""
+    },
+    {
+        "country": "Haiti",
+        "landlocked": ""
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "landlocked": null
+    },
+    {
+        "country": "Honduras",
+        "landlocked": ""
+    },
+    {
+        "country": "Hong Kong",
+        "landlocked": ""
+    },
+    {
+        "country": "Hungary",
+        "landlocked": "1"
+    },
+    {
+        "country": "Iceland",
+        "landlocked": ""
+    },
+    {
+        "country": "India",
+        "landlocked": ""
+    },
+    {
+        "country": "Indonesia",
+        "landlocked": ""
+    },
+    {
+        "country": "Iran",
+        "landlocked": ""
+    },
+    {
+        "country": "Iraq",
+        "landlocked": ""
+    },
+    {
+        "country": "Ireland",
+        "landlocked": ""
+    },
+    {
+        "country": "Israel",
+        "landlocked": ""
+    },
+    {
+        "country": "Italy",
+        "landlocked": ""
+    },
+    {
+        "country": "Ivory Coast",
+        "landlocked": ""
+    },
+    {
+        "country": "Jamaica",
+        "landlocked": ""
+    },
+    {
+        "country": "Japan",
+        "landlocked": ""
+    },
+    {
+        "country": "Jordan",
+        "landlocked": ""
+    },
+    {
+        "country": "Kazakstan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Kenya",
+        "landlocked": ""
+    },
+    {
+        "country": "Kiribati",
+        "landlocked": ""
+    },
+    {
+        "country": "Kuwait",
+        "landlocked": ""
+    },
+    {
+        "country": "Kyrgyzstan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Laos",
+        "landlocked": "1"
+    },
+    {
+        "country": "Latvia",
+        "landlocked": ""
+    },
+    {
+        "country": "Lebanon",
+        "landlocked": ""
+    },
+    {
+        "country": "Lesotho",
+        "landlocked": "1"
+    },
+    {
+        "country": "Liberia",
+        "landlocked": ""
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "landlocked": ""
+    },
+    {
+        "country": "Liechtenstein",
+        "landlocked": "1"
+    },
+    {
+        "country": "Lithuania",
+        "landlocked": ""
+    },
+    {
+        "country": "Luxembourg",
+        "landlocked": "1"
+    },
+    {
+        "country": "Macao",
+        "landlocked": ""
+    },
+    {
+        "country": "Macedonia",
+        "landlocked": "1"
+    },
+    {
+        "country": "Madagascar",
+        "landlocked": ""
+    },
+    {
+        "country": "Malawi",
+        "landlocked": "1"
+    },
+    {
+        "country": "Malaysia",
+        "landlocked": ""
+    },
+    {
+        "country": "Maldives",
+        "landlocked": ""
+    },
+    {
+        "country": "Mali",
+        "landlocked": "1"
+    },
+    {
+        "country": "Malta",
+        "landlocked": ""
+    },
+    {
+        "country": "Marshall Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Martinique",
+        "landlocked": ""
+    },
+    {
+        "country": "Mauritania",
+        "landlocked": ""
+    },
+    {
+        "country": "Mauritius",
+        "landlocked": ""
+    },
+    {
+        "country": "Mayotte",
+        "landlocked": ""
+    },
+    {
+        "country": "Mexico",
+        "landlocked": ""
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "landlocked": ""
+    },
+    {
+        "country": "Moldova",
+        "landlocked": "1"
+    },
+    {
+        "country": "Monaco",
+        "landlocked": ""
+    },
+    {
+        "country": "Mongolia",
+        "landlocked": "1"
+    },
+    {
+        "country": "Montserrat",
+        "landlocked": ""
+    },
+    {
+        "country": "Morocco",
+        "landlocked": ""
+    },
+    {
+        "country": "Mozambique",
+        "landlocked": ""
+    },
+    {
+        "country": "Myanmar",
+        "landlocked": ""
+    },
+    {
+        "country": "Namibia",
+        "landlocked": ""
+    },
+    {
+        "country": "Nauru",
+        "landlocked": ""
+    },
+    {
+        "country": "Nepal",
+        "landlocked": "1"
+    },
+    {
+        "country": "Netherlands",
+        "landlocked": ""
+    },
+    {
+        "country": "Netherlands Antilles",
+        "landlocked": ""
+    },
+    {
+        "country": "New Caledonia",
+        "landlocked": ""
+    },
+    {
+        "country": "New Zealand",
+        "landlocked": ""
+    },
+    {
+        "country": "Nicaragua",
+        "landlocked": ""
+    },
+    {
+        "country": "Niger",
+        "landlocked": "1"
+    },
+    {
+        "country": "Nigeria",
+        "landlocked": ""
+    },
+    {
+        "country": "Niue",
+        "landlocked": ""
+    },
+    {
+        "country": "Norfolk Island",
+        "landlocked": ""
+    },
+    {
+        "country": "North Korea",
+        "landlocked": ""
+    },
+    {
+        "country": "Northern Ireland",
+        "landlocked": ""
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Norway",
+        "landlocked": ""
+    },
+    {
+        "country": "Oman",
+        "landlocked": ""
+    },
+    {
+        "country": "Pakistan",
+        "landlocked": ""
+    },
+    {
+        "country": "Palau",
+        "landlocked": ""
+    },
+    {
+        "country": "Palestine",
+        "landlocked": ""
+    },
+    {
+        "country": "Panama",
+        "landlocked": ""
+    },
+    {
+        "country": "Papua New Guinea",
+        "landlocked": ""
+    },
+    {
+        "country": "Paraguay",
+        "landlocked": "1"
+    },
+    {
+        "country": "Peru",
+        "landlocked": ""
+    },
+    {
+        "country": "Philippines",
+        "landlocked": ""
+    },
+    {
+        "country": "Pitcairn",
+        "landlocked": ""
+    },
+    {
+        "country": "Poland",
+        "landlocked": ""
+    },
+    {
+        "country": "Portugal",
+        "landlocked": ""
+    },
+    {
+        "country": "Puerto Rico",
+        "landlocked": ""
+    },
+    {
+        "country": "Qatar",
+        "landlocked": ""
+    },
+    {
+        "country": "Reunion",
+        "landlocked": ""
+    },
+    {
+        "country": "Romania",
+        "landlocked": ""
+    },
+    {
+        "country": "Russian Federation",
+        "landlocked": ""
+    },
+    {
+        "country": "Rwanda",
+        "landlocked": "1"
+    },
+    {
+        "country": "Saint Helena",
+        "landlocked": ""
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "landlocked": ""
+    },
+    {
+        "country": "Saint Lucia",
+        "landlocked": ""
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "landlocked": ""
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "landlocked": ""
+    },
+    {
+        "country": "Samoa",
+        "landlocked": ""
+    },
+    {
+        "country": "San Marino",
+        "landlocked": "1"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "landlocked": ""
+    },
+    {
+        "country": "Saudi Arabia",
+        "landlocked": ""
+    },
+    {
+        "country": "Scotland",
+        "landlocked": ""
+    },
+    {
+        "country": "Senegal",
+        "landlocked": ""
+    },
+    {
+        "country": "Seychelles",
+        "landlocked": ""
+    },
+    {
+        "country": "Sierra Leone",
+        "landlocked": ""
+    },
+    {
+        "country": "Singapore",
+        "landlocked": ""
+    },
+    {
+        "country": "Slovakia",
+        "landlocked": "1"
+    },
+    {
+        "country": "Slovenia",
+        "landlocked": ""
+    },
+    {
+        "country": "Solomon Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Somalia",
+        "landlocked": ""
+    },
+    {
+        "country": "South Africa",
+        "landlocked": ""
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "South Korea",
+        "landlocked": ""
+    },
+    {
+        "country": "South Sudan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Spain",
+        "landlocked": ""
+    },
+    {
+        "country": "SriLanka",
+        "landlocked": ""
+    },
+    {
+        "country": "Sudan",
+        "landlocked": ""
+    },
+    {
+        "country": "Suriname",
+        "landlocked": ""
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "landlocked": ""
+    },
+    {
+        "country": "Swaziland",
+        "landlocked": "1"
+    },
+    {
+        "country": "Sweden",
+        "landlocked": ""
+    },
+    {
+        "country": "Switzerland",
+        "landlocked": "1"
+    },
+    {
+        "country": "Syria",
+        "landlocked": ""
+    },
+    {
+        "country": "Tajikistan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Tanzania",
+        "landlocked": ""
+    },
+    {
+        "country": "Thailand",
+        "landlocked": ""
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "landlocked": null
+    },
+    {
+        "country": "Togo",
+        "landlocked": ""
+    },
+    {
+        "country": "Tokelau",
+        "landlocked": ""
+    },
+    {
+        "country": "Tonga",
+        "landlocked": ""
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "landlocked": ""
+    },
+    {
+        "country": "Tunisia",
+        "landlocked": ""
+    },
+    {
+        "country": "Turkey",
+        "landlocked": ""
+    },
+    {
+        "country": "Turkmenistan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Tuvalu",
+        "landlocked": ""
+    },
+    {
+        "country": "Uganda",
+        "landlocked": "1"
+    },
+    {
+        "country": "Ukraine",
+        "landlocked": ""
+    },
+    {
+        "country": "United Arab Emirates",
+        "landlocked": ""
+    },
+    {
+        "country": "United Kingdom",
+        "landlocked": ""
+    },
+    {
+        "country": "United States",
+        "landlocked": ""
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "landlocked": ""
+    },
+    {
+        "country": "Uruguay",
+        "landlocked": ""
+    },
+    {
+        "country": "Uzbekistan",
+        "landlocked": "1"
+    },
+    {
+        "country": "Vanuatu",
+        "landlocked": ""
+    },
+    {
+        "country": "Venezuela",
+        "landlocked": ""
+    },
+    {
+        "country": "Vietnam",
+        "landlocked": ""
+    },
+    {
+        "country": "Virgin Islands, British",
+        "landlocked": ""
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "landlocked": ""
+    },
+    {
+        "country": "Wales",
+        "landlocked": ""
+    },
+    {
+        "country": "Wallis and Futuna",
+        "landlocked": ""
+    },
+    {
+        "country": "Western Sahara",
+        "landlocked": ""
+    },
+    {
+        "country": "Yemen",
+        "landlocked": ""
+    },
+    {
+        "country": "Yugoslavia",
+        "landlocked": ""
+    },
+    {
+        "country": "Zambia",
+        "landlocked": "1"
+    },
+    {
+        "country": "Zimbabwe",
+        "landlocked": "1"
+    }
 ]
