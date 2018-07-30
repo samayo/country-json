@@ -1,168 +1,974 @@
 [
-{"country" : "Afghanistan", "dish" : "Kabuli Palaw"},
-{"country" : "Albania", "dish" : "Tavë kosi"},
-{"country" : "Algeria", "dish" : "Couscous "},
-{"country" : "Angola", "dish" : "Moamba de galinha "},
-{"country" : "Antigua and Barbuda", "dish" : "Pepperpot, Fungee"},
-{"country" : "Argentina", "dish" : "Asado"},
-{"country" : "Armenia", "dish" : "Harissa, Dolma, Khorovats"},
-{"country" : "Aruba", "dish" : "Keshi yena"},
-{"country" : "Australia", "dish" : "Meat pie,Roast lamb "},
-{"country" : "Austria", "dish" : "Wiener schnitzel, Tafelspitz"},
-{"country" : "Azerbaijan", "dish" : "Dolma"},
-{"country" : "Bahamas", "dish" : "Crack conch with peas and rice "},
-{"country" : "Bahrain", "dish" : "Machboos"},
-{"country" : "Bangladesh", "dish" : "Rice, Fish, Chicken Korma"},
-{"country" : "Barbados", "dish" : "Cou-Cou and Flying Fish "},
-{"country" : "Belarus", "dish" : "Draniki"},
-{"country" : "Belgium", "dish" : "Moules-frites"},
-{"country" : "Belize", "dish" : "Boil up"},
-{"country" : "Bermuda", "dish" : "Bermuda fish chowder"},
-{"country" : "Bhutan", "dish" : "Ema datshi"},
-{"country" : "Bolivia", "dish" : "Salteñas"},
-{"country" : "Bosnia and Herzegovina", "dish" : "Bosnian pot"},
-{"country" : "Botswana", "dish" : "Seswaa"},
-{"country" : "Brazil", "dish" : "Feijoada"},
-{"country" : "Brunei", "dish" : "Ambuyat"},
-{"country" : "Bulgaria", "dish" : "Banitsa, Bob chorba"},
-{"country" : "Burma", "dish" : "Mohinga"},
-{"country" : "Cambodia", "dish" : "Amok trey"},
-{"country" : "Cameroon", "dish" : "Ndolé"},
-{"country" : "Canada", "dish" : "Kraft Dinner"},
-{"country" : "Cape Verde", "dish" : "Cachupa"},
-{"country" : "Chile", "dish" : "Empanada"},
-{"country" : "China", "dish" : "Peking Duck"},
-{"country" : "Hong Kong", "dish" : "Char siu"},
-{"country" : "Macau", "dish" : "Minchee "},
-{"country" : "Colombia", "dish" : "Ajiaco, Bandeja paisa"},
-{"country" : "Costa Rica", "dish" : "Gallo pinto"},
-{"country" : "Ivory Coast", "dish" : "Fufu, Kedjenou"},
-{"country" : "Croatia", "dish" : "Istrian stew"},
-{"country" : "Cuba", "dish" : "Ropa vieja, Moros y cristianos"},
-{"country" : "Cyprus", "dish" : "Fasolada"},
-{"country" : "Czech Republic", "dish" : "roast pork with dumplings and sauerkraut"},
-{"country" : "Democratic Republic of the Congo", "dish" : "Poulet à la Moambé"},
-{"country" : "Denmark", "dish" : "fried pork and potato-based dish"},
-{"country" : "Greenland", "dish" : "Kiviak"},
-{"country" : "Dominica", "dish" : "Mountain chicken, Fish broth"},
-{"country" : "Dominican Republic", "dish" : "rice, red beans, and meat"},
-{"country" : "Ecuador", "dish" : "Encebollado, Fritada,Guatitas,"},
-{"country" : "Egypt", "dish" : "Ful medames, kushari,"},
-{"country" : "El Salvador", "dish" : "Pupusa"},
-{"country" : "Eritrea", "dish" : "Zigini with injera, Gored gored, raw meat"},
-{"country" : "Estonia", "dish" : "sauerkraut stew"},
-{"country" : "Ethiopia", "dish" : "Wat with injera, Fit-fit"},
-{"country" : "Finland", "dish" : "Karjalanpaisti,Mämmi, Sautéed reindeer"},
-{"country" : "France", "dish" : "Crêpe, Pot-au-feu,Macaron, Bisque"},
-{"country" : "Gabon", "dish" : "Poulet Nyembwe"},
-{"country" : "Georgia", "dish" : "Khachapuri, khinkali"},
-{"country" : "Germany", "dish" : "Currywurst, Sauerbraten, Bratwurst"},
-{"country" : "Ghana", "dish" : "Fufu"},
-{"country" : "Greece", "dish" : "Fasolada,Moussaka, Souvlaki"},
-{"country" : "Grenada", "dish" : "Oil Down"},
-{"country" : "Guatemala", "dish" : "Fiambre, Pepian (hearty meat stew)"},
-{"country" : "Guyana", "dish" : "Pepperpot"},
-{"country" : "Haiti", "dish" : "Red beans and rice "},
-{"country" : "Honduras", "dish" : "Baleada, Carne asada, Sopa de Caracol (Conch Soup)"},
-{"country" : "Hungary", "dish" : "Gulyás,"},
-{"country" : "Iceland", "dish" : "Hákarl, Þorramatur"},
-{"country" : "India", "dish" : "No officially announced national dish"},
-{"country" : "Indonesia", "dish" : "Tumpeng Sate,Soto,Nasi goreng"},
-{"country" : "Iran", "dish" : "Chelo kabab, Ghormeh sabzi"},
-{"country" : "Iraq", "dish" : "Samak masgouf,Kleicha"},
-{"country" : "Ireland", "dish" : "Colcannon,Irish stew "},
-{"country" : "Israel", "dish" : "Hummus, falafel, Meorav Yerushalmi"},
-{"country" : "Italy", "dish" : "Pasta,Polenta,Pizza, Risotto"},
-{"country" : "Jamaica", "dish" : "Ackee and Saltfish, Jamaican patty"},
-{"country" : "Japan", "dish" : "Sushi, Japanese curry,Ramen "},
-{"country" : "Jordan", "dish" : "Mansaf"},
-{"country" : "Kazakhstan", "dish" : "Beshbarmak, Shalgam"},
-{"country" : "Kenya", "dish" : "Ugali, Sukuma wiki, Nyama choma"},
-{"country" : "Kuwait", "dish" : "Machboos"},
-{"country" : "Kyrgyzstan", "dish" : "Beshbarmak, Laghman, Kuurdak"},
-{"country" : "Laos", "dish" : "Tum Mak Hoong (Som Tum, its Thai name)"},
-{"country" : "Latvia", "dish" : "Latke"},
-{"country" : "Lebanon", "dish" : "Kibbeh"},
-{"country" : "Libya", "dish" : "Bazeen, Usban"},
-{"country" : "Lithuania", "dish" : "Cepelinai"},
-{"country" : "Luxembourg", "dish" : "Judd mat Gaardebounen, Bouneschlupp"},
-{"country" : "Macedonia", "dish" : "Tavče Gravče"},
-{"country" : "Madagascar", "dish" : "Romazava "},
-{"country" : "Malaysia", "dish" : "Nasi lemak,Satay, Laksa, Roti canai"},
-{"country" : "Malta", "dish" : "Pastizzi, Rabbit Stew (Fenkata)"},
-{"country" : "Mauritania", "dish" : "Thieboudienne, Couscous"},
-{"country" : "Mexico", "dish" : "Tacos, Mole poblano,Chiles en nogada"},
-{"country" : "Moldova", "dish" : "Mămăligă, Sarmale, Răcituri"},
-{"country" : "Mongolia", "dish" : "Buuz"},
-{"country" : "Montenegro", "dish" : "Kačamak, Raštan"},
-{"country" : "Morocco", "dish" : "Couscous, Tagine"},
-{"country" : "Nicaragua", "dish" : "Gallo pinto "},
-{"country" : "Nigeria", "dish" : "Jollof rice"},
-{"country" : "Nepal", "dish" : "Dal bhat"},
-{"country" : "Netherlands", "dish" : "Stamppot, hutspot"},
-{"country" : "New Zealand", "dish" : "Bacon and egg pie, lamb, pavlova"},
-{"country" : "North Korea", "dish" : "Galbi, Kimchi"},
-{"country" : "Norway", "dish" : "Fårikål"},
-{"country" : "Pakistan", "dish" : "Biryani, Nihari"},
-{"country" : "Panama", "dish" : "Sancocho de gallina"},
-{"country" : "Palestine", "dish" : "Arab salad, Falafel, Mujaddara, Musakhan, Hummus with tahini"},
-{"country" : "Paraguay", "dish" : "Sopa paraguaya"},
-{"country" : "Peru", "dish" : "Ceviche"},
-{"country" : "Philippines", "dish" : "Adobo,Lechon (both unofficial)"},
-{"country" : "Poland", "dish" : "Bigos, Pierogi,Kotlet schabowy, Żurek"},
-{"country" : "Portugal", "dish" : "Bacalhau"},
-{"country" : "Puerto Rico", "dish" : "Arroz con gandules, Mofongo"},
-{"country" : "Republic of the Congo", "dish" : "Poulet Moambé "},
-{"country" : "Romania", "dish" : "Mămăligă, Sarmale, Mici"},
-{"country" : "Russia", "dish" : "Pelmeni, Shchi, Kasha,Pirogi, Pirozhki"},
-{"country" : "Republic of Tatarstan", "dish" : "Öçpoçmaq"},
-{"country" : "Tula, Russia", "dish" : "Tula gingerbread"},
-{"country" : "San Marino", "dish" : "Torta Tre Monti"},
-{"country" : "Saudi Arabia", "dish" : "Kabsa"},
-{"country" : "Senegal", "dish" : "Thieboudienne"},
-{"country" : "Serbia", "dish" : "Ćevapčići, Pljeskavica, Ražnjići, Proja, Kajmak"},
-{"country" : "Slovakia", "dish" : "Bryndzové halušky"},
-{"country" : "Slovenia", "dish" : "Ajdovi žganci, Belokranjska povitica, Obara"},
-{"country" : "Singapore", "dish" : "Chilli crab,Hainanese Chicken Rice"},
-{"country" : "Somalia", "dish" : "Canjeero with goat stew"},
-{"country" : "South Africa", "dish" : "Bobotie"},
-{"country" : "South Korea", "dish" : "Kimchi, bulgogi"},
-{"country" : "Spain", "dish" : "Tortilla española "},
-{"country" : "Andalusia", "dish" : "Gazpacho"},
-{"country" : "Asturias", "dish" : "Fabada asturiana"},
-{"country" : "Basque Country", "dish" : "Marmitako, Chistorras"},
-{"country" : "Canary Islands", "dish" : "Ropa vieja, Papas arrugadas"},
-{"country" : "Galicia", "dish" : "Empanada, Polbo á feira"},
-{"country" : "Valencian Community", "dish" : "Paella"},
-{"country" : "Sri Lanka", "dish" : "Rice and curry"},
-{"country" : "Sudan", "dish" : "Ful medames"},
-{"country" : "Sweden", "dish" : "Köttbullar, Kräftskiva,Surströmming,Ostkaka"},
-{"country" : "Switzerland", "dish" : "Cervelat,Fondue, Rösti"},
-{"country" : "Syria", "dish" : "Kibbeh"},
-{"country" : "Tajikistan", "dish" : "O'sh (pilaf)"},
-{"country" : "Taiwan", "dish" : "Beef noodle soup"},
-{"country" : "Tanzania", "dish" : "Ugali"},
-{"country" : "Thailand", "dish" : "Pad Thai, Tom Yum Goong"},
-{"country" : "Trinidad and Tobago", "dish" : "Callaloo,Doubles"},
-{"country" : "Turkey", "dish" : "Döner kebab, Kuru fasulye with pilav"},
-{"country" : "Tunisia", "dish" : "Couscous, Kabkabou"},
-{"country" : "Turkmenistan", "dish" : "Palaw"},
-{"country" : "Uganda", "dish" : "Matoke"},
-{"country" : "Ukraine", "dish" : "Borscht, Varenyky "},
-{"country" : "United Kingdom", "dish" : "Fish and chips,Chicken tikka masala (Indian-British curry)"},
-{"country" : "England", "dish" : "Beef,(especially roast beef/corned beef),Pudding "},
-{"country" : "Cornwall", "dish" : "Cornish pasty"},
-{"country" : "Northern Ireland", "dish" : "Ulster fry"},
-{"country" : "Isle of Man", "dish" : "Skeddan jiarg"},
-{"country" : "Scotland", "dish" : "Haggis"},
-{"country" : "Wales", "dish" : "Cawl"},
-{"country" : "United States", "dish" : "Hamburger, Hot dog, Fried chicken, Buffalo wings, Apple pie"},
-{"country" : "United States Virgin Islands", "dish" : "Fish and Fungi"},
-{"country" : "Uruguay", "dish" : "Asado, Chivito"},
-{"country" : "Uzbekistan", "dish" : "O'sh"},
-{"country" : "Vanuatu", "dish" : "Lap lap"},
-{"country" : "Venezuela", "dish" : "Pabellón criollo"},
-{"country" : "Vietnam", "dish" : "Phở, Bún bò Huế"},
-{"country" : "Yemen", "dish" : "Saltah"},
-{"country" : "Zimbabwe", "dish" : "Sadza"}
+    {
+        "country": "Afghanistan",
+        "dish": "Kabuli Palaw"
+    },
+    {
+        "country": "Albania",
+        "dish": "Tavë kosi"
+    },
+    {
+        "country": "Algeria",
+        "dish": "Couscous "
+    },
+    {
+        "country": "American Samoa",
+        "dish": null
+    },
+    {
+        "country": "Andorra",
+        "dish": null
+    },
+    {
+        "country": "Angola",
+        "dish": "Moamba de galinha "
+    },
+    {
+        "country": "Anguilla",
+        "dish": null
+    },
+    {
+        "country": "Antarctica",
+        "dish": null
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "dish": "Pepperpot, Fungee"
+    },
+    {
+        "country": "Argentina",
+        "dish": "Asado"
+    },
+    {
+        "country": "Armenia",
+        "dish": "Harissa, Dolma, Khorovats"
+    },
+    {
+        "country": "Aruba",
+        "dish": "Keshi yena"
+    },
+    {
+        "country": "Australia",
+        "dish": "Meat pie,Roast lamb "
+    },
+    {
+        "country": "Austria",
+        "dish": "Wiener schnitzel, Tafelspitz"
+    },
+    {
+        "country": "Azerbaijan",
+        "dish": "Dolma"
+    },
+    {
+        "country": "Bahamas",
+        "dish": "Crack conch with peas and rice "
+    },
+    {
+        "country": "Bahrain",
+        "dish": "Machboos"
+    },
+    {
+        "country": "Bangladesh",
+        "dish": "Rice, Fish, Chicken Korma"
+    },
+    {
+        "country": "Barbados",
+        "dish": "Cou-Cou and Flying Fish "
+    },
+    {
+        "country": "Belarus",
+        "dish": "Draniki"
+    },
+    {
+        "country": "Belgium",
+        "dish": "Moules-frites"
+    },
+    {
+        "country": "Belize",
+        "dish": "Boil up"
+    },
+    {
+        "country": "Benin",
+        "dish": null
+    },
+    {
+        "country": "Bermuda",
+        "dish": "Bermuda fish chowder"
+    },
+    {
+        "country": "Bhutan",
+        "dish": "Ema datshi"
+    },
+    {
+        "country": "Bolivia",
+        "dish": "Salteñas"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "dish": "Bosnian pot"
+    },
+    {
+        "country": "Botswana",
+        "dish": "Seswaa"
+    },
+    {
+        "country": "Bouvet Island",
+        "dish": null
+    },
+    {
+        "country": "Brazil",
+        "dish": "Feijoada"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "dish": null
+    },
+    {
+        "country": "Brunei",
+        "dish": "Ambuyat"
+    },
+    {
+        "country": "Bulgaria",
+        "dish": "Banitsa, Bob chorba"
+    },
+    {
+        "country": "Burkina Faso",
+        "dish": null
+    },
+    {
+        "country": "Burundi",
+        "dish": null
+    },
+    {
+        "country": "Cambodia",
+        "dish": "Amok trey"
+    },
+    {
+        "country": "Cameroon",
+        "dish": "Ndolé"
+    },
+    {
+        "country": "Canada",
+        "dish": "Kraft Dinner"
+    },
+    {
+        "country": "Cape Verde",
+        "dish": "Cachupa"
+    },
+    {
+        "country": "Cayman Islands",
+        "dish": null
+    },
+    {
+        "country": "Central African Republic",
+        "dish": null
+    },
+    {
+        "country": "Chad",
+        "dish": null
+    },
+    {
+        "country": "Chile",
+        "dish": "Empanada"
+    },
+    {
+        "country": "China",
+        "dish": "Peking Duck"
+    },
+    {
+        "country": "Christmas Island",
+        "dish": null
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "dish": null
+    },
+    {
+        "country": "Colombia",
+        "dish": "Ajiaco, Bandeja paisa"
+    },
+    {
+        "country": "Comoros",
+        "dish": null
+    },
+    {
+        "country": "Congo",
+        "dish": null
+    },
+    {
+        "country": "Cook Islands",
+        "dish": null
+    },
+    {
+        "country": "Costa Rica",
+        "dish": "Gallo pinto"
+    },
+    {
+        "country": "Croatia",
+        "dish": "Istrian stew"
+    },
+    {
+        "country": "Cuba",
+        "dish": "Ropa vieja, Moros y cristianos"
+    },
+    {
+        "country": "Cyprus",
+        "dish": "Fasolada"
+    },
+    {
+        "country": "Czech Republic",
+        "dish": "roast pork with dumplings and sauerkraut"
+    },
+    {
+        "country": "Denmark",
+        "dish": "fried pork and potato-based dish"
+    },
+    {
+        "country": "Djibouti",
+        "dish": null
+    },
+    {
+        "country": "Dominica",
+        "dish": "Mountain chicken, Fish broth"
+    },
+    {
+        "country": "Dominican Republic",
+        "dish": "rice, red beans, and meat"
+    },
+    {
+        "country": "East Timor",
+        "dish": null
+    },
+    {
+        "country": "Ecuador",
+        "dish": "Encebollado, Fritada,Guatitas,"
+    },
+    {
+        "country": "Egypt",
+        "dish": "Ful medames, kushari,"
+    },
+    {
+        "country": "El Salvador",
+        "dish": "Pupusa"
+    },
+    {
+        "country": "England",
+        "dish": "Beef,(especially roast beef/corned beef),Pudding "
+    },
+    {
+        "country": "Equatorial Guinea",
+        "dish": null
+    },
+    {
+        "country": "Eritrea",
+        "dish": "Zigini with injera, Gored gored, raw meat"
+    },
+    {
+        "country": "Estonia",
+        "dish": "sauerkraut stew"
+    },
+    {
+        "country": "Ethiopia",
+        "dish": "Wat with injera, Fit-fit"
+    },
+    {
+        "country": "Falkland Islands",
+        "dish": null
+    },
+    {
+        "country": "Faroe Islands",
+        "dish": null
+    },
+    {
+        "country": "Fiji Islands",
+        "dish": null
+    },
+    {
+        "country": "Finland",
+        "dish": "Karjalanpaisti,Mämmi, Sautéed reindeer"
+    },
+    {
+        "country": "France",
+        "dish": "Crêpe, Pot-au-feu,Macaron, Bisque"
+    },
+    {
+        "country": "French Guiana",
+        "dish": null
+    },
+    {
+        "country": "French Polynesia",
+        "dish": null
+    },
+    {
+        "country": "French Southern territories",
+        "dish": null
+    },
+    {
+        "country": "Gabon",
+        "dish": "Poulet Nyembwe"
+    },
+    {
+        "country": "Gambia",
+        "dish": null
+    },
+    {
+        "country": "Georgia",
+        "dish": "Khachapuri, khinkali"
+    },
+    {
+        "country": "Germany",
+        "dish": "Currywurst, Sauerbraten, Bratwurst"
+    },
+    {
+        "country": "Ghana",
+        "dish": "Fufu"
+    },
+    {
+        "country": "Gibraltar",
+        "dish": null
+    },
+    {
+        "country": "Greece",
+        "dish": "Fasolada,Moussaka, Souvlaki"
+    },
+    {
+        "country": "Greenland",
+        "dish": "Kiviak"
+    },
+    {
+        "country": "Grenada",
+        "dish": "Oil Down"
+    },
+    {
+        "country": "Guadeloupe",
+        "dish": null
+    },
+    {
+        "country": "Guam",
+        "dish": null
+    },
+    {
+        "country": "Guatemala",
+        "dish": "Fiambre, Pepian (hearty meat stew)"
+    },
+    {
+        "country": "Guinea",
+        "dish": null
+    },
+    {
+        "country": "Guinea-Bissau",
+        "dish": null
+    },
+    {
+        "country": "Guyana",
+        "dish": "Pepperpot"
+    },
+    {
+        "country": "Haiti",
+        "dish": "Red beans and rice "
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "dish": null
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "dish": null
+    },
+    {
+        "country": "Honduras",
+        "dish": "Baleada, Carne asada, Sopa de Caracol (Conch Soup)"
+    },
+    {
+        "country": "Hong Kong",
+        "dish": "Char siu"
+    },
+    {
+        "country": "Hungary",
+        "dish": "Gulyás,"
+    },
+    {
+        "country": "Iceland",
+        "dish": "Hákarl, Þorramatur"
+    },
+    {
+        "country": "India",
+        "dish": "No officially announced national dish"
+    },
+    {
+        "country": "Indonesia",
+        "dish": "Tumpeng Sate,Soto,Nasi goreng"
+    },
+    {
+        "country": "Iran",
+        "dish": "Chelo kabab, Ghormeh sabzi"
+    },
+    {
+        "country": "Iraq",
+        "dish": "Samak masgouf,Kleicha"
+    },
+    {
+        "country": "Ireland",
+        "dish": "Colcannon,Irish stew "
+    },
+    {
+        "country": "Israel",
+        "dish": "Hummus, falafel, Meorav Yerushalmi"
+    },
+    {
+        "country": "Italy",
+        "dish": "Pasta,Polenta,Pizza, Risotto"
+    },
+    {
+        "country": "Ivory Coast",
+        "dish": "Fufu, Kedjenou"
+    },
+    {
+        "country": "Jamaica",
+        "dish": "Ackee and Saltfish, Jamaican patty"
+    },
+    {
+        "country": "Japan",
+        "dish": "Sushi, Japanese curry,Ramen "
+    },
+    {
+        "country": "Jordan",
+        "dish": "Mansaf"
+    },
+    {
+        "country": "Kazakstan",
+        "dish": null
+    },
+    {
+        "country": "Kenya",
+        "dish": "Ugali, Sukuma wiki, Nyama choma"
+    },
+    {
+        "country": "Kiribati",
+        "dish": null
+    },
+    {
+        "country": "Kuwait",
+        "dish": "Machboos"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "dish": "Beshbarmak, Laghman, Kuurdak"
+    },
+    {
+        "country": "Laos",
+        "dish": "Tum Mak Hoong (Som Tum, its Thai name)"
+    },
+    {
+        "country": "Latvia",
+        "dish": "Latke"
+    },
+    {
+        "country": "Lebanon",
+        "dish": "Kibbeh"
+    },
+    {
+        "country": "Lesotho",
+        "dish": null
+    },
+    {
+        "country": "Liberia",
+        "dish": null
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "dish": null
+    },
+    {
+        "country": "Liechtenstein",
+        "dish": null
+    },
+    {
+        "country": "Lithuania",
+        "dish": "Cepelinai"
+    },
+    {
+        "country": "Luxembourg",
+        "dish": "Judd mat Gaardebounen, Bouneschlupp"
+    },
+    {
+        "country": "Macao",
+        "dish": null
+    },
+    {
+        "country": "Macedonia",
+        "dish": "Tavče Gravče"
+    },
+    {
+        "country": "Madagascar",
+        "dish": "Romazava "
+    },
+    {
+        "country": "Malawi",
+        "dish": null
+    },
+    {
+        "country": "Malaysia",
+        "dish": "Nasi lemak,Satay, Laksa, Roti canai"
+    },
+    {
+        "country": "Maldives",
+        "dish": null
+    },
+    {
+        "country": "Mali",
+        "dish": null
+    },
+    {
+        "country": "Malta",
+        "dish": "Pastizzi, Rabbit Stew (Fenkata)"
+    },
+    {
+        "country": "Marshall Islands",
+        "dish": null
+    },
+    {
+        "country": "Martinique",
+        "dish": null
+    },
+    {
+        "country": "Mauritania",
+        "dish": "Thieboudienne, Couscous"
+    },
+    {
+        "country": "Mauritius",
+        "dish": null
+    },
+    {
+        "country": "Mayotte",
+        "dish": null
+    },
+    {
+        "country": "Mexico",
+        "dish": "Tacos, Mole poblano,Chiles en nogada"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "dish": null
+    },
+    {
+        "country": "Moldova",
+        "dish": "Mămăligă, Sarmale, Răcituri"
+    },
+    {
+        "country": "Monaco",
+        "dish": null
+    },
+    {
+        "country": "Mongolia",
+        "dish": "Buuz"
+    },
+    {
+        "country": "Montserrat",
+        "dish": null
+    },
+    {
+        "country": "Morocco",
+        "dish": "Couscous, Tagine"
+    },
+    {
+        "country": "Mozambique",
+        "dish": null
+    },
+    {
+        "country": "Myanmar",
+        "dish": null
+    },
+    {
+        "country": "Namibia",
+        "dish": null
+    },
+    {
+        "country": "Nauru",
+        "dish": null
+    },
+    {
+        "country": "Nepal",
+        "dish": "Dal bhat"
+    },
+    {
+        "country": "Netherlands",
+        "dish": "Stamppot, hutspot"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "dish": null
+    },
+    {
+        "country": "New Caledonia",
+        "dish": null
+    },
+    {
+        "country": "New Zealand",
+        "dish": "Bacon and egg pie, lamb, pavlova"
+    },
+    {
+        "country": "Nicaragua",
+        "dish": "Gallo pinto "
+    },
+    {
+        "country": "Niger",
+        "dish": null
+    },
+    {
+        "country": "Nigeria",
+        "dish": "Jollof rice"
+    },
+    {
+        "country": "Niue",
+        "dish": null
+    },
+    {
+        "country": "Norfolk Island",
+        "dish": null
+    },
+    {
+        "country": "North Korea",
+        "dish": "Galbi, Kimchi"
+    },
+    {
+        "country": "Northern Ireland",
+        "dish": "Ulster fry"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "dish": null
+    },
+    {
+        "country": "Norway",
+        "dish": "Fårikål"
+    },
+    {
+        "country": "Oman",
+        "dish": null
+    },
+    {
+        "country": "Pakistan",
+        "dish": "Biryani, Nihari"
+    },
+    {
+        "country": "Palau",
+        "dish": null
+    },
+    {
+        "country": "Palestine",
+        "dish": "Arab salad, Falafel, Mujaddara, Musakhan, Hummus with tahini"
+    },
+    {
+        "country": "Panama",
+        "dish": "Sancocho de gallina"
+    },
+    {
+        "country": "Papua New Guinea",
+        "dish": null
+    },
+    {
+        "country": "Paraguay",
+        "dish": "Sopa paraguaya"
+    },
+    {
+        "country": "Peru",
+        "dish": "Ceviche"
+    },
+    {
+        "country": "Philippines",
+        "dish": "Adobo,Lechon (both unofficial)"
+    },
+    {
+        "country": "Pitcairn",
+        "dish": null
+    },
+    {
+        "country": "Poland",
+        "dish": "Bigos, Pierogi,Kotlet schabowy, Żurek"
+    },
+    {
+        "country": "Portugal",
+        "dish": "Bacalhau"
+    },
+    {
+        "country": "Puerto Rico",
+        "dish": "Arroz con gandules, Mofongo"
+    },
+    {
+        "country": "Qatar",
+        "dish": null
+    },
+    {
+        "country": "Reunion",
+        "dish": null
+    },
+    {
+        "country": "Romania",
+        "dish": "Mămăligă, Sarmale, Mici"
+    },
+    {
+        "country": "Russian Federation",
+        "dish": null
+    },
+    {
+        "country": "Rwanda",
+        "dish": null
+    },
+    {
+        "country": "Saint Helena",
+        "dish": null
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "dish": null
+    },
+    {
+        "country": "Saint Lucia",
+        "dish": null
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "dish": null
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "dish": null
+    },
+    {
+        "country": "Samoa",
+        "dish": null
+    },
+    {
+        "country": "San Marino",
+        "dish": "Torta Tre Monti"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "dish": null
+    },
+    {
+        "country": "Saudi Arabia",
+        "dish": "Kabsa"
+    },
+    {
+        "country": "Scotland",
+        "dish": "Haggis"
+    },
+    {
+        "country": "Senegal",
+        "dish": "Thieboudienne"
+    },
+    {
+        "country": "Seychelles",
+        "dish": null
+    },
+    {
+        "country": "Sierra Leone",
+        "dish": null
+    },
+    {
+        "country": "Singapore",
+        "dish": "Chilli crab,Hainanese Chicken Rice"
+    },
+    {
+        "country": "Slovakia",
+        "dish": "Bryndzové halušky"
+    },
+    {
+        "country": "Slovenia",
+        "dish": "Ajdovi žganci, Belokranjska povitica, Obara"
+    },
+    {
+        "country": "Solomon Islands",
+        "dish": null
+    },
+    {
+        "country": "Somalia",
+        "dish": "Canjeero with goat stew"
+    },
+    {
+        "country": "South Africa",
+        "dish": "Bobotie"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "dish": null
+    },
+    {
+        "country": "South Korea",
+        "dish": "Kimchi, bulgogi"
+    },
+    {
+        "country": "South Sudan",
+        "dish": null
+    },
+    {
+        "country": "Spain",
+        "dish": "Tortilla española "
+    },
+    {
+        "country": "SriLanka",
+        "dish": null
+    },
+    {
+        "country": "Sudan",
+        "dish": "Ful medames"
+    },
+    {
+        "country": "Suriname",
+        "dish": null
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "dish": null
+    },
+    {
+        "country": "Swaziland",
+        "dish": null
+    },
+    {
+        "country": "Sweden",
+        "dish": "Köttbullar, Kräftskiva,Surströmming,Ostkaka"
+    },
+    {
+        "country": "Switzerland",
+        "dish": "Cervelat,Fondue, Rösti"
+    },
+    {
+        "country": "Syria",
+        "dish": "Kibbeh"
+    },
+    {
+        "country": "Tajikistan",
+        "dish": "O'sh (pilaf)"
+    },
+    {
+        "country": "Tanzania",
+        "dish": "Ugali"
+    },
+    {
+        "country": "Thailand",
+        "dish": "Pad Thai, Tom Yum Goong"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "dish": null
+    },
+    {
+        "country": "Togo",
+        "dish": null
+    },
+    {
+        "country": "Tokelau",
+        "dish": null
+    },
+    {
+        "country": "Tonga",
+        "dish": null
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "dish": "Callaloo,Doubles"
+    },
+    {
+        "country": "Tunisia",
+        "dish": "Couscous, Kabkabou"
+    },
+    {
+        "country": "Turkey",
+        "dish": "Döner kebab, Kuru fasulye with pilav"
+    },
+    {
+        "country": "Turkmenistan",
+        "dish": "Palaw"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "dish": null
+    },
+    {
+        "country": "Tuvalu",
+        "dish": null
+    },
+    {
+        "country": "Uganda",
+        "dish": "Matoke"
+    },
+    {
+        "country": "Ukraine",
+        "dish": "Borscht, Varenyky "
+    },
+    {
+        "country": "United Arab Emirates",
+        "dish": null
+    },
+    {
+        "country": "United Kingdom",
+        "dish": "Fish and chips,Chicken tikka masala (Indian-British curry)"
+    },
+    {
+        "country": "United States",
+        "dish": "Hamburger, Hot dog, Fried chicken, Buffalo wings, Apple pie"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "dish": null
+    },
+    {
+        "country": "Uruguay",
+        "dish": "Asado, Chivito"
+    },
+    {
+        "country": "Uzbekistan",
+        "dish": "O'sh"
+    },
+    {
+        "country": "Vanuatu",
+        "dish": "Lap lap"
+    },
+    {
+        "country": "Venezuela",
+        "dish": "Pabellón criollo"
+    },
+    {
+        "country": "Vietnam",
+        "dish": "Phở, Bún bò Huế"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "dish": null
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "dish": null
+    },
+    {
+        "country": "Wales",
+        "dish": "Cawl"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "dish": null
+    },
+    {
+        "country": "Western Sahara",
+        "dish": null
+    },
+    {
+        "country": "Yemen",
+        "dish": "Saltah"
+    },
+    {
+        "country": "Yugoslavia",
+        "dish": null
+    },
+    {
+        "country": "Zambia",
+        "dish": null
+    },
+    {
+        "country": "Zimbabwe",
+        "dish": "Sadza"
+    }
 ]

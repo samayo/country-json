@@ -1,86 +1,974 @@
 [
-{"country" : "Algeria", "height" : 170.2},
-{"country" : "Argentina", "height" : 171.3},
-{"country" : "Australia", "height" : 176.3},
-{"country" : "Austria", "height" : 177.0},
-{"country" : "Azerbaijan", "height" : 172.0},
-{"country" : "Bahrain", "height" : 165.6},
-{"country" : "Belgium", "height" : 176.6},
-{"country" : "Brazil", "height" : 169.5},
-{"country" : "Cambodia", "height" : 160.3},
-{"country" : "Cameroon", "height" : 170.0},
-{"country" : "Canada", "height" : 174.3},
-{"country" : "Chile", "height" : 169.2},
-{"country" : "China", "height" : 168.3},
-{"country" : "Colombia", "height" : 169.5},
-{"country" : "Croatia", "height" : 177.6},
-{"country" : "Czech Republic", "height" : 178.3},
-{"country" : "Denmark", "height" : 178.8},
-{"country" : "Egypt", "height" : 170.3},
-{"country" : "Eritrea", "height" : 175.8},
-{"country" : "Estonia", "height" : 177.1},
-{"country" : "Finland", "height" : 178.4},
-{"country" : "France", "height" : 174.1},
-{"country" : "Gambia", "height" : 170.0},
-{"country" : "Germany", "height" : 177.4},
-{"country" : "Ghana", "height" : 169.8},
-{"country" : "Greece", "height" : 175.7},
-{"country" : "Hong Kong", "height" : 168.5},
-{"country" : "Hungary", "height" : 175.3},
-{"country" : "Iceland", "height" : 179.8},
-{"country" : "India", "height" : 162.3},
-{"country" : "Indonesia", "height" : 161.5},
-{"country" : "Iran", "height" : 170.6},
-{"country" : "Iraq", "height" : 165.4},
-{"country" : "Ireland", "height" : 175.0},
-{"country" : "Israel", "height" : 175.0},
-{"country" : "Italy", "height" : 173.2},
-{"country" : "Ivory Coast", "height" : 170.4},
-{"country" : "Jamaica", "height" : 172.8},
-{"country" : "Japan", "height" : 168.6},
-{"country" : "Lebanon", "height" : 174.2},
-{"country" : "Lithuania", "height" : 175.0},
-{"country" : "Luxembourg", "height" : 178.0},
-{"country" : "Malawi", "height" : 166.0},
-{"country" : "Malaysia", "height" : 166.0},
-{"country" : "Mali", "height" : 172.5},
-{"country" : "Mexico", "height" : 167.5},
-{"country" : "Mongolia", "height" : 166.4},
-{"country" : "Morocco", "height" : 170.7},
-{"country" : "Nepal", "height" : 163.0},
-{"country" : "Netherlands", "height" : 181.0},
-{"country" : "New Zealand", "height" : 175.5},
-{"country" : "Nigeria", "height" : 165.0},
-{"country" : "NorthKorea", "height" : 163.8},
-{"country" : "Norway", "height" : 179.7},
-{"country" : "Pakistan", "height" : 167.0},
-{"country" : "Paraguay", "height" : 169.0},
-{"country" : "Peru", "height" : 164.3},
-{"country" : "Philippines", "height" : 162.0},
-{"country" : "Poland", "height" : 176.0},
-{"country" : "Portugal", "height" : 170.5},
-{"country" : "Romania", "height" : 172.0},
-{"country" : "Russia", "height" : 175.0},
-{"country" : "Senegal", "height" : 173.0},
-{"country" : "Serbia", "height" : 176.5},
-{"country" : "Singapore", "height" : 166.6},
-{"country" : "Slovenia", "height" : 178.1},
-{"country" : "South Africa", "height" : 170.0},
-{"country" : "SouthKorea", "height" : 171.0},
-{"country" : "Spain", "height" : 172.0},
-{"country" : "Sri Lanka", "height" : 166.0},
-{"country" : "Sweden", "height" : 179.3},
-{"country" : "Switzerland", "height" : 176.5},
-{"country" : "Syria", "height" : 171.0},
-{"country" : "Taiwan", "height" : 169.3},
-{"country" : "Thailand", "height" : 166.4},
-{"country" : "Tunisia", "height" : 170.3},
-{"country" : "Turkey", "height" : 174.1},
-{"country" : "Ukraine", "height" : 175.0},
-{"country" : "United Kingdom", "height" : 175.4},
-{"country" : "United States", "height" : 176.4},
-{"country" : "Uruguay", "height" : 171.8},
-{"country" : "Uzbekistan", "height" : 173.4},
-{"country" : "Venezuela", "height" : 169.0},
-{"country" : "Vietnam", "height" : 162.1}
+    {
+        "country": "Afghanistan",
+        "height": null
+    },
+    {
+        "country": "Albania",
+        "height": null
+    },
+    {
+        "country": "Algeria",
+        "height": "170.2"
+    },
+    {
+        "country": "American Samoa",
+        "height": null
+    },
+    {
+        "country": "Andorra",
+        "height": null
+    },
+    {
+        "country": "Angola",
+        "height": null
+    },
+    {
+        "country": "Anguilla",
+        "height": null
+    },
+    {
+        "country": "Antarctica",
+        "height": null
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "height": null
+    },
+    {
+        "country": "Argentina",
+        "height": "171.3"
+    },
+    {
+        "country": "Armenia",
+        "height": null
+    },
+    {
+        "country": "Aruba",
+        "height": null
+    },
+    {
+        "country": "Australia",
+        "height": "176.3"
+    },
+    {
+        "country": "Austria",
+        "height": "177"
+    },
+    {
+        "country": "Azerbaijan",
+        "height": "172"
+    },
+    {
+        "country": "Bahamas",
+        "height": null
+    },
+    {
+        "country": "Bahrain",
+        "height": "165.6"
+    },
+    {
+        "country": "Bangladesh",
+        "height": null
+    },
+    {
+        "country": "Barbados",
+        "height": null
+    },
+    {
+        "country": "Belarus",
+        "height": null
+    },
+    {
+        "country": "Belgium",
+        "height": "176.6"
+    },
+    {
+        "country": "Belize",
+        "height": null
+    },
+    {
+        "country": "Benin",
+        "height": null
+    },
+    {
+        "country": "Bermuda",
+        "height": null
+    },
+    {
+        "country": "Bhutan",
+        "height": null
+    },
+    {
+        "country": "Bolivia",
+        "height": null
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "height": null
+    },
+    {
+        "country": "Botswana",
+        "height": null
+    },
+    {
+        "country": "Bouvet Island",
+        "height": null
+    },
+    {
+        "country": "Brazil",
+        "height": "169.5"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "height": null
+    },
+    {
+        "country": "Brunei",
+        "height": null
+    },
+    {
+        "country": "Bulgaria",
+        "height": null
+    },
+    {
+        "country": "Burkina Faso",
+        "height": null
+    },
+    {
+        "country": "Burundi",
+        "height": null
+    },
+    {
+        "country": "Cambodia",
+        "height": "160.3"
+    },
+    {
+        "country": "Cameroon",
+        "height": "170"
+    },
+    {
+        "country": "Canada",
+        "height": "174.3"
+    },
+    {
+        "country": "Cape Verde",
+        "height": null
+    },
+    {
+        "country": "Cayman Islands",
+        "height": null
+    },
+    {
+        "country": "Central African Republic",
+        "height": null
+    },
+    {
+        "country": "Chad",
+        "height": null
+    },
+    {
+        "country": "Chile",
+        "height": "169.2"
+    },
+    {
+        "country": "China",
+        "height": "168.3"
+    },
+    {
+        "country": "Christmas Island",
+        "height": null
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "height": null
+    },
+    {
+        "country": "Colombia",
+        "height": "169.5"
+    },
+    {
+        "country": "Comoros",
+        "height": null
+    },
+    {
+        "country": "Congo",
+        "height": null
+    },
+    {
+        "country": "Cook Islands",
+        "height": null
+    },
+    {
+        "country": "Costa Rica",
+        "height": null
+    },
+    {
+        "country": "Croatia",
+        "height": "177.6"
+    },
+    {
+        "country": "Cuba",
+        "height": null
+    },
+    {
+        "country": "Cyprus",
+        "height": null
+    },
+    {
+        "country": "Czech Republic",
+        "height": "178.3"
+    },
+    {
+        "country": "Denmark",
+        "height": "178.8"
+    },
+    {
+        "country": "Djibouti",
+        "height": null
+    },
+    {
+        "country": "Dominica",
+        "height": null
+    },
+    {
+        "country": "Dominican Republic",
+        "height": null
+    },
+    {
+        "country": "East Timor",
+        "height": null
+    },
+    {
+        "country": "Ecuador",
+        "height": null
+    },
+    {
+        "country": "Egypt",
+        "height": "170.3"
+    },
+    {
+        "country": "El Salvador",
+        "height": null
+    },
+    {
+        "country": "England",
+        "height": null
+    },
+    {
+        "country": "Equatorial Guinea",
+        "height": null
+    },
+    {
+        "country": "Eritrea",
+        "height": "175.8"
+    },
+    {
+        "country": "Estonia",
+        "height": "177.1"
+    },
+    {
+        "country": "Ethiopia",
+        "height": null
+    },
+    {
+        "country": "Falkland Islands",
+        "height": null
+    },
+    {
+        "country": "Faroe Islands",
+        "height": null
+    },
+    {
+        "country": "Fiji Islands",
+        "height": null
+    },
+    {
+        "country": "Finland",
+        "height": "178.4"
+    },
+    {
+        "country": "France",
+        "height": "174.1"
+    },
+    {
+        "country": "French Guiana",
+        "height": null
+    },
+    {
+        "country": "French Polynesia",
+        "height": null
+    },
+    {
+        "country": "French Southern territories",
+        "height": null
+    },
+    {
+        "country": "Gabon",
+        "height": null
+    },
+    {
+        "country": "Gambia",
+        "height": "170"
+    },
+    {
+        "country": "Georgia",
+        "height": null
+    },
+    {
+        "country": "Germany",
+        "height": "177.4"
+    },
+    {
+        "country": "Ghana",
+        "height": "169.8"
+    },
+    {
+        "country": "Gibraltar",
+        "height": null
+    },
+    {
+        "country": "Greece",
+        "height": "175.7"
+    },
+    {
+        "country": "Greenland",
+        "height": null
+    },
+    {
+        "country": "Grenada",
+        "height": null
+    },
+    {
+        "country": "Guadeloupe",
+        "height": null
+    },
+    {
+        "country": "Guam",
+        "height": null
+    },
+    {
+        "country": "Guatemala",
+        "height": null
+    },
+    {
+        "country": "Guinea",
+        "height": null
+    },
+    {
+        "country": "Guinea-Bissau",
+        "height": null
+    },
+    {
+        "country": "Guyana",
+        "height": null
+    },
+    {
+        "country": "Haiti",
+        "height": null
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "height": null
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "height": null
+    },
+    {
+        "country": "Honduras",
+        "height": null
+    },
+    {
+        "country": "Hong Kong",
+        "height": "168.5"
+    },
+    {
+        "country": "Hungary",
+        "height": "175.3"
+    },
+    {
+        "country": "Iceland",
+        "height": "179.8"
+    },
+    {
+        "country": "India",
+        "height": "162.3"
+    },
+    {
+        "country": "Indonesia",
+        "height": "161.5"
+    },
+    {
+        "country": "Iran",
+        "height": "170.6"
+    },
+    {
+        "country": "Iraq",
+        "height": "165.4"
+    },
+    {
+        "country": "Ireland",
+        "height": "175"
+    },
+    {
+        "country": "Israel",
+        "height": "175"
+    },
+    {
+        "country": "Italy",
+        "height": "173.2"
+    },
+    {
+        "country": "Ivory Coast",
+        "height": "170.4"
+    },
+    {
+        "country": "Jamaica",
+        "height": "172.8"
+    },
+    {
+        "country": "Japan",
+        "height": "168.6"
+    },
+    {
+        "country": "Jordan",
+        "height": null
+    },
+    {
+        "country": "Kazakstan",
+        "height": null
+    },
+    {
+        "country": "Kenya",
+        "height": null
+    },
+    {
+        "country": "Kiribati",
+        "height": null
+    },
+    {
+        "country": "Kuwait",
+        "height": null
+    },
+    {
+        "country": "Kyrgyzstan",
+        "height": null
+    },
+    {
+        "country": "Laos",
+        "height": null
+    },
+    {
+        "country": "Latvia",
+        "height": null
+    },
+    {
+        "country": "Lebanon",
+        "height": "174.2"
+    },
+    {
+        "country": "Lesotho",
+        "height": null
+    },
+    {
+        "country": "Liberia",
+        "height": null
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "height": null
+    },
+    {
+        "country": "Liechtenstein",
+        "height": null
+    },
+    {
+        "country": "Lithuania",
+        "height": "175"
+    },
+    {
+        "country": "Luxembourg",
+        "height": "178"
+    },
+    {
+        "country": "Macao",
+        "height": null
+    },
+    {
+        "country": "Macedonia",
+        "height": null
+    },
+    {
+        "country": "Madagascar",
+        "height": null
+    },
+    {
+        "country": "Malawi",
+        "height": "166"
+    },
+    {
+        "country": "Malaysia",
+        "height": "166"
+    },
+    {
+        "country": "Maldives",
+        "height": null
+    },
+    {
+        "country": "Mali",
+        "height": "172.5"
+    },
+    {
+        "country": "Malta",
+        "height": null
+    },
+    {
+        "country": "Marshall Islands",
+        "height": null
+    },
+    {
+        "country": "Martinique",
+        "height": null
+    },
+    {
+        "country": "Mauritania",
+        "height": null
+    },
+    {
+        "country": "Mauritius",
+        "height": null
+    },
+    {
+        "country": "Mayotte",
+        "height": null
+    },
+    {
+        "country": "Mexico",
+        "height": "167.5"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "height": null
+    },
+    {
+        "country": "Moldova",
+        "height": null
+    },
+    {
+        "country": "Monaco",
+        "height": null
+    },
+    {
+        "country": "Mongolia",
+        "height": "166.4"
+    },
+    {
+        "country": "Montserrat",
+        "height": null
+    },
+    {
+        "country": "Morocco",
+        "height": "170.7"
+    },
+    {
+        "country": "Mozambique",
+        "height": null
+    },
+    {
+        "country": "Myanmar",
+        "height": null
+    },
+    {
+        "country": "Namibia",
+        "height": null
+    },
+    {
+        "country": "Nauru",
+        "height": null
+    },
+    {
+        "country": "Nepal",
+        "height": "163"
+    },
+    {
+        "country": "Netherlands",
+        "height": "181"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "height": null
+    },
+    {
+        "country": "New Caledonia",
+        "height": null
+    },
+    {
+        "country": "New Zealand",
+        "height": "175.5"
+    },
+    {
+        "country": "Nicaragua",
+        "height": null
+    },
+    {
+        "country": "Niger",
+        "height": null
+    },
+    {
+        "country": "Nigeria",
+        "height": "165"
+    },
+    {
+        "country": "Niue",
+        "height": null
+    },
+    {
+        "country": "Norfolk Island",
+        "height": null
+    },
+    {
+        "country": "North Korea",
+        "height": null
+    },
+    {
+        "country": "Northern Ireland",
+        "height": null
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "height": null
+    },
+    {
+        "country": "Norway",
+        "height": "179.7"
+    },
+    {
+        "country": "Oman",
+        "height": null
+    },
+    {
+        "country": "Pakistan",
+        "height": "167"
+    },
+    {
+        "country": "Palau",
+        "height": null
+    },
+    {
+        "country": "Palestine",
+        "height": null
+    },
+    {
+        "country": "Panama",
+        "height": null
+    },
+    {
+        "country": "Papua New Guinea",
+        "height": null
+    },
+    {
+        "country": "Paraguay",
+        "height": "169"
+    },
+    {
+        "country": "Peru",
+        "height": "164.3"
+    },
+    {
+        "country": "Philippines",
+        "height": "162"
+    },
+    {
+        "country": "Pitcairn",
+        "height": null
+    },
+    {
+        "country": "Poland",
+        "height": "176"
+    },
+    {
+        "country": "Portugal",
+        "height": "170.5"
+    },
+    {
+        "country": "Puerto Rico",
+        "height": null
+    },
+    {
+        "country": "Qatar",
+        "height": null
+    },
+    {
+        "country": "Reunion",
+        "height": null
+    },
+    {
+        "country": "Romania",
+        "height": "172"
+    },
+    {
+        "country": "Russian Federation",
+        "height": null
+    },
+    {
+        "country": "Rwanda",
+        "height": null
+    },
+    {
+        "country": "Saint Helena",
+        "height": null
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "height": null
+    },
+    {
+        "country": "Saint Lucia",
+        "height": null
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "height": null
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "height": null
+    },
+    {
+        "country": "Samoa",
+        "height": null
+    },
+    {
+        "country": "San Marino",
+        "height": null
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "height": null
+    },
+    {
+        "country": "Saudi Arabia",
+        "height": null
+    },
+    {
+        "country": "Scotland",
+        "height": null
+    },
+    {
+        "country": "Senegal",
+        "height": "173"
+    },
+    {
+        "country": "Seychelles",
+        "height": null
+    },
+    {
+        "country": "Sierra Leone",
+        "height": null
+    },
+    {
+        "country": "Singapore",
+        "height": "166.6"
+    },
+    {
+        "country": "Slovakia",
+        "height": null
+    },
+    {
+        "country": "Slovenia",
+        "height": "178.1"
+    },
+    {
+        "country": "Solomon Islands",
+        "height": null
+    },
+    {
+        "country": "Somalia",
+        "height": null
+    },
+    {
+        "country": "South Africa",
+        "height": "170"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "height": null
+    },
+    {
+        "country": "South Korea",
+        "height": null
+    },
+    {
+        "country": "South Sudan",
+        "height": null
+    },
+    {
+        "country": "Spain",
+        "height": "172"
+    },
+    {
+        "country": "SriLanka",
+        "height": null
+    },
+    {
+        "country": "Sudan",
+        "height": null
+    },
+    {
+        "country": "Suriname",
+        "height": null
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "height": null
+    },
+    {
+        "country": "Swaziland",
+        "height": null
+    },
+    {
+        "country": "Sweden",
+        "height": "179.3"
+    },
+    {
+        "country": "Switzerland",
+        "height": "176.5"
+    },
+    {
+        "country": "Syria",
+        "height": "171"
+    },
+    {
+        "country": "Tajikistan",
+        "height": null
+    },
+    {
+        "country": "Tanzania",
+        "height": null
+    },
+    {
+        "country": "Thailand",
+        "height": "166.4"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "height": null
+    },
+    {
+        "country": "Togo",
+        "height": null
+    },
+    {
+        "country": "Tokelau",
+        "height": null
+    },
+    {
+        "country": "Tonga",
+        "height": null
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "height": null
+    },
+    {
+        "country": "Tunisia",
+        "height": "170.3"
+    },
+    {
+        "country": "Turkey",
+        "height": "174.1"
+    },
+    {
+        "country": "Turkmenistan",
+        "height": null
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "height": null
+    },
+    {
+        "country": "Tuvalu",
+        "height": null
+    },
+    {
+        "country": "Uganda",
+        "height": null
+    },
+    {
+        "country": "Ukraine",
+        "height": "175"
+    },
+    {
+        "country": "United Arab Emirates",
+        "height": null
+    },
+    {
+        "country": "United Kingdom",
+        "height": "175.4"
+    },
+    {
+        "country": "United States",
+        "height": "176.4"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "height": null
+    },
+    {
+        "country": "Uruguay",
+        "height": "171.8"
+    },
+    {
+        "country": "Uzbekistan",
+        "height": "173.4"
+    },
+    {
+        "country": "Vanuatu",
+        "height": null
+    },
+    {
+        "country": "Venezuela",
+        "height": "169"
+    },
+    {
+        "country": "Vietnam",
+        "height": "162.1"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "height": null
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "height": null
+    },
+    {
+        "country": "Wales",
+        "height": null
+    },
+    {
+        "country": "Wallis and Futuna",
+        "height": null
+    },
+    {
+        "country": "Western Sahara",
+        "height": null
+    },
+    {
+        "country": "Yemen",
+        "height": null
+    },
+    {
+        "country": "Yugoslavia",
+        "height": null
+    },
+    {
+        "country": "Zambia",
+        "height": null
+    },
+    {
+        "country": "Zimbabwe",
+        "height": null
+    }
 ]
