@@ -61,7 +61,9 @@ foreach (json_decode($file, true) as $key => $value) {
 ```javascript
 var cities = require('./src/country-by-capital-city.json')
 
-console.log(cities[0]); // { country: 'Afghanistan', city: 'Kabul' }
+for(var key in cities) {
+  console.log(cities[key]); // { country: 'Afghanistan', city: 'Kabul' }
+}
 ```
 
 ##### Ruby
@@ -112,9 +114,52 @@ func main() {
 
 ```
 
+### Data Synthesis
 
+#### Examples
 
+```json
+{
+    "Afghanistan": {
+        "abbreviation": "AF",
+        "height": null,
+        "barcode": null,
+        "calling_code": "93",
+        "city": "Kabul",
+        "continent": "Asia",
+        "costline": "0",
+        "currency_code": "AFN",
+        "currency_name": "Afghanistan Afghani",
+        "tld": ".af",
+        "elevation": null,
+        "north": "38.4834",
+        "south": "29.3775",
+        "west": "60.4784",
+        "east": "74.8794",
+        "government": "Islamic Emirate",
+        "independence": "1919",
+        "iso": "4",
+        "landlocked": "1",
+        "language": "Balochi",
+        "expectancy": "45.9",
+        "dish": "Kabuli Palaw",
+        "symbol": null,
+        "density": "46.8",
+        "population": "22720000",
+        "location": "Southern and Central Asia",
+        "area": 652090,
+        "temperature": "12.6"
+    },
+    ...
+}
+```
 
+#### Guide
+
+Using PHP
+```bash
+$ php DataSynthesis.php
+```
 
 ### Contribution
 Feel free to send a PR to fix, update or add new entry anytime.
