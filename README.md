@@ -61,7 +61,9 @@ foreach (json_decode($file, true) as $key => $value) {
 ```javascript
 var cities = require('./src/country-by-capital-city.json')
 
-console.log(cities[0]); // { country: 'Afghanistan', city: 'Kabul' }
+for(var key in cities) {
+  console.log(cities[key]); // { country: 'Afghanistan', city: 'Kabul' }
+}
 ```
 
 ##### Ruby
