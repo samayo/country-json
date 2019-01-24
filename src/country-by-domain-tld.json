@@ -172,7 +172,7 @@
   },
   {
     "country": "China",
-    "tld": null
+    "tld": ".cn"
   },
   {
     "country": "Christmas Island",
@@ -188,11 +188,11 @@
   },
   {
     "country": "Comoros",
-    "tld": null
+    "tld": ".km"
   },
   {
     "country": "Congo",
-    "tld": null
+    "tld": ".cg"
   },
   {
     "country": "Cook Islands",
@@ -280,7 +280,7 @@
   },
   {
     "country": "Fiji Islands",
-    "tld": null
+    "tld": ".fj"
   },
   {
     "country": "Finland",
@@ -300,7 +300,7 @@
   },
   {
     "country": "French Southern territories",
-    "tld": null
+    "tld": ".tf"
   },
   {
     "country": "Gabon",
@@ -308,7 +308,7 @@
   },
   {
     "country": "Gambia",
-    "tld": null
+    "tld": ".gm"
   },
   {
     "country": "Georgia",
@@ -356,7 +356,7 @@
   },
   {
     "country": "Guinea-Bissau",
-    "tld": null
+    "tld": ".gw"
   },
   {
     "country": "Guyana",
@@ -372,7 +372,7 @@
   },
   {
     "country": "Holy See (Vatican City State)",
-    "tld": null
+    "tld": ".va"
   },
   {
     "country": "Honduras",
@@ -436,7 +436,7 @@
   },
   {
     "country": "Kazakstan",
-    "tld": null
+    "tld": ".kz"
   },
   {
     "country": "Kenya",
@@ -476,7 +476,7 @@
   },
   {
     "country": "Libyan Arab Jamahiriya",
-    "tld": null
+    "tld": ".ly"
   },
   {
     "country": "Liechtenstein",
@@ -492,7 +492,7 @@
   },
   {
     "country": "Macao",
-    "tld": null
+    "tld": ".mo"
   },
   {
     "country": "Macedonia",
@@ -628,7 +628,7 @@
   },
   {
     "country": "North Korea",
-    "tld": null
+    "tld": ".kp"
   },
   {
     "country": "Northern Ireland",
@@ -652,11 +652,11 @@
   },
   {
     "country": "Palau",
-    "tld": null
+    "tld": ".pw"
   },
   {
     "country": "Palestine",
-    "tld": null
+    "tld": ".ps"
   },
   {
     "country": "Panama",
@@ -680,7 +680,7 @@
   },
   {
     "country": "Pitcairn",
-    "tld": null
+    "tld": ".pn"
   },
   {
     "country": "Poland",
@@ -708,7 +708,7 @@
   },
   {
     "country": "Russian Federation",
-    "tld": null
+    "tld": ".ru"
   },
   {
     "country": "Rwanda",
@@ -728,7 +728,7 @@
   },
   {
     "country": "Saint Pierre and Miquelon",
-    "tld": null
+    "tld": ".pm"
   },
   {
     "country": "Saint Vincent and the Grenadines",
@@ -792,11 +792,11 @@
   },
   {
     "country": "South Georgia and the South Sandwich Islands",
-    "tld": null
+    "tld": ".gs"
   },
   {
     "country": "South Korea",
-    "tld": null
+    "tld": ".kr"
   },
   {
     "country": "South Sudan",
@@ -808,7 +808,7 @@
   },
   {
     "country": "SriLanka",
-    "tld": null
+    "tld": ".lk"
   },
   {
     "country": "Sudan",
@@ -820,7 +820,7 @@
   },
   {
     "country": "Svalbard and Jan Mayen",
-    "tld": null
+    "tld": ".sj"
   },
   {
     "country": "Swaziland",
@@ -852,7 +852,7 @@
   },
   {
     "country": "The Democratic Republic of Congo",
-    "tld": null
+    "tld": ".cd"
   },
   {
     "country": "Togo",
@@ -908,7 +908,7 @@
   },
   {
     "country": "United States",
-    "tld": null
+    "tld": ".us"
   },
   {
     "country": "United States Minor Outlying Islands",
@@ -936,11 +936,11 @@
   },
   {
     "country": "Virgin Islands, British",
-    "tld": null
+    "tld": ".vg"
   },
   {
     "country": "Virgin Islands, U.S.",
-    "tld": null
+    "tld": ".vi"
   },
   {
     "country": "Wales",
