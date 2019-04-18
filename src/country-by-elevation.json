@@ -1,4 +1,5 @@
-[{
+[
+  {
     "country": "Afghanistan",
     "elevation": null
   },
@@ -495,7 +496,7 @@
     "elevation": null
   },
   {
-    "country": "Macedonia",
+    "country": "North Macedonia",
     "elevation": "741m"
   },
   {
