@@ -1,4 +1,5 @@
-[{
+[
+  {
     "country": "Aruba",
     "area": 193.00
   },
@@ -547,7 +548,7 @@
     "area": 181.00
   },
   {
-    "country": "Macedonia",
+    "country": "North Macedonia",
     "area": 25713.00
   },
   {

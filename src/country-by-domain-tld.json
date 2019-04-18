@@ -1,4 +1,5 @@
-[{
+[
+  {
     "country": "Afghanistan",
     "tld": ".af"
   },
@@ -495,7 +496,7 @@
     "tld": ".mo"
   },
   {
-    "country": "Macedonia",
+    "country": "North Macedonia",
     "tld": ".mk"
   },
   {

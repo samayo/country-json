@@ -1,4 +1,5 @@
-[{
+[
+  {
     "country": "Afghanistan",
     "currency_name": "Afghanistan Afghani"
   },
@@ -495,7 +496,7 @@
     "currency_name": null
   },
   {
-    "country": "Macedonia",
+    "country": "North Macedonia",
     "currency_name": "Denar"
   },
   {
