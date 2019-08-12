@@ -237,7 +237,7 @@
     },
     {
         "country": "East Timor",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Ecuador",
@@ -253,7 +253,7 @@
     },
     {
         "country": "England",
-        "currency_code": null
+        "currency_code": "GBP"
     },
     {
         "country": "Equatorial Guinea",
