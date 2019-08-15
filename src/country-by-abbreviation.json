@@ -348,6 +348,10 @@
         "abbreviation": "GT"
     },
     {
+        "country": "Guernsey",
+        "abbreviation": "GG"
+    },
+    {
         "country": "Guinea",
         "abbreviation": "GN"
     },
@@ -408,6 +412,10 @@
         "abbreviation": "IE"
     },
     {
+        "country": "Isle of Man",
+        "abbreviation": "IM"
+    },
+    {
         "country": "Israel",
         "abbreviation": "IL"
     },
@@ -426,6 +434,10 @@
     {
         "country": "Japan",
         "abbreviation": "JP"
+    },
+    {
+        "country": "Jersey",
+        "abbreviation": "JE"
     },
     {
         "country": "Jordan",
@@ -558,6 +570,10 @@
     {
         "country": "Mongolia",
         "abbreviation": "MN"
+    },
+    {
+        "country": "Montenegro",
+        "abbreviation": "ME"
     },
     {
         "country": "Montserrat",
@@ -752,6 +768,10 @@
         "abbreviation": "SN"
     },
     {
+        "country": "Serbia",
+        "abbreviation": "RS"
+    },
+    {
         "country": "Seychelles",
         "abbreviation": "SC"
     },
@@ -846,6 +866,10 @@
     {
         "country": "The Democratic Republic of Congo",
         "abbreviation": "CD"
+    },
+    {
+        "country": "Timor-Leste",
+        "abbreviation": "TL"
     },
     {
         "country": "Togo",
