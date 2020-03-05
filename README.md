@@ -9,7 +9,7 @@ $ npm install country-json
 ```
 or composer
 ```bash
-$ composer require samayo/country-data
+$ composer require samayo/country-json
 ```
 or  git
 ```bash
