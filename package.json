@@ -2,7 +2,7 @@
   "name": "country-json",
   "devDependencies": {
     "gulp": "3.9.1",
-    "gulp-jsonlint": "1.1.2",
+    "gulp-jsonlint": "1.3.2",
     "gulp-util": "3.0.8"
   },
   "description": "A simple but useful data of the world (by country) each in JSON format.",
