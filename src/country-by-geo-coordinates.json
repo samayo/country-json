@@ -986,6 +986,13 @@
         "west": 87.7497,
         "east": 119.924
     },
+      {
+        "country": "Montenegro",
+        "north": "42.7087",
+        "south": "-42.7087",
+        "west": "-19.3744",
+        "east": "19.3744"
+    },
     {
         "country": "Montserrat",
         "north": 16.8241,
