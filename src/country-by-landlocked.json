@@ -1,375 +1,375 @@
 [
     {
         "country": "Afghanistan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Albania",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Algeria",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "American Samoa",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Andorra",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Angola",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Anguilla",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Antarctica",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Antigua and Barbuda",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Argentina",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Armenia",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Aruba",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Australia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Austria",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Azerbaijan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Bahamas",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Bahrain",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Bangladesh",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Barbados",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Belarus",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Belgium",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Belize",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Benin",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Bermuda",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Bhutan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Bolivia",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Bosnia and Herzegovina",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Botswana",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Bouvet Island",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Brazil",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "British Indian Ocean Territory",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Brunei",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Bulgaria",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Burkina Faso",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Burundi",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Cambodia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Cameroon",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Canada",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Cape Verde",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Cayman Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Central African Republic",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Chad",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Chile",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "China",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Christmas Island",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Cocos (Keeling) Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Colombia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Comoros",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Congo",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Cook Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Costa Rica",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Croatia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Cuba",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Cyprus",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Czech Republic",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Denmark",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Djibouti",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Dominica",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Dominican Republic",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "East Timor",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Ecuador",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Egypt",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "El Salvador",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "England",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Equatorial Guinea",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Eritrea",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Estonia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Ethiopia",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Falkland Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Faroe Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Fiji Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Finland",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "France",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "French Guiana",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "French Polynesia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "French Southern territories",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Gabon",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Gambia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Georgia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Germany",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Ghana",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Gibraltar",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Greece",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Greenland",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Grenada",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Guadeloupe",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Guam",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Guatemala",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Guinea",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Guinea-Bissau",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Guyana",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Haiti",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Holy See (Vatican City State)",
@@ -377,479 +377,479 @@
     },
     {
         "country": "Honduras",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Hong Kong",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Hungary",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Iceland",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "India",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Indonesia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Iran",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Iraq",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Ireland",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Israel",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Italy",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Ivory Coast",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Jamaica",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Japan",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Jordan",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Kazakhstan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Kenya",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Kiribati",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Kuwait",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Kyrgyzstan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Laos",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Latvia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Lebanon",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Lesotho",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Liberia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Liechtenstein",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Lithuania",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Luxembourg",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Macao",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "North Macedonia",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Madagascar",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Malawi",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Malaysia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Maldives",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Mali",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Malta",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Marshall Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Martinique",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Mauritania",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Mauritius",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Mayotte",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Mexico",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Micronesia, Federated States of",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Moldova",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Monaco",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Mongolia",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Montserrat",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Morocco",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Mozambique",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Myanmar",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Namibia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Nauru",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Nepal",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Netherlands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Netherlands Antilles",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "New Caledonia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "New Zealand",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Nicaragua",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Niger",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Nigeria",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Niue",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Norfolk Island",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "North Korea",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Northern Ireland",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Northern Mariana Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Norway",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Oman",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Pakistan",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Palau",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Palestine",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Panama",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Papua New Guinea",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Paraguay",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Peru",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Philippines",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Pitcairn",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Poland",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Portugal",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Puerto Rico",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Qatar",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Reunion",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Romania",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Russian Federation",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Rwanda",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Saint Helena",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Saint Kitts and Nevis",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Saint Lucia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Samoa",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "San Marino",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Sao Tome and Principe",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Saudi Arabia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Scotland",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Senegal",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Seychelles",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Sierra Leone",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Singapore",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Slovakia",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Slovenia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Solomon Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Somalia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "South Africa",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "South Korea",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "South Sudan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Spain",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "SriLanka",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Sudan",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Suriname",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Swaziland",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Sweden",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Switzerland",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Syria",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Tajikistan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Tanzania",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Thailand",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "The Democratic Republic of Congo",
@@ -857,118 +857,118 @@
     },
     {
         "country": "Togo",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Tokelau",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Tonga",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Trinidad and Tobago",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Tunisia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Turkey",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Turkmenistan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Turks and Caicos Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Tuvalu",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Uganda",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Ukraine",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "United Arab Emirates",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "United Kingdom",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "United States",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "United States Minor Outlying Islands",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Uruguay",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Uzbekistan",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Vanuatu",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Venezuela",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Vietnam",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Virgin Islands, British",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Virgin Islands, U.S.",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Wales",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Wallis and Futuna",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Western Sahara",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Yemen",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Yugoslavia",
-        "landlocked": false
+        "landlocked": "0"
     },
     {
         "country": "Zambia",
-        "landlocked": true
+        "landlocked": "1"
     },
     {
         "country": "Zimbabwe",
-        "landlocked": true
+        "landlocked": "1"
     }
 ]
