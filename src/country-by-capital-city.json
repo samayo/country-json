@@ -564,6 +564,10 @@
         "city": "Ulan Bator"
     },
     {
+        "country": "Montenegro",
+        "city": "Podgorica"
+    },
+    {
         "country": "Montserrat",
         "city": "Plymouth"
     },
@@ -853,7 +857,7 @@
     },
     {
         "country": "The Democratic Republic of Congo",
-        "city": null
+        "city": "Kinshasa"
     },
     {
         "country": "Togo",

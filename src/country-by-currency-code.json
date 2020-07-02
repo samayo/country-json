@@ -105,7 +105,7 @@
     },
     {
         "country": "Bosnia and Herzegovina",
-        "currency_code": null
+        "currency_code": "BAM"
     },
     {
         "country": "Botswana",
@@ -125,7 +125,7 @@
     },
     {
         "country": "Brunei",
-        "currency_code": null
+        "currency_code": "BND"
     },
     {
         "country": "Bulgaria",
@@ -165,7 +165,7 @@
     },
     {
         "country": "Chad",
-        "currency_code": null
+        "currency_code": "XAF"
     },
     {
         "country": "Chile",
@@ -217,7 +217,7 @@
     },
     {
         "country": "Czech Republic",
-        "currency_code": null
+        "currency_code": "CZK"
     },
     {
         "country": "Denmark",
@@ -237,7 +237,7 @@
     },
     {
         "country": "East Timor",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Ecuador",
@@ -253,7 +253,7 @@
     },
     {
         "country": "England",
-        "currency_code": null
+        "currency_code": "GBP"
     },
     {
         "country": "Equatorial Guinea",
@@ -273,7 +273,7 @@
     },
     {
         "country": "Falkland Islands",
-        "currency_code": null
+        "currency_code": "FKP"
     },
     {
         "country": "Faroe Islands",
@@ -281,7 +281,7 @@
     },
     {
         "country": "Fiji Islands",
-        "currency_code": null
+        "currency_code": "FJD"
     },
     {
         "country": "Finland",
@@ -297,7 +297,7 @@
     },
     {
         "country": "French Polynesia",
-        "currency_code": null
+        "currency_code": "XPF"
     },
     {
         "country": "French Southern territories",
@@ -341,11 +341,11 @@
     },
     {
         "country": "Guadeloupe",
-        "currency_code": null
+        "currency_code": "EUR"
     },
     {
         "country": "Guam",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Guatemala",
@@ -357,7 +357,7 @@
     },
     {
         "country": "Guinea-Bissau",
-        "currency_code": null
+        "currency_code": "CFA"
     },
     {
         "country": "Guyana",
@@ -373,7 +373,7 @@
     },
     {
         "country": "Holy See (Vatican City State)",
-        "currency_code": null
+        "currency_code": "EUR"
     },
     {
         "country": "Honduras",
@@ -437,7 +437,7 @@
     },
     {
         "country": "Kazakhstan",
-        "currency_code": null
+        "currency_code": "KZT"
     },
     {
         "country": "Kenya",
@@ -477,7 +477,7 @@
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "currency_code": null
+        "currency_code": "LYD"
     },
     {
         "country": "Liechtenstein",
@@ -493,7 +493,7 @@
     },
     {
         "country": "Macao",
-        "currency_code": null
+        "currency_code": "MOP"
     },
     {
         "country": "North Macedonia",
@@ -529,7 +529,7 @@
     },
     {
         "country": "Martinique",
-        "currency_code": null
+        "currency_code": "EUR"
     },
     {
         "country": "Mauritania",
@@ -549,7 +549,7 @@
     },
     {
         "country": "Micronesia, Federated States of",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Moldova",
@@ -601,7 +601,7 @@
     },
     {
         "country": "New Caledonia",
-        "currency_code": null
+        "currency_code": "XPF"
     },
     {
         "country": "New Zealand",
@@ -633,7 +633,7 @@
     },
     {
         "country": "Northern Ireland",
-        "currency_code": null
+        "currency_code": "GBP"
     },
     {
         "country": "Northern Mariana Islands",
@@ -681,7 +681,7 @@
     },
     {
         "country": "Pitcairn",
-        "currency_code": null
+        "currency_code": "NZD"
     },
     {
         "country": "Poland",
@@ -701,7 +701,7 @@
     },
     {
         "country": "Reunion",
-        "currency_code": null
+        "currency_code": "EUR"
     },
     {
         "country": "Romania",
@@ -709,7 +709,7 @@
     },
     {
         "country": "Russian Federation",
-        "currency_code": null
+        "currency_code": "RUB"
     },
     {
         "country": "Rwanda",
@@ -721,7 +721,7 @@
     },
     {
         "country": "Saint Kitts and Nevis",
-        "currency_code": null
+        "currency_code": "XCD"
     },
     {
         "country": "Saint Lucia",
@@ -753,7 +753,7 @@
     },
     {
         "country": "Scotland",
-        "currency_code": null
+        "currency_code": "GBP"
     },
     {
         "country": "Senegal",
@@ -809,7 +809,7 @@
     },
     {
         "country": "SriLanka",
-        "currency_code": null
+        "currency_code": "LKR"
     },
     {
         "country": "Sudan",
@@ -821,7 +821,7 @@
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "currency_code": null
+        "currency_code": "NOK"
     },
     {
         "country": "Swaziland",
@@ -853,7 +853,7 @@
     },
     {
         "country": "The Democratic Republic of Congo",
-        "currency_code": null
+        "currency_code": "CDF"
     },
     {
         "country": "Togo",
@@ -885,7 +885,7 @@
     },
     {
         "country": "Turks and Caicos Islands",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Tuvalu",
@@ -905,15 +905,15 @@
     },
     {
         "country": "United Kingdom",
-        "currency_code": null
+        "currency_code": "GBP"
     },
     {
         "country": "United States",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "United States Minor Outlying Islands",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Uruguay",
@@ -937,19 +937,19 @@
     },
     {
         "country": "Virgin Islands, British",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Virgin Islands, U.S.",
-        "currency_code": null
+        "currency_code": "USD"
     },
     {
         "country": "Wales",
-        "currency_code": null
+        "currency_code": "GBP"
     },
     {
         "country": "Wallis and Futuna",
-        "currency_code": null
+        "currency_code": "XPF"
     },
     {
         "country": "Western Sahara",

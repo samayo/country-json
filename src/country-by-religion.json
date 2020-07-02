@@ -1,986 +1,962 @@
 [
     {
         "country": "Afghanistan",
-        "abbreviation": "AF"
+        "religion": "Islam"
     },
     {
         "country": "Albania",
-        "abbreviation": "AL"
+        "religion": "Islam"
     },
     {
         "country": "Algeria",
-        "abbreviation": "DZ"
+        "religion": "Islam"
     },
     {
         "country": "American Samoa",
-        "abbreviation": "AS"
+        "religion": "Christianity"
     },
     {
         "country": "Andorra",
-        "abbreviation": "AD"
+        "religion": "Christianity"
     },
     {
         "country": "Angola",
-        "abbreviation": "AO"
+        "religion": "Christianity"
     },
     {
         "country": "Anguilla",
-        "abbreviation": "AI"
-    },
-    {
-        "country": "Antarctica",
-        "abbreviation": "AQ"
+        "religion": "Christianity"
     },
     {
         "country": "Antigua and Barbuda",
-        "abbreviation": "AG"
+        "religion": "Christianity"
     },
     {
         "country": "Argentina",
-        "abbreviation": "AR"
+        "religion": "Christianity"
     },
     {
         "country": "Armenia",
-        "abbreviation": "AM"
+        "religion": "Christianity"
     },
     {
         "country": "Aruba",
-        "abbreviation": "AW"
+        "religion": "Christianity"
+    },
+    {
+        "country": "Asia-Pacific",
+        "religion": "Hinduism"
     },
     {
         "country": "Australia",
-        "abbreviation": "AU"
+        "religion": "Christianity"
     },
     {
         "country": "Austria",
-        "abbreviation": "AT"
+        "religion": "Christianity"
     },
     {
         "country": "Azerbaijan",
-        "abbreviation": "AZ"
+        "religion": "Islam"
     },
     {
         "country": "Bahamas",
-        "abbreviation": "BS"
+        "religion": "Christianity"
     },
     {
         "country": "Bahrain",
-        "abbreviation": "BH"
+        "religion": "Islam"
     },
     {
         "country": "Bangladesh",
-        "abbreviation": "BD"
+        "religion": "Islam"
     },
     {
         "country": "Barbados",
-        "abbreviation": "BB"
+        "religion": "Christianity"
     },
     {
         "country": "Belarus",
-        "abbreviation": "BY"
+        "religion": "Christianity"
     },
     {
         "country": "Belgium",
-        "abbreviation": "BE"
+        "religion": "Christianity"
     },
     {
         "country": "Belize",
-        "abbreviation": "BZ"
+        "religion": "Christianity"
     },
     {
         "country": "Benin",
-        "abbreviation": "BJ"
+        "religion": "Christianity"
     },
     {
         "country": "Bermuda",
-        "abbreviation": "BM"
+        "religion": "Christianity"
     },
     {
         "country": "Bhutan",
-        "abbreviation": "BT"
+        "religion": "Buddhism"
     },
     {
         "country": "Bolivia",
-        "abbreviation": "BO"
+        "religion": "Christianity"
     },
     {
         "country": "Bosnia and Herzegovina",
-        "abbreviation": "BA"
+        "religion": "Christianity"
     },
     {
         "country": "Botswana",
-        "abbreviation": "BW"
-    },
-    {
-        "country": "Bouvet Island",
-        "abbreviation": "BV"
+        "religion": "Christianity"
     },
     {
         "country": "Brazil",
-        "abbreviation": "BR"
+        "religion": "Christianity"
     },
     {
-        "country": "British Indian Ocean Territory",
-        "abbreviation": "IO"
+        "country": "British Virgin Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Brunei",
-        "abbreviation": "BN"
+        "religion": "Islam"
     },
     {
         "country": "Bulgaria",
-        "abbreviation": "BG"
+        "religion": "Christianity"
     },
     {
         "country": "Burkina Faso",
-        "abbreviation": "BF"
+        "religion": "Islam"
     },
     {
         "country": "Burundi",
-        "abbreviation": "BI"
+        "religion": "Christianity"
     },
     {
         "country": "Cambodia",
-        "abbreviation": "KH"
+        "religion": "Buddhism"
     },
     {
         "country": "Cameroon",
-        "abbreviation": "CM"
+        "religion": "Christianity"
     },
     {
         "country": "Canada",
-        "abbreviation": "CA"
+        "religion": "Christianity"
     },
     {
         "country": "Cape Verde",
-        "abbreviation": "CV"
+        "religion": "Christianity"
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "religion": "Christianity"
     },
     {
         "country": "Cayman Islands",
-        "abbreviation": "KY"
+        "religion": "Christianity"
     },
     {
         "country": "Central African Republic",
-        "abbreviation": "CF"
+        "religion": "Christianity"
     },
     {
         "country": "Chad",
-        "abbreviation": "TD"
+        "religion": "Islam"
+    },
+    {
+        "country": "Channel Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Chile",
-        "abbreviation": "CL"
+        "religion": "Christianity"
     },
     {
         "country": "China",
-        "abbreviation": "CN"
-    },
-    {
-        "country": "Christmas Island",
-        "abbreviation": "CX"
-    },
-    {
-        "country": "Cocos (Keeling) Islands",
-        "abbreviation": "CC"
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Colombia",
-        "abbreviation": "CO"
+        "religion": "Christianity"
     },
     {
         "country": "Comoros",
-        "abbreviation": "KM"
+        "religion": "Islam"
     },
     {
         "country": "Congo",
-        "abbreviation": "CG"
+        "religion": "Christianity"
     },
     {
         "country": "Cook Islands",
-        "abbreviation": "CK"
+        "religion": "Christianity"
     },
     {
         "country": "Costa Rica",
-        "abbreviation": "CR"
+        "religion": "Christianity"
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "religion": "Christianity"
     },
     {
         "country": "Croatia",
-        "abbreviation": "HR"
+        "religion": "Christianity"
     },
     {
         "country": "Cuba",
-        "abbreviation": "CU"
+        "religion": "Christianity"
+    },
+    {
+        "country": "Curacao",
+        "religion": "Christianity"
     },
     {
         "country": "Cyprus",
-        "abbreviation": "CY"
+        "religion": "Christianity"
     },
     {
         "country": "Czech Republic",
-        "abbreviation": "CZ"
+        "religion": "Unaffiliated Religions"
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "religion": "Christianity"
     },
     {
         "country": "Denmark",
-        "abbreviation": "DK"
+        "religion": "Christianity"
     },
     {
         "country": "Djibouti",
-        "abbreviation": "DJ"
+        "religion": "Islam"
     },
     {
         "country": "Dominica",
-        "abbreviation": "DM"
+        "religion": "Christianity"
     },
     {
         "country": "Dominican Republic",
-        "abbreviation": "DO"
-    },
-    {
-        "country": "East Timor",
-        "abbreviation": "TP"
+        "religion": "Christianity"
     },
     {
         "country": "Ecuador",
-        "abbreviation": "EC"
+        "religion": "Christianity"
     },
     {
         "country": "Egypt",
-        "abbreviation": "EG"
+        "religion": "Islam"
     },
     {
         "country": "El Salvador",
-        "abbreviation": "SV"
+        "religion": "Christianity"
     },
     {
         "country": "Equatorial Guinea",
-        "abbreviation": "GQ"
+        "religion": "Christianity"
     },
     {
         "country": "Eritrea",
-        "abbreviation": "ER"
+        "religion": "Christianity"
     },
     {
         "country": "Estonia",
-        "abbreviation": "EE"
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Ethiopia",
-        "abbreviation": "ET"
+        "religion": "Christianity"
+    },
+    {
+        "country": "Europe",
+        "religion": "Christianity"
+    },
+    {
+        "country": "Faeroe Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Falkland Islands",
-        "abbreviation": "FK"
+        "religion": "Christianity"
     },
     {
-        "country": "Faroe Islands",
-        "abbreviation": "FO"
-    },
-    {
-        "country": "Fiji Islands",
-        "abbreviation": "FJ"
+        "country": "Fiji",
+        "religion": "Christianity"
     },
     {
         "country": "Finland",
-        "abbreviation": "FI"
+        "religion": "Christianity"
     },
     {
         "country": "France",
-        "abbreviation": "FR"
+        "religion": "Christianity"
     },
     {
         "country": "French Guiana",
-        "abbreviation": "GF"
+        "religion": "Christianity"
     },
     {
         "country": "French Polynesia",
-        "abbreviation": "PF"
-    },
-    {
-        "country": "French Southern territories",
-        "abbreviation": "TF"
+        "religion": "Christianity"
     },
     {
         "country": "Gabon",
-        "abbreviation": "GA"
+        "religion": "Christianity"
     },
     {
         "country": "Gambia",
-        "abbreviation": "GM"
+        "religion": "Islam"
     },
     {
         "country": "Georgia",
-        "abbreviation": "GE"
+        "religion": "Christianity"
     },
     {
         "country": "Germany",
-        "abbreviation": "DE"
+        "religion": "Christianity"
     },
     {
         "country": "Ghana",
-        "abbreviation": "GH"
+        "religion": "Christianity"
     },
     {
         "country": "Gibraltar",
-        "abbreviation": "GI"
+        "religion": "Christianity"
     },
     {
         "country": "Greece",
-        "abbreviation": "GR"
+        "religion": "Christianity"
     },
     {
         "country": "Greenland",
-        "abbreviation": "GL"
+        "religion": "Christianity"
     },
     {
         "country": "Grenada",
-        "abbreviation": "GD"
+        "religion": "Christianity"
     },
     {
         "country": "Guadeloupe",
-        "abbreviation": "GP"
+        "religion": "Christianity"
     },
     {
         "country": "Guam",
-        "abbreviation": "GU"
+        "religion": "Christianity"
     },
     {
         "country": "Guatemala",
-        "abbreviation": "GT"
-    },
-    {
-        "country": "Guernsey",
-        "abbreviation": "GG"
+        "religion": "Christianity"
     },
     {
         "country": "Guinea",
-        "abbreviation": "GN"
+        "religion": "Islam"
     },
     {
         "country": "Guinea-Bissau",
-        "abbreviation": "GW"
+        "religion": "Islam"
     },
     {
         "country": "Guyana",
-        "abbreviation": "GY"
+        "religion": "Christianity"
     },
     {
         "country": "Haiti",
-        "abbreviation": "HT"
-    },
-    {
-        "country": "Heard Island and McDonald Islands",
-        "abbreviation": "HM"
-    },
-    {
-        "country": "Holy See (Vatican City State)",
-        "abbreviation": "VA"
+        "religion": "Christianity"
     },
     {
         "country": "Honduras",
-        "abbreviation": "HN"
+        "religion": "Christianity"
     },
     {
         "country": "Hong Kong",
-        "abbreviation": "HK"
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Hungary",
-        "abbreviation": "HU"
+        "religion": "Christianity"
     },
     {
         "country": "Iceland",
-        "abbreviation": "IS"
+        "religion": "Christianity"
     },
     {
         "country": "India",
-        "abbreviation": "IN"
+        "religion": "Hinduism"
     },
     {
         "country": "Indonesia",
-        "abbreviation": "ID"
+        "religion": "Islam"
     },
     {
         "country": "Iran",
-        "abbreviation": "IR"
+        "religion": "Islam"
     },
     {
         "country": "Iraq",
-        "abbreviation": "IQ"
+        "religion": "Islam"
     },
     {
         "country": "Ireland",
-        "abbreviation": "IE"
+        "religion": "Christianity"
     },
     {
         "country": "Isle of Man",
-        "abbreviation": "IM"
+        "religion": "Christianity"
     },
     {
         "country": "Israel",
-        "abbreviation": "IL"
+        "religion": "Judaism"
     },
     {
         "country": "Italy",
-        "abbreviation": "IT"
-    },
-    {
-        "country": "Ivory Coast",
-        "abbreviation": "CI"
+        "religion": "Christianity"
     },
     {
         "country": "Jamaica",
-        "abbreviation": "JM"
+        "religion": "Christianity"
     },
     {
         "country": "Japan",
-        "abbreviation": "JP"
-    },
-    {
-        "country": "Jersey",
-        "abbreviation": "JE"
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Jordan",
-        "abbreviation": "JO"
+        "religion": "Islam"
     },
     {
         "country": "Kazakhstan",
-        "abbreviation": "KZ"
+        "religion": "Islam"
     },
     {
         "country": "Kenya",
-        "abbreviation": "KE"
+        "religion": "Christianity"
     },
     {
         "country": "Kiribati",
-        "abbreviation": "KI"
+        "religion": "Christianity"
+    },
+    {
+        "country": "Kosovo",
+        "religion": "Islam"
     },
     {
         "country": "Kuwait",
-        "abbreviation": "KW"
+        "religion": "Islam"
     },
     {
         "country": "Kyrgyzstan",
-        "abbreviation": "KG"
+        "religion": "Islam"
     },
     {
         "country": "Laos",
-        "abbreviation": "LA"
+        "religion": "Buddhism"
+    },
+    {
+        "country": "Latin America-Caribbean",
+        "religion": "Christianity"
     },
     {
         "country": "Latvia",
-        "abbreviation": "LV"
+        "religion": "Christianity"
     },
     {
         "country": "Lebanon",
-        "abbreviation": "LB"
+        "religion": "Islam"
     },
     {
         "country": "Lesotho",
-        "abbreviation": "LS"
+        "religion": "Christianity"
     },
     {
         "country": "Liberia",
-        "abbreviation": "LR"
+        "religion": "Christianity"
     },
     {
-        "country": "Libyan Arab Jamahiriya",
-        "abbreviation": "LY"
+        "country": "Libya",
+        "religion": "Islam"
     },
     {
         "country": "Liechtenstein",
-        "abbreviation": "LI"
+        "religion": "Christianity"
     },
     {
         "country": "Lithuania",
-        "abbreviation": "LT"
+        "religion": "Christianity"
     },
     {
         "country": "Luxembourg",
-        "abbreviation": "LU"
+        "religion": "Christianity"
     },
     {
         "country": "Macao",
-        "abbreviation": "MO"
+        "religion": "Folk Religions"
     },
     {
-        "country": "North Macedonia",
-        "abbreviation": "MK"
+        "country": "Macedonia",
+        "religion": "Christianity"
     },
     {
         "country": "Madagascar",
-        "abbreviation": "MG"
+        "religion": "Christianity"
     },
     {
         "country": "Malawi",
-        "abbreviation": "MW"
+        "religion": "Christianity"
     },
     {
         "country": "Malaysia",
-        "abbreviation": "MY"
+        "religion": "Islam"
     },
     {
         "country": "Maldives",
-        "abbreviation": "MV"
+        "religion": "Islam"
     },
     {
         "country": "Mali",
-        "abbreviation": "ML"
+        "religion": "Islam"
     },
     {
         "country": "Malta",
-        "abbreviation": "MT"
+        "religion": "Christianity"
     },
     {
         "country": "Marshall Islands",
-        "abbreviation": "MH"
+        "religion": "Christianity"
     },
     {
         "country": "Martinique",
-        "abbreviation": "MQ"
+        "religion": "Christianity"
     },
     {
         "country": "Mauritania",
-        "abbreviation": "MR"
+        "religion": "Islam"
     },
     {
         "country": "Mauritius",
-        "abbreviation": "MU"
+        "religion": "Hinduism"
     },
     {
         "country": "Mayotte",
-        "abbreviation": "YT"
+        "religion": "Islam"
     },
     {
         "country": "Mexico",
-        "abbreviation": "MX"
+        "religion": "Christianity"
     },
     {
-        "country": "Micronesia, Federated States of",
-        "abbreviation": "FM"
+        "country": "Micronesia (country)",
+        "religion": "Christianity"
+    },
+    {
+        "country": "Middle East-North Africa",
+        "religion": "Islam"
     },
     {
         "country": "Moldova",
-        "abbreviation": "MD"
+        "religion": "Christianity"
     },
     {
         "country": "Monaco",
-        "abbreviation": "MC"
+        "religion": "Christianity"
     },
     {
         "country": "Mongolia",
-        "abbreviation": "MN"
+        "religion": "Buddhism"
     },
     {
         "country": "Montenegro",
-        "abbreviation": "ME"
+        "religion": "Christianity"
     },
     {
         "country": "Montserrat",
-        "abbreviation": "MS"
+        "religion": "Christianity"
     },
     {
         "country": "Morocco",
-        "abbreviation": "MA"
+        "religion": "Islam"
     },
     {
         "country": "Mozambique",
-        "abbreviation": "MZ"
+        "religion": "Christianity"
     },
     {
         "country": "Myanmar",
-        "abbreviation": "MM"
+        "religion": "Buddhism"
     },
     {
         "country": "Namibia",
-        "abbreviation": "NA"
+        "religion": "Christianity"
     },
     {
         "country": "Nauru",
-        "abbreviation": "NR"
+        "religion": "Christianity"
     },
     {
         "country": "Nepal",
-        "abbreviation": "NP"
+        "religion": "Hinduism"
     },
     {
         "country": "Netherlands",
-        "abbreviation": "NL"
-    },
-    {
-        "country": "Netherlands Antilles",
-        "abbreviation": "AN"
+        "religion": "Christianity"
     },
     {
         "country": "New Caledonia",
-        "abbreviation": "NC"
+        "religion": "Christianity"
     },
     {
         "country": "New Zealand",
-        "abbreviation": "NZ"
+        "religion": "Christianity"
     },
     {
         "country": "Nicaragua",
-        "abbreviation": "NI"
+        "religion": "Christianity"
     },
     {
         "country": "Niger",
-        "abbreviation": "NE"
+        "religion": "Islam"
     },
     {
         "country": "Nigeria",
-        "abbreviation": "NG"
+        "religion": "Christianity"
     },
     {
         "country": "Niue",
-        "abbreviation": "NU"
+        "religion": "Christianity"
     },
     {
-        "country": "Norfolk Island",
-        "abbreviation": "NF"
+        "country": "North America",
+        "religion": "Christianity"
     },
     {
         "country": "North Korea",
-        "abbreviation": "KP"
-    },
-    {
-        "country": "Northern Ireland",
-        "abbreviation": "GB"
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Northern Mariana Islands",
-        "abbreviation": "MP"
+        "religion": "Christianity"
     },
     {
         "country": "Norway",
-        "abbreviation": "NO"
+        "religion": "Christianity"
     },
     {
         "country": "Oman",
-        "abbreviation": "OM"
+        "religion": "Islam"
     },
     {
         "country": "Pakistan",
-        "abbreviation": "PK"
+        "religion": "Islam"
     },
     {
         "country": "Palau",
-        "abbreviation": "PW"
+        "religion": "Christianity"
     },
     {
         "country": "Palestine",
-        "abbreviation": "PS"
+        "religion": "Islam"
     },
     {
         "country": "Panama",
-        "abbreviation": "PA"
+        "religion": "Christianity"
     },
     {
         "country": "Papua New Guinea",
-        "abbreviation": "PG"
+        "religion": "Christianity"
     },
     {
         "country": "Paraguay",
-        "abbreviation": "PY"
+        "religion": "Christianity"
     },
     {
         "country": "Peru",
-        "abbreviation": "PE"
+        "religion": "Christianity"
     },
     {
         "country": "Philippines",
-        "abbreviation": "PH"
-    },
-    {
-        "country": "Pitcairn",
-        "abbreviation": "PN"
+        "religion": "Christianity"
     },
     {
         "country": "Poland",
-        "abbreviation": "PL"
+        "religion": "Christianity"
     },
     {
         "country": "Portugal",
-        "abbreviation": "PT"
+        "religion": "Christianity"
     },
     {
         "country": "Puerto Rico",
-        "abbreviation": "PR"
+        "religion": "Christianity"
     },
     {
         "country": "Qatar",
-        "abbreviation": "QA"
+        "religion": "Islam"
     },
     {
         "country": "Reunion",
-        "abbreviation": "RE"
+        "religion": "Christianity"
     },
     {
         "country": "Romania",
-        "abbreviation": "RO"
+        "religion": "Christianity"
     },
     {
-        "country": "Russian Federation",
-        "abbreviation": "RU"
+        "country": "Russia",
+        "religion": "Christianity"
     },
     {
         "country": "Rwanda",
-        "abbreviation": "RW"
+        "religion": "Christianity"
     },
     {
         "country": "Saint Helena",
-        "abbreviation": "SH"
+        "religion": "Christianity"
     },
     {
         "country": "Saint Kitts and Nevis",
-        "abbreviation": "KN"
+        "religion": "Christianity"
     },
     {
         "country": "Saint Lucia",
-        "abbreviation": "LC"
+        "religion": "Christianity"
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "abbreviation": "PM"
+        "religion": "Christianity"
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "abbreviation": "VC"
+        "religion": "Christianity"
     },
     {
         "country": "Samoa",
-        "abbreviation": "WS"
+        "religion": "Christianity"
     },
     {
         "country": "San Marino",
-        "abbreviation": "SM"
+        "religion": "Christianity"
     },
     {
         "country": "Sao Tome and Principe",
-        "abbreviation": "ST"
+        "religion": "Christianity"
     },
     {
         "country": "Saudi Arabia",
-        "abbreviation": "SA"
+        "religion": "Islam"
     },
     {
         "country": "Senegal",
-        "abbreviation": "SN"
+        "religion": "Islam"
     },
     {
         "country": "Serbia",
-        "abbreviation": "RS"
+        "religion": "Christianity"
     },
     {
         "country": "Seychelles",
-        "abbreviation": "SC"
+        "religion": "Christianity"
     },
     {
         "country": "Sierra Leone",
-        "abbreviation": "SL"
+        "religion": "Islam"
     },
     {
         "country": "Singapore",
-        "abbreviation": "SG"
+        "religion": "Buddhism"
+    },
+    {
+        "country": "Sint Maarten (Dutch part)",
+        "religion": "Christianity"
     },
     {
         "country": "Slovakia",
-        "abbreviation": "SK"
+        "religion": "Christianity"
     },
     {
         "country": "Slovenia",
-        "abbreviation": "SI"
+        "religion": "Christianity"
     },
     {
         "country": "Solomon Islands",
-        "abbreviation": "SB"
+        "religion": "Christianity"
     },
     {
         "country": "Somalia",
-        "abbreviation": "SO"
+        "religion": "Islam"
     },
     {
         "country": "South Africa",
-        "abbreviation": "ZA"
-    },
-    {
-        "country": "South Georgia and the South Sandwich Islands",
-        "abbreviation": "GS"
+        "religion": "Christianity"
     },
     {
         "country": "South Korea",
-        "abbreviation": "KR"
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "South Sudan",
-        "abbreviation": "SS"
+        "religion": "Christianity"
     },
     {
         "country": "Spain",
-        "abbreviation": "ES"
+        "religion": "Christianity"
     },
     {
         "country": "Sri Lanka",
-        "abbreviation": "LK"
+        "religion": "Buddhism"
+    },
+    {
+        "country": "Sub-Saharan Africa",
+        "religion": "Christianity"
     },
     {
         "country": "Sudan",
-        "abbreviation": "SD"
+        "religion": "Islam"
     },
     {
         "country": "Suriname",
-        "abbreviation": "SR"
-    },
-    {
-        "country": "Svalbard and Jan Mayen",
-        "abbreviation": "SJ"
+        "religion": "Christianity"
     },
     {
         "country": "Swaziland",
-        "abbreviation": "SZ"
+        "religion": "Christianity"
     },
     {
         "country": "Sweden",
-        "abbreviation": "SE"
+        "religion": "Christianity"
     },
     {
         "country": "Switzerland",
-        "abbreviation": "CH"
+        "religion": "Christianity"
     },
     {
         "country": "Syria",
-        "abbreviation": "SY"
+        "religion": "Islam"
+    },
+    {
+        "country": "Taiwan",
+        "religion": "Folk Religions"
     },
     {
         "country": "Tajikistan",
-        "abbreviation": "TJ"
+        "religion": "Islam"
     },
     {
         "country": "Tanzania",
-        "abbreviation": "TZ"
+        "religion": "Christianity"
     },
     {
         "country": "Thailand",
-        "abbreviation": "TH"
+        "religion": "Buddhism"
     },
     {
-        "country": "The Democratic Republic of Congo",
-        "abbreviation": "CD"
-    },
-    {
-        "country": "Timor-Leste",
-        "abbreviation": "TL"
+        "country": "Timor",
+        "religion": "Christianity"
     },
     {
         "country": "Togo",
-        "abbreviation": "TG"
+        "religion": "Christianity"
     },
     {
         "country": "Tokelau",
-        "abbreviation": "TK"
+        "religion": "Christianity"
     },
     {
         "country": "Tonga",
-        "abbreviation": "TO"
+        "religion": "Christianity"
     },
     {
         "country": "Trinidad and Tobago",
-        "abbreviation": "TT"
+        "religion": "Christianity"
     },
     {
         "country": "Tunisia",
-        "abbreviation": "TN"
+        "religion": "Islam"
     },
     {
         "country": "Turkey",
-        "abbreviation": "TR"
+        "religion": "Islam"
     },
     {
         "country": "Turkmenistan",
-        "abbreviation": "TM"
+        "religion": "Islam"
     },
     {
         "country": "Turks and Caicos Islands",
-        "abbreviation": "TC"
+        "religion": "Christianity"
     },
     {
         "country": "Tuvalu",
-        "abbreviation": "TV"
+        "religion": "Christianity"
     },
     {
         "country": "Uganda",
-        "abbreviation": "UG"
+        "religion": "Christianity"
     },
     {
         "country": "Ukraine",
-        "abbreviation": "UA"
+        "religion": "Christianity"
     },
     {
         "country": "United Arab Emirates",
-        "abbreviation": "AE"
+        "religion": "Islam"
     },
     {
         "country": "United Kingdom",
-        "abbreviation": "GB"
+        "religion": "Christianity"
     },
     {
         "country": "United States",
-        "abbreviation": "US"
+        "religion": "Christianity"
     },
     {
-        "country": "United States Minor Outlying Islands",
-        "abbreviation": "UM"
+        "country": "United States Virgin Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Uruguay",
-        "abbreviation": "UY"
+        "religion": "Christianity"
     },
     {
         "country": "Uzbekistan",
-        "abbreviation": "UZ"
+        "religion": "Islam"
     },
     {
         "country": "Vanuatu",
-        "abbreviation": "VU"
+        "religion": "Christianity"
+    },
+    {
+        "country": "Vatican",
+        "religion": "Christianity"
     },
     {
         "country": "Venezuela",
-        "abbreviation": "VE"
+        "religion": "Christianity"
     },
     {
         "country": "Vietnam",
-        "abbreviation": "VN"
-    },
-    {
-        "country": "Virgin Islands, British",
-        "abbreviation": "VG"
-    },
-    {
-        "country": "Virgin Islands, U.S.",
-        "abbreviation": "VI"
+        "religion": "Folk Religions"
     },
     {
         "country": "Wallis and Futuna",
-        "abbreviation": "WF"
+        "religion": "Christianity"
     },
     {
         "country": "Western Sahara",
-        "abbreviation": "EH"
+        "religion": "Islam"
     },
     {
         "country": "Yemen",
-        "abbreviation": "YE"
-    },
-    {
-        "country": "Yugoslavia",
-        "abbreviation": "YU"
+        "religion": "Islam"
     },
     {
         "country": "Zambia",
-        "abbreviation": "ZM"
+        "religion": "Christianity"
     },
     {
         "country": "Zimbabwe",
-        "abbreviation": "ZW"
+        "religion": "Christianity"
     }
 ]
