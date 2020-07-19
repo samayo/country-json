@@ -1,6 +1,6 @@
 {
     "name": "samayo/country-json",
-    "description": "A simple but useful data of the world (by country) in JSON formats",
+    "description": "A simple but usefuls data of the world (by country) in JSON formats",
     "keywords": ["json", "country", "data"],
     "homepage": "http://github.com/samayo/country-json",
     "license": "MIT",
