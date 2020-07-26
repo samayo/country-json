@@ -9,7 +9,8 @@
   "version": "1.0.6",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/samayo/country-json/issues"
   },
-  "homepage": "https://github.com/samayo/country-json#readme"
+  "homepage": "https://github.com/samayo/country-json#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
