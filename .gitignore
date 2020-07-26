@@ -1,2 +1,3 @@
 web/*
 npm-debug.log*
+/node_modules
