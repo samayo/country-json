@@ -1,0 +1,1225 @@
+[
+  {
+    "country": "Afghanistan",
+    "abbreviation": "AF",
+    "callingCode": 93
+  },
+  {
+    "country": "Albania",
+    "abbreviation": "AL",
+    "callingCode": 355
+  },
+  {
+    "country": "Algeria",
+    "abbreviation": "DZ",
+    "callingCode": 213
+  },
+  {
+    "country": "American Samoa",
+    "abbreviation": "AS",
+    "callingCode": 1684
+  },
+  {
+    "country": "Andorra",
+    "abbreviation": "AD",
+    "callingCode": 376
+  },
+  {
+    "country": "Angola",
+    "abbreviation": "AO",
+    "callingCode": 244
+  },
+  {
+    "country": "Anguilla",
+    "abbreviation": "AI",
+    "callingCode": 1264
+  },
+  {
+    "country": "Antarctica",
+    "abbreviation": "AQ",
+    "callingCode": null
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "abbreviation": "AG",
+    "callingCode": 1268
+  },
+  {
+    "country": "Argentina",
+    "abbreviation": "AR",
+    "callingCode": 54
+  },
+  {
+    "country": "Armenia",
+    "abbreviation": "AM",
+    "callingCode": 374
+  },
+  {
+    "country": "Aruba",
+    "abbreviation": "AW",
+    "callingCode": 297
+  },
+  {
+    "country": "Australia",
+    "abbreviation": "AU",
+    "callingCode": 61
+  },
+  {
+    "country": "Austria",
+    "abbreviation": "AT",
+    "callingCode": 43
+  },
+  {
+    "country": "Azerbaijan",
+    "abbreviation": "AZ",
+    "callingCode": 994
+  },
+  {
+    "country": "Bahamas",
+    "abbreviation": "BS",
+    "callingCode": 1242
+  },
+  {
+    "country": "Bahrain",
+    "abbreviation": "BH",
+    "callingCode": 973
+  },
+  {
+    "country": "Bangladesh",
+    "abbreviation": "BD",
+    "callingCode": 880
+  },
+  {
+    "country": "Barbados",
+    "abbreviation": "BB",
+    "callingCode": 1246
+  },
+  {
+    "country": "Belarus",
+    "abbreviation": "BY",
+    "callingCode": 375
+  },
+  {
+    "country": "Belgium",
+    "abbreviation": "BE",
+    "callingCode": 32
+  },
+  {
+    "country": "Belize",
+    "abbreviation": "BZ",
+    "callingCode": 501
+  },
+  {
+    "country": "Benin",
+    "abbreviation": "BJ",
+    "callingCode": 229
+  },
+  {
+    "country": "Bermuda",
+    "abbreviation": "BM",
+    "callingCode": 1441
+  },
+  {
+    "country": "Bhutan",
+    "abbreviation": "BT",
+    "callingCode": 975
+  },
+  {
+    "country": "Bolivia",
+    "abbreviation": "BO",
+    "callingCode": 591
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "abbreviation": "BA",
+    "callingCode": 387
+  },
+  {
+    "country": "Botswana",
+    "abbreviation": "BW",
+    "callingCode": 267
+  },
+  {
+    "country": "Bouvet Island",
+    "abbreviation": "BV",
+    "callingCode": null
+  },
+  {
+    "country": "Brazil",
+    "abbreviation": "BR",
+    "callingCode": 55
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "abbreviation": "IO",
+    "callingCode": 246
+  },
+  {
+    "country": "Brunei",
+    "abbreviation": "BN",
+    "callingCode": null
+  },
+  {
+    "country": "Bulgaria",
+    "abbreviation": "BG",
+    "callingCode": 359
+  },
+  {
+    "country": "Burkina Faso",
+    "abbreviation": "BF",
+    "callingCode": 226
+  },
+  {
+    "country": "Burundi",
+    "abbreviation": "BI",
+    "callingCode": 257
+  },
+  {
+    "country": "Cambodia",
+    "abbreviation": "KH",
+    "callingCode": 855
+  },
+  {
+    "country": "Cameroon",
+    "abbreviation": "CM",
+    "callingCode": 237
+  },
+  {
+    "country": "Canada",
+    "abbreviation": "CA",
+    "callingCode": 1
+  },
+  {
+    "country": "Cape Verde",
+    "abbreviation": "CV",
+    "callingCode": null
+  },
+  {
+    "country": "Cayman Islands",
+    "abbreviation": "KY",
+    "callingCode": 1345
+  },
+  {
+    "country": "Central African Republic",
+    "abbreviation": "CF",
+    "callingCode": 236
+  },
+  {
+    "country": "Chad",
+    "abbreviation": "TD",
+    "callingCode": 235
+  },
+  {
+    "country": "Chile",
+    "abbreviation": "CL",
+    "callingCode": 56
+  },
+  {
+    "country": "China",
+    "abbreviation": "CN",
+    "callingCode": 86
+  },
+  {
+    "country": "Christmas Island",
+    "abbreviation": "CX",
+    "callingCode": 61
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "abbreviation": "CC",
+    "callingCode": 61
+  },
+  {
+    "country": "Colombia",
+    "abbreviation": "CO",
+    "callingCode": 57
+  },
+  {
+    "country": "Comoros",
+    "abbreviation": "KM",
+    "callingCode": 269
+  },
+  {
+    "country": "Congo",
+    "abbreviation": "CG",
+    "callingCode": 242
+  },
+  {
+    "country": "Cook Islands",
+    "abbreviation": "CK",
+    "callingCode": 682
+  },
+  {
+    "country": "Costa Rica",
+    "abbreviation": "CR",
+    "callingCode": 506
+  },
+  {
+    "country": "Croatia",
+    "abbreviation": "HR",
+    "callingCode": 385
+  },
+  {
+    "country": "Cuba",
+    "abbreviation": "CU",
+    "callingCode": 53
+  },
+  {
+    "country": "Cyprus",
+    "abbreviation": "CY",
+    "callingCode": 357
+  },
+  {
+    "country": "Czech Republic",
+    "abbreviation": "CZ",
+    "callingCode": 420
+  },
+  {
+    "country": "Denmark",
+    "abbreviation": "DK",
+    "callingCode": 45
+  },
+  {
+    "country": "Djibouti",
+    "abbreviation": "DJ",
+    "callingCode": 253
+  },
+  {
+    "country": "Dominica",
+    "abbreviation": "DM",
+    "callingCode": 1767
+  },
+  {
+    "country": "Dominican Republic",
+    "abbreviation": "DO",
+    "callingCode": 1849
+  },
+  {
+    "country": "East Timor",
+    "abbreviation": "TP",
+    "callingCode": 670
+  },
+  {
+    "country": "Ecuador",
+    "abbreviation": "EC",
+    "callingCode": 593
+  },
+  {
+    "country": "Egypt",
+    "abbreviation": "EG",
+    "callingCode": 20
+  },
+  {
+    "country": "El Salvador",
+    "abbreviation": "SV",
+    "callingCode": 503
+  },
+  {
+    "country": "Equatorial Guinea",
+    "abbreviation": "GQ",
+    "callingCode": 240
+  },
+  {
+    "country": "Eritrea",
+    "abbreviation": "ER",
+    "callingCode": 291
+  },
+  {
+    "country": "Estonia",
+    "abbreviation": "EE",
+    "callingCode": 372
+  },
+  {
+    "country": "Ethiopia",
+    "abbreviation": "ET",
+    "callingCode": 251
+  },
+  {
+    "country": "Falkland Islands",
+    "abbreviation": "FK",
+    "callingCode": 500
+  },
+  {
+    "country": "Faroe Islands",
+    "abbreviation": "FO",
+    "callingCode": 298
+  },
+  {
+    "country": "Fiji Islands",
+    "abbreviation": "FJ",
+    "callingCode": null
+  },
+  {
+    "country": "Finland",
+    "abbreviation": "FI",
+    "callingCode": 358
+  },
+  {
+    "country": "France",
+    "abbreviation": "FR",
+    "callingCode": 33
+  },
+  {
+    "country": "French Guiana",
+    "abbreviation": "GF",
+    "callingCode": 594
+  },
+  {
+    "country": "French Polynesia",
+    "abbreviation": "PF",
+    "callingCode": 689
+  },
+  {
+    "country": "French Southern territories",
+    "abbreviation": "TF",
+    "callingCode": null
+  },
+  {
+    "country": "Gabon",
+    "abbreviation": "GA",
+    "callingCode": 241
+  },
+  {
+    "country": "Gambia",
+    "abbreviation": "GM",
+    "callingCode": 220
+  },
+  {
+    "country": "Georgia",
+    "abbreviation": "GE",
+    "callingCode": 995
+  },
+  {
+    "country": "Germany",
+    "abbreviation": "DE",
+    "callingCode": 49
+  },
+  {
+    "country": "Ghana",
+    "abbreviation": "GH",
+    "callingCode": 233
+  },
+  {
+    "country": "Gibraltar",
+    "abbreviation": "GI",
+    "callingCode": 350
+  },
+  {
+    "country": "Greece",
+    "abbreviation": "GR",
+    "callingCode": 30
+  },
+  {
+    "country": "Greenland",
+    "abbreviation": "GL",
+    "callingCode": 299
+  },
+  {
+    "country": "Grenada",
+    "abbreviation": "GD",
+    "callingCode": 1473
+  },
+  {
+    "country": "Guadeloupe",
+    "abbreviation": "GP",
+    "callingCode": 590
+  },
+  {
+    "country": "Guam",
+    "abbreviation": "GU",
+    "callingCode": 1671
+  },
+  {
+    "country": "Guatemala",
+    "abbreviation": "GT",
+    "callingCode": 502
+  },
+  {
+    "country": "Guernsey",
+    "abbreviation": "GG"
+  },
+  {
+    "country": "Guinea",
+    "abbreviation": "GN",
+    "callingCode": 224
+  },
+  {
+    "country": "Guinea-Bissau",
+    "abbreviation": "GW",
+    "callingCode": 245
+  },
+  {
+    "country": "Guyana",
+    "abbreviation": "GY",
+    "callingCode": 592
+  },
+  {
+    "country": "Haiti",
+    "abbreviation": "HT",
+    "callingCode": 509
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "abbreviation": "HM",
+    "callingCode": null
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "abbreviation": "VA",
+    "callingCode": null
+  },
+  {
+    "country": "Honduras",
+    "abbreviation": "HN",
+    "callingCode": 504
+  },
+  {
+    "country": "Hong Kong",
+    "abbreviation": "HK",
+    "callingCode": 852
+  },
+  {
+    "country": "Hungary",
+    "abbreviation": "HU",
+    "callingCode": 36
+  },
+  {
+    "country": "Iceland",
+    "abbreviation": "IS",
+    "callingCode": 354
+  },
+  {
+    "country": "India",
+    "abbreviation": "IN",
+    "callingCode": 91
+  },
+  {
+    "country": "Indonesia",
+    "abbreviation": "ID",
+    "callingCode": 62
+  },
+  {
+    "country": "Iran",
+    "abbreviation": "IR",
+    "callingCode": 98
+  },
+  {
+    "country": "Iraq",
+    "abbreviation": "IQ",
+    "callingCode": 964
+  },
+  {
+    "country": "Ireland",
+    "abbreviation": "IE",
+    "callingCode": 353
+  },
+  {
+    "country": "Isle of Man",
+    "abbreviation": "IM"
+  },
+  {
+    "country": "Israel",
+    "abbreviation": "IL",
+    "callingCode": 972
+  },
+  {
+    "country": "Italy",
+    "abbreviation": "IT",
+    "callingCode": 39
+  },
+  {
+    "country": "Ivory Coast",
+    "abbreviation": "CI",
+    "callingCode": 225
+  },
+  {
+    "country": "Jamaica",
+    "abbreviation": "JM",
+    "callingCode": 1876
+  },
+  {
+    "country": "Japan",
+    "abbreviation": "JP",
+    "callingCode": 81
+  },
+  {
+    "country": "Jersey",
+    "abbreviation": "JE"
+  },
+  {
+    "country": "Jordan",
+    "abbreviation": "JO",
+    "callingCode": 962
+  },
+  {
+    "country": "Kazakhstan",
+    "abbreviation": "KZ",
+    "callingCode": 7
+  },
+  {
+    "country": "Kenya",
+    "abbreviation": "KE",
+    "callingCode": 254
+  },
+  {
+    "country": "Kiribati",
+    "abbreviation": "KI",
+    "callingCode": 686
+  },
+  {
+    "country": "Kuwait",
+    "abbreviation": "KW",
+    "callingCode": 965
+  },
+  {
+    "country": "Kyrgyzstan",
+    "abbreviation": "KG",
+    "callingCode": 996
+  },
+  {
+    "country": "Laos",
+    "abbreviation": "LA",
+    "callingCode": 856
+  },
+  {
+    "country": "Latvia",
+    "abbreviation": "LV",
+    "callingCode": 371
+  },
+  {
+    "country": "Lebanon",
+    "abbreviation": "LB",
+    "callingCode": 961
+  },
+  {
+    "country": "Lesotho",
+    "abbreviation": "LS",
+    "callingCode": 266
+  },
+  {
+    "country": "Liberia",
+    "abbreviation": "LR",
+    "callingCode": 231
+  },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "abbreviation": "LY",
+    "callingCode": null
+  },
+  {
+    "country": "Liechtenstein",
+    "abbreviation": "LI",
+    "callingCode": 423
+  },
+  {
+    "country": "Lithuania",
+    "abbreviation": "LT",
+    "callingCode": 370
+  },
+  {
+    "country": "Luxembourg",
+    "abbreviation": "LU",
+    "callingCode": 352
+  },
+  {
+    "country": "Macao",
+    "abbreviation": "MO",
+    "callingCode": null
+  },
+  {
+    "country": "North Macedonia",
+    "abbreviation": "MK",
+    "callingCode": 389
+  },
+  {
+    "country": "Madagascar",
+    "abbreviation": "MG",
+    "callingCode": 261
+  },
+  {
+    "country": "Malawi",
+    "abbreviation": "MW",
+    "callingCode": 265
+  },
+  {
+    "country": "Malaysia",
+    "abbreviation": "MY",
+    "callingCode": 60
+  },
+  {
+    "country": "Maldives",
+    "abbreviation": "MV",
+    "callingCode": 960
+  },
+  {
+    "country": "Mali",
+    "abbreviation": "ML",
+    "callingCode": 223
+  },
+  {
+    "country": "Malta",
+    "abbreviation": "MT",
+    "callingCode": 356
+  },
+  {
+    "country": "Marshall Islands",
+    "abbreviation": "MH",
+    "callingCode": 692
+  },
+  {
+    "country": "Martinique",
+    "abbreviation": "MQ",
+    "callingCode": 596
+  },
+  {
+    "country": "Mauritania",
+    "abbreviation": "MR",
+    "callingCode": 222
+  },
+  {
+    "country": "Mauritius",
+    "abbreviation": "MU",
+    "callingCode": 230
+  },
+  {
+    "country": "Mayotte",
+    "abbreviation": "YT",
+    "callingCode": 262
+  },
+  {
+    "country": "Mexico",
+    "abbreviation": "MX",
+    "callingCode": 52
+  },
+  {
+    "country": "Micronesia, Federated States of",
+    "abbreviation": "FM",
+    "callingCode": 691
+  },
+  {
+    "country": "Moldova",
+    "abbreviation": "MD",
+    "callingCode": 373
+  },
+  {
+    "country": "Monaco",
+    "abbreviation": "MC",
+    "callingCode": 377
+  },
+  {
+    "country": "Mongolia",
+    "abbreviation": "MN",
+    "callingCode": 976
+  },
+  {
+    "country": "Montenegro",
+    "abbreviation": "ME"
+  },
+  {
+    "country": "Montserrat",
+    "abbreviation": "MS",
+    "callingCode": 1664
+  },
+  {
+    "country": "Morocco",
+    "abbreviation": "MA",
+    "callingCode": 212
+  },
+  {
+    "country": "Mozambique",
+    "abbreviation": "MZ",
+    "callingCode": 258
+  },
+  {
+    "country": "Myanmar",
+    "abbreviation": "MM",
+    "callingCode": 95
+  },
+  {
+    "country": "Namibia",
+    "abbreviation": "NA",
+    "callingCode": 264
+  },
+  {
+    "country": "Nauru",
+    "abbreviation": "NR",
+    "callingCode": 674
+  },
+  {
+    "country": "Nepal",
+    "abbreviation": "NP",
+    "callingCode": 977
+  },
+  {
+    "country": "Netherlands",
+    "abbreviation": "NL",
+    "callingCode": 31
+  },
+  {
+    "country": "Netherlands Antilles",
+    "abbreviation": "AN",
+    "callingCode": null
+  },
+  {
+    "country": "New Caledonia",
+    "abbreviation": "NC",
+    "callingCode": 687
+  },
+  {
+    "country": "New Zealand",
+    "abbreviation": "NZ",
+    "callingCode": 64
+  },
+  {
+    "country": "Nicaragua",
+    "abbreviation": "NI",
+    "callingCode": 505
+  },
+  {
+    "country": "Niger",
+    "abbreviation": "NE",
+    "callingCode": 227
+  },
+  {
+    "country": "Nigeria",
+    "abbreviation": "NG",
+    "callingCode": 234
+  },
+  {
+    "country": "Niue",
+    "abbreviation": "NU",
+    "callingCode": 683
+  },
+  {
+    "country": "Norfolk Island",
+    "abbreviation": "NF",
+    "callingCode": 672
+  },
+  {
+    "country": "North Korea",
+    "abbreviation": "KP",
+    "callingCode": null
+  },
+  {
+    "country": "Northern Ireland",
+    "abbreviation": "GB",
+    "callingCode": null
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "abbreviation": "MP",
+    "callingCode": 1670
+  },
+  {
+    "country": "Norway",
+    "abbreviation": "NO",
+    "callingCode": 47
+  },
+  {
+    "country": "Oman",
+    "abbreviation": "OM",
+    "callingCode": 968
+  },
+  {
+    "country": "Pakistan",
+    "abbreviation": "PK",
+    "callingCode": 92
+  },
+  {
+    "country": "Palau",
+    "abbreviation": "PW",
+    "callingCode": 680
+  },
+  {
+    "country": "Palestine",
+    "abbreviation": "PS",
+    "callingCode": null
+  },
+  {
+    "country": "Panama",
+    "abbreviation": "PA",
+    "callingCode": 507
+  },
+  {
+    "country": "Papua New Guinea",
+    "abbreviation": "PG",
+    "callingCode": 675
+  },
+  {
+    "country": "Paraguay",
+    "abbreviation": "PY",
+    "callingCode": 595
+  },
+  {
+    "country": "Peru",
+    "abbreviation": "PE",
+    "callingCode": 51
+  },
+  {
+    "country": "Philippines",
+    "abbreviation": "PH",
+    "callingCode": 63
+  },
+  {
+    "country": "Pitcairn",
+    "abbreviation": "PN",
+    "callingCode": null
+  },
+  {
+    "country": "Poland",
+    "abbreviation": "PL",
+    "callingCode": 48
+  },
+  {
+    "country": "Portugal",
+    "abbreviation": "PT",
+    "callingCode": 351
+  },
+  {
+    "country": "Puerto Rico",
+    "abbreviation": "PR",
+    "callingCode": 1939
+  },
+  {
+    "country": "Qatar",
+    "abbreviation": "QA",
+    "callingCode": 974
+  },
+  {
+    "country": "Reunion",
+    "abbreviation": "RE",
+    "callingCode": 262
+  },
+  {
+    "country": "Romania",
+    "abbreviation": "RO",
+    "callingCode": 40
+  },
+  {
+    "country": "Russian Federation",
+    "abbreviation": "RU",
+    "callingCode": 7
+  },
+  {
+    "country": "Rwanda",
+    "abbreviation": "RW",
+    "callingCode": 250
+  },
+  {
+    "country": "Saint Helena",
+    "abbreviation": "SH",
+    "callingCode": 290
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "abbreviation": "KN",
+    "callingCode": 1869
+  },
+  {
+    "country": "Saint Lucia",
+    "abbreviation": "LC",
+    "callingCode": 1758
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "abbreviation": "PM",
+    "callingCode": 508
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "abbreviation": "VC",
+    "callingCode": 1784
+  },
+  {
+    "country": "Samoa",
+    "abbreviation": "WS",
+    "callingCode": 685
+  },
+  {
+    "country": "San Marino",
+    "abbreviation": "SM",
+    "callingCode": 378
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "abbreviation": "ST",
+    "callingCode": 239
+  },
+  {
+    "country": "Saudi Arabia",
+    "abbreviation": "SA",
+    "callingCode": 966
+  },
+  {
+    "country": "Senegal",
+    "abbreviation": "SN",
+    "callingCode": 221
+  },
+  {
+    "country": "Serbia",
+    "abbreviation": "RS"
+  },
+  {
+    "country": "Seychelles",
+    "abbreviation": "SC",
+    "callingCode": 248
+  },
+  {
+    "country": "Sierra Leone",
+    "abbreviation": "SL",
+    "callingCode": 232
+  },
+  {
+    "country": "Singapore",
+    "abbreviation": "SG",
+    "callingCode": 65
+  },
+  {
+    "country": "Slovakia",
+    "abbreviation": "SK",
+    "callingCode": 421
+  },
+  {
+    "country": "Slovenia",
+    "abbreviation": "SI",
+    "callingCode": 386
+  },
+  {
+    "country": "Solomon Islands",
+    "abbreviation": "SB",
+    "callingCode": 677
+  },
+  {
+    "country": "Somalia",
+    "abbreviation": "SO",
+    "callingCode": 252
+  },
+  {
+    "country": "South Africa",
+    "abbreviation": "ZA",
+    "callingCode": 27
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "abbreviation": "GS",
+    "callingCode": 500
+  },
+  {
+    "country": "South Korea",
+    "abbreviation": "KR",
+    "callingCode": null
+  },
+  {
+    "country": "South Sudan",
+    "abbreviation": "SS",
+    "callingCode": 211
+  },
+  {
+    "country": "Spain",
+    "abbreviation": "ES",
+    "callingCode": 34
+  },
+  {
+    "country": "Sri Lanka",
+    "abbreviation": "LK"
+  },
+  {
+    "country": "Sudan",
+    "abbreviation": "SD",
+    "callingCode": 249
+  },
+  {
+    "country": "Suriname",
+    "abbreviation": "SR",
+    "callingCode": 597
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "abbreviation": "SJ",
+    "callingCode": null
+  },
+  {
+    "country": "Swaziland",
+    "abbreviation": "SZ",
+    "callingCode": 268
+  },
+  {
+    "country": "Sweden",
+    "abbreviation": "SE",
+    "callingCode": 46
+  },
+  {
+    "country": "Switzerland",
+    "abbreviation": "CH",
+    "callingCode": 41
+  },
+  {
+    "country": "Syria",
+    "abbreviation": "SY",
+    "callingCode": 963
+  },
+  {
+    "country": "Tajikistan",
+    "abbreviation": "TJ",
+    "callingCode": 992
+  },
+  {
+    "country": "Tanzania",
+    "abbreviation": "TZ",
+    "callingCode": 255
+  },
+  {
+    "country": "Thailand",
+    "abbreviation": "TH",
+    "callingCode": 66
+  },
+  {
+    "country": "The Democratic Republic of Congo",
+    "abbreviation": "CD",
+    "callingCode": 243
+  },
+  {
+    "country": "Timor-Leste",
+    "abbreviation": "TL"
+  },
+  {
+    "country": "Togo",
+    "abbreviation": "TG",
+    "callingCode": 228
+  },
+  {
+    "country": "Tokelau",
+    "abbreviation": "TK",
+    "callingCode": 690
+  },
+  {
+    "country": "Tonga",
+    "abbreviation": "TO",
+    "callingCode": 676
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "abbreviation": "TT",
+    "callingCode": 1868
+  },
+  {
+    "country": "Tunisia",
+    "abbreviation": "TN",
+    "callingCode": 216
+  },
+  {
+    "country": "Turkey",
+    "abbreviation": "TR",
+    "callingCode": 90
+  },
+  {
+    "country": "Turkmenistan",
+    "abbreviation": "TM",
+    "callingCode": 993
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "abbreviation": "TC",
+    "callingCode": 1649
+  },
+  {
+    "country": "Tuvalu",
+    "abbreviation": "TV",
+    "callingCode": 688
+  },
+  {
+    "country": "Uganda",
+    "abbreviation": "UG",
+    "callingCode": 256
+  },
+  {
+    "country": "Ukraine",
+    "abbreviation": "UA",
+    "callingCode": 380
+  },
+  {
+    "country": "United Arab Emirates",
+    "abbreviation": "AE",
+    "callingCode": 971
+  },
+  {
+    "country": "United Kingdom",
+    "abbreviation": "GB",
+    "callingCode": 44
+  },
+  {
+    "country": "United States",
+    "abbreviation": "US",
+    "callingCode": 1
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "abbreviation": "UM",
+    "callingCode": null
+  },
+  {
+    "country": "Uruguay",
+    "abbreviation": "UY",
+    "callingCode": 598
+  },
+  {
+    "country": "Uzbekistan",
+    "abbreviation": "UZ",
+    "callingCode": 998
+  },
+  {
+    "country": "Vanuatu",
+    "abbreviation": "VU",
+    "callingCode": 678
+  },
+  {
+    "country": "Venezuela",
+    "abbreviation": "VE",
+    "callingCode": 58
+  },
+  {
+    "country": "Vietnam",
+    "abbreviation": "VN",
+    "callingCode": 84
+  },
+  {
+    "country": "Virgin Islands, British",
+    "abbreviation": "VG",
+    "callingCode": null
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "abbreviation": "VI",
+    "callingCode": null
+  },
+  {
+    "country": "Wallis and Futuna",
+    "abbreviation": "WF",
+    "callingCode": 681
+  },
+  {
+    "country": "Western Sahara",
+    "abbreviation": "EH",
+    "callingCode": null
+  },
+  {
+    "country": "Yemen",
+    "abbreviation": "YE",
+    "callingCode": 967
+  },
+  {
+    "country": "Yugoslavia",
+    "abbreviation": "YU",
+    "callingCode": null
+  },
+  {
+    "country": "Zambia",
+    "abbreviation": "ZM",
+    "callingCode": 260
+  },
+  {
+    "country": "Zimbabwe",
+    "abbreviation": "ZW",
+    "callingCode": 263
+  }
+]

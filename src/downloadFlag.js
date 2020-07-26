@@ -5,8 +5,8 @@ const axios = require("axios");
 
 const pipeline = util.promisify(stream.pipeline);
 
-const countries = require("./src/country-by-abbreviation.json");
-const basePath = "./country-flags-images";
+const countries = require("./json-data/country-by-abbreviation.json");
+const basePath = "./src/country-flags-images";
 
 const downloadFlag = ({ countryCode = "", style = "flat", size = 24 }) => {
   try {
