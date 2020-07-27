@@ -12,11 +12,23 @@ const combinedData = countriesByAbbreviation.map((country) => {
         String(country.country).toLowerCase()
       );
     }) || {};
+  const basePath = `./src/country-flags-images/flat/24`;
+  const filePath = `${basePath}/${String(
+    country.abbreviation
+  ).toLowerCase()}.png`;
 
-  return {
-    ...country,
-    callingCode: findCountry.calling_code,
-  };
+  if (fs.existsSync(filePath)) {
+    return {
+      ...country,
+      callingCode: findCountry.calling_code,
+      flag: `${String(country.abbreviation).toLowerCase()}.png`,
+    };
+  } else {
+    return {
+      ...country,
+      callingCode: findCountry.calling_code,
+    };
+  }
 });
 
 fs.writeFile(filePath, JSON.stringify(combinedData, null, 2), function (err) {

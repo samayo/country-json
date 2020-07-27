@@ -2,297 +2,356 @@
   {
     "country": "Afghanistan",
     "abbreviation": "AF",
-    "callingCode": 93
+    "callingCode": 93,
+    "flag": "af.png"
   },
   {
     "country": "Albania",
     "abbreviation": "AL",
-    "callingCode": 355
+    "callingCode": 355,
+    "flag": "al.png"
   },
   {
     "country": "Algeria",
     "abbreviation": "DZ",
-    "callingCode": 213
+    "callingCode": 213,
+    "flag": "dz.png"
   },
   {
     "country": "American Samoa",
     "abbreviation": "AS",
-    "callingCode": 1684
+    "callingCode": 1684,
+    "flag": "as.png"
   },
   {
     "country": "Andorra",
     "abbreviation": "AD",
-    "callingCode": 376
+    "callingCode": 376,
+    "flag": "ad.png"
   },
   {
     "country": "Angola",
     "abbreviation": "AO",
-    "callingCode": 244
+    "callingCode": 244,
+    "flag": "ao.png"
   },
   {
     "country": "Anguilla",
     "abbreviation": "AI",
-    "callingCode": 1264
+    "callingCode": 1264,
+    "flag": "ai.png"
   },
   {
     "country": "Antarctica",
     "abbreviation": "AQ",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "aq.png"
   },
   {
     "country": "Antigua and Barbuda",
     "abbreviation": "AG",
-    "callingCode": 1268
+    "callingCode": 1268,
+    "flag": "ag.png"
   },
   {
     "country": "Argentina",
     "abbreviation": "AR",
-    "callingCode": 54
+    "callingCode": 54,
+    "flag": "ar.png"
   },
   {
     "country": "Armenia",
     "abbreviation": "AM",
-    "callingCode": 374
+    "callingCode": 374,
+    "flag": "am.png"
   },
   {
     "country": "Aruba",
     "abbreviation": "AW",
-    "callingCode": 297
+    "callingCode": 297,
+    "flag": "aw.png"
   },
   {
     "country": "Australia",
     "abbreviation": "AU",
-    "callingCode": 61
+    "callingCode": 61,
+    "flag": "au.png"
   },
   {
     "country": "Austria",
     "abbreviation": "AT",
-    "callingCode": 43
+    "callingCode": 43,
+    "flag": "at.png"
   },
   {
     "country": "Azerbaijan",
     "abbreviation": "AZ",
-    "callingCode": 994
+    "callingCode": 994,
+    "flag": "az.png"
   },
   {
     "country": "Bahamas",
     "abbreviation": "BS",
-    "callingCode": 1242
+    "callingCode": 1242,
+    "flag": "bs.png"
   },
   {
     "country": "Bahrain",
     "abbreviation": "BH",
-    "callingCode": 973
+    "callingCode": 973,
+    "flag": "bh.png"
   },
   {
     "country": "Bangladesh",
     "abbreviation": "BD",
-    "callingCode": 880
+    "callingCode": 880,
+    "flag": "bd.png"
   },
   {
     "country": "Barbados",
     "abbreviation": "BB",
-    "callingCode": 1246
+    "callingCode": 1246,
+    "flag": "bb.png"
   },
   {
     "country": "Belarus",
     "abbreviation": "BY",
-    "callingCode": 375
+    "callingCode": 375,
+    "flag": "by.png"
   },
   {
     "country": "Belgium",
     "abbreviation": "BE",
-    "callingCode": 32
+    "callingCode": 32,
+    "flag": "be.png"
   },
   {
     "country": "Belize",
     "abbreviation": "BZ",
-    "callingCode": 501
+    "callingCode": 501,
+    "flag": "bz.png"
   },
   {
     "country": "Benin",
     "abbreviation": "BJ",
-    "callingCode": 229
+    "callingCode": 229,
+    "flag": "bj.png"
   },
   {
     "country": "Bermuda",
     "abbreviation": "BM",
-    "callingCode": 1441
+    "callingCode": 1441,
+    "flag": "bm.png"
   },
   {
     "country": "Bhutan",
     "abbreviation": "BT",
-    "callingCode": 975
+    "callingCode": 975,
+    "flag": "bt.png"
   },
   {
     "country": "Bolivia",
     "abbreviation": "BO",
-    "callingCode": 591
+    "callingCode": 591,
+    "flag": "bo.png"
   },
   {
     "country": "Bosnia and Herzegovina",
     "abbreviation": "BA",
-    "callingCode": 387
+    "callingCode": 387,
+    "flag": "ba.png"
   },
   {
     "country": "Botswana",
     "abbreviation": "BW",
-    "callingCode": 267
+    "callingCode": 267,
+    "flag": "bw.png"
   },
   {
     "country": "Bouvet Island",
     "abbreviation": "BV",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "bv.png"
   },
   {
     "country": "Brazil",
     "abbreviation": "BR",
-    "callingCode": 55
+    "callingCode": 55,
+    "flag": "br.png"
   },
   {
     "country": "British Indian Ocean Territory",
     "abbreviation": "IO",
-    "callingCode": 246
+    "callingCode": 246,
+    "flag": "io.png"
   },
   {
     "country": "Brunei",
     "abbreviation": "BN",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "bn.png"
   },
   {
     "country": "Bulgaria",
     "abbreviation": "BG",
-    "callingCode": 359
+    "callingCode": 359,
+    "flag": "bg.png"
   },
   {
     "country": "Burkina Faso",
     "abbreviation": "BF",
-    "callingCode": 226
+    "callingCode": 226,
+    "flag": "bf.png"
   },
   {
     "country": "Burundi",
     "abbreviation": "BI",
-    "callingCode": 257
+    "callingCode": 257,
+    "flag": "bi.png"
   },
   {
     "country": "Cambodia",
     "abbreviation": "KH",
-    "callingCode": 855
+    "callingCode": 855,
+    "flag": "kh.png"
   },
   {
     "country": "Cameroon",
     "abbreviation": "CM",
-    "callingCode": 237
+    "callingCode": 237,
+    "flag": "cm.png"
   },
   {
     "country": "Canada",
     "abbreviation": "CA",
-    "callingCode": 1
+    "callingCode": 1,
+    "flag": "ca.png"
   },
   {
     "country": "Cape Verde",
     "abbreviation": "CV",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "cv.png"
   },
   {
     "country": "Cayman Islands",
     "abbreviation": "KY",
-    "callingCode": 1345
+    "callingCode": 1345,
+    "flag": "ky.png"
   },
   {
     "country": "Central African Republic",
     "abbreviation": "CF",
-    "callingCode": 236
+    "callingCode": 236,
+    "flag": "cf.png"
   },
   {
     "country": "Chad",
     "abbreviation": "TD",
-    "callingCode": 235
+    "callingCode": 235,
+    "flag": "td.png"
   },
   {
     "country": "Chile",
     "abbreviation": "CL",
-    "callingCode": 56
+    "callingCode": 56,
+    "flag": "cl.png"
   },
   {
     "country": "China",
     "abbreviation": "CN",
-    "callingCode": 86
+    "callingCode": 86,
+    "flag": "cn.png"
   },
   {
     "country": "Christmas Island",
     "abbreviation": "CX",
-    "callingCode": 61
+    "callingCode": 61,
+    "flag": "cx.png"
   },
   {
     "country": "Cocos (Keeling) Islands",
     "abbreviation": "CC",
-    "callingCode": 61
+    "callingCode": 61,
+    "flag": "cc.png"
   },
   {
     "country": "Colombia",
     "abbreviation": "CO",
-    "callingCode": 57
+    "callingCode": 57,
+    "flag": "co.png"
   },
   {
     "country": "Comoros",
     "abbreviation": "KM",
-    "callingCode": 269
+    "callingCode": 269,
+    "flag": "km.png"
   },
   {
     "country": "Congo",
     "abbreviation": "CG",
-    "callingCode": 242
+    "callingCode": 242,
+    "flag": "cg.png"
   },
   {
     "country": "Cook Islands",
     "abbreviation": "CK",
-    "callingCode": 682
+    "callingCode": 682,
+    "flag": "ck.png"
   },
   {
     "country": "Costa Rica",
     "abbreviation": "CR",
-    "callingCode": 506
+    "callingCode": 506,
+    "flag": "cr.png"
   },
   {
     "country": "Croatia",
     "abbreviation": "HR",
-    "callingCode": 385
+    "callingCode": 385,
+    "flag": "hr.png"
   },
   {
     "country": "Cuba",
     "abbreviation": "CU",
-    "callingCode": 53
+    "callingCode": 53,
+    "flag": "cu.png"
   },
   {
     "country": "Cyprus",
     "abbreviation": "CY",
-    "callingCode": 357
+    "callingCode": 357,
+    "flag": "cy.png"
   },
   {
     "country": "Czech Republic",
     "abbreviation": "CZ",
-    "callingCode": 420
+    "callingCode": 420,
+    "flag": "cz.png"
   },
   {
     "country": "Denmark",
     "abbreviation": "DK",
-    "callingCode": 45
+    "callingCode": 45,
+    "flag": "dk.png"
   },
   {
     "country": "Djibouti",
     "abbreviation": "DJ",
-    "callingCode": 253
+    "callingCode": 253,
+    "flag": "dj.png"
   },
   {
     "country": "Dominica",
     "abbreviation": "DM",
-    "callingCode": 1767
+    "callingCode": 1767,
+    "flag": "dm.png"
   },
   {
     "country": "Dominican Republic",
     "abbreviation": "DO",
-    "callingCode": 1849
+    "callingCode": 1849,
+    "flag": "do.png"
   },
   {
     "country": "East Timor",
@@ -302,910 +361,1093 @@
   {
     "country": "Ecuador",
     "abbreviation": "EC",
-    "callingCode": 593
+    "callingCode": 593,
+    "flag": "ec.png"
   },
   {
     "country": "Egypt",
     "abbreviation": "EG",
-    "callingCode": 20
+    "callingCode": 20,
+    "flag": "eg.png"
   },
   {
     "country": "El Salvador",
     "abbreviation": "SV",
-    "callingCode": 503
+    "callingCode": 503,
+    "flag": "sv.png"
   },
   {
     "country": "Equatorial Guinea",
     "abbreviation": "GQ",
-    "callingCode": 240
+    "callingCode": 240,
+    "flag": "gq.png"
   },
   {
     "country": "Eritrea",
     "abbreviation": "ER",
-    "callingCode": 291
+    "callingCode": 291,
+    "flag": "er.png"
   },
   {
     "country": "Estonia",
     "abbreviation": "EE",
-    "callingCode": 372
+    "callingCode": 372,
+    "flag": "ee.png"
   },
   {
     "country": "Ethiopia",
     "abbreviation": "ET",
-    "callingCode": 251
+    "callingCode": 251,
+    "flag": "et.png"
   },
   {
     "country": "Falkland Islands",
     "abbreviation": "FK",
-    "callingCode": 500
+    "callingCode": 500,
+    "flag": "fk.png"
   },
   {
     "country": "Faroe Islands",
     "abbreviation": "FO",
-    "callingCode": 298
+    "callingCode": 298,
+    "flag": "fo.png"
   },
   {
     "country": "Fiji Islands",
     "abbreviation": "FJ",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "fj.png"
   },
   {
     "country": "Finland",
     "abbreviation": "FI",
-    "callingCode": 358
+    "callingCode": 358,
+    "flag": "fi.png"
   },
   {
     "country": "France",
     "abbreviation": "FR",
-    "callingCode": 33
+    "callingCode": 33,
+    "flag": "fr.png"
   },
   {
     "country": "French Guiana",
     "abbreviation": "GF",
-    "callingCode": 594
+    "callingCode": 594,
+    "flag": "gf.png"
   },
   {
     "country": "French Polynesia",
     "abbreviation": "PF",
-    "callingCode": 689
+    "callingCode": 689,
+    "flag": "pf.png"
   },
   {
     "country": "French Southern territories",
     "abbreviation": "TF",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "tf.png"
   },
   {
     "country": "Gabon",
     "abbreviation": "GA",
-    "callingCode": 241
+    "callingCode": 241,
+    "flag": "ga.png"
   },
   {
     "country": "Gambia",
     "abbreviation": "GM",
-    "callingCode": 220
+    "callingCode": 220,
+    "flag": "gm.png"
   },
   {
     "country": "Georgia",
     "abbreviation": "GE",
-    "callingCode": 995
+    "callingCode": 995,
+    "flag": "ge.png"
   },
   {
     "country": "Germany",
     "abbreviation": "DE",
-    "callingCode": 49
+    "callingCode": 49,
+    "flag": "de.png"
   },
   {
     "country": "Ghana",
     "abbreviation": "GH",
-    "callingCode": 233
+    "callingCode": 233,
+    "flag": "gh.png"
   },
   {
     "country": "Gibraltar",
     "abbreviation": "GI",
-    "callingCode": 350
+    "callingCode": 350,
+    "flag": "gi.png"
   },
   {
     "country": "Greece",
     "abbreviation": "GR",
-    "callingCode": 30
+    "callingCode": 30,
+    "flag": "gr.png"
   },
   {
     "country": "Greenland",
     "abbreviation": "GL",
-    "callingCode": 299
+    "callingCode": 299,
+    "flag": "gl.png"
   },
   {
     "country": "Grenada",
     "abbreviation": "GD",
-    "callingCode": 1473
+    "callingCode": 1473,
+    "flag": "gd.png"
   },
   {
     "country": "Guadeloupe",
     "abbreviation": "GP",
-    "callingCode": 590
+    "callingCode": 590,
+    "flag": "gp.png"
   },
   {
     "country": "Guam",
     "abbreviation": "GU",
-    "callingCode": 1671
+    "callingCode": 1671,
+    "flag": "gu.png"
   },
   {
     "country": "Guatemala",
     "abbreviation": "GT",
-    "callingCode": 502
+    "callingCode": 502,
+    "flag": "gt.png"
   },
   {
     "country": "Guernsey",
-    "abbreviation": "GG"
+    "abbreviation": "GG",
+    "flag": "gg.png"
   },
   {
     "country": "Guinea",
     "abbreviation": "GN",
-    "callingCode": 224
+    "callingCode": 224,
+    "flag": "gn.png"
   },
   {
     "country": "Guinea-Bissau",
     "abbreviation": "GW",
-    "callingCode": 245
+    "callingCode": 245,
+    "flag": "gw.png"
   },
   {
     "country": "Guyana",
     "abbreviation": "GY",
-    "callingCode": 592
+    "callingCode": 592,
+    "flag": "gy.png"
   },
   {
     "country": "Haiti",
     "abbreviation": "HT",
-    "callingCode": 509
+    "callingCode": 509,
+    "flag": "ht.png"
   },
   {
     "country": "Heard Island and McDonald Islands",
     "abbreviation": "HM",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "hm.png"
   },
   {
     "country": "Holy See (Vatican City State)",
     "abbreviation": "VA",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "va.png"
   },
   {
     "country": "Honduras",
     "abbreviation": "HN",
-    "callingCode": 504
+    "callingCode": 504,
+    "flag": "hn.png"
   },
   {
     "country": "Hong Kong",
     "abbreviation": "HK",
-    "callingCode": 852
+    "callingCode": 852,
+    "flag": "hk.png"
   },
   {
     "country": "Hungary",
     "abbreviation": "HU",
-    "callingCode": 36
+    "callingCode": 36,
+    "flag": "hu.png"
   },
   {
     "country": "Iceland",
     "abbreviation": "IS",
-    "callingCode": 354
+    "callingCode": 354,
+    "flag": "is.png"
   },
   {
     "country": "India",
     "abbreviation": "IN",
-    "callingCode": 91
+    "callingCode": 91,
+    "flag": "in.png"
   },
   {
     "country": "Indonesia",
     "abbreviation": "ID",
-    "callingCode": 62
+    "callingCode": 62,
+    "flag": "id.png"
   },
   {
     "country": "Iran",
     "abbreviation": "IR",
-    "callingCode": 98
+    "callingCode": 98,
+    "flag": "ir.png"
   },
   {
     "country": "Iraq",
     "abbreviation": "IQ",
-    "callingCode": 964
+    "callingCode": 964,
+    "flag": "iq.png"
   },
   {
     "country": "Ireland",
     "abbreviation": "IE",
-    "callingCode": 353
+    "callingCode": 353,
+    "flag": "ie.png"
   },
   {
     "country": "Isle of Man",
-    "abbreviation": "IM"
+    "abbreviation": "IM",
+    "flag": "im.png"
   },
   {
     "country": "Israel",
     "abbreviation": "IL",
-    "callingCode": 972
+    "callingCode": 972,
+    "flag": "il.png"
   },
   {
     "country": "Italy",
     "abbreviation": "IT",
-    "callingCode": 39
+    "callingCode": 39,
+    "flag": "it.png"
   },
   {
     "country": "Ivory Coast",
     "abbreviation": "CI",
-    "callingCode": 225
+    "callingCode": 225,
+    "flag": "ci.png"
   },
   {
     "country": "Jamaica",
     "abbreviation": "JM",
-    "callingCode": 1876
+    "callingCode": 1876,
+    "flag": "jm.png"
   },
   {
     "country": "Japan",
     "abbreviation": "JP",
-    "callingCode": 81
+    "callingCode": 81,
+    "flag": "jp.png"
   },
   {
     "country": "Jersey",
-    "abbreviation": "JE"
+    "abbreviation": "JE",
+    "flag": "je.png"
   },
   {
     "country": "Jordan",
     "abbreviation": "JO",
-    "callingCode": 962
+    "callingCode": 962,
+    "flag": "jo.png"
   },
   {
     "country": "Kazakhstan",
     "abbreviation": "KZ",
-    "callingCode": 7
+    "callingCode": 7,
+    "flag": "kz.png"
   },
   {
     "country": "Kenya",
     "abbreviation": "KE",
-    "callingCode": 254
+    "callingCode": 254,
+    "flag": "ke.png"
   },
   {
     "country": "Kiribati",
     "abbreviation": "KI",
-    "callingCode": 686
+    "callingCode": 686,
+    "flag": "ki.png"
   },
   {
     "country": "Kuwait",
     "abbreviation": "KW",
-    "callingCode": 965
+    "callingCode": 965,
+    "flag": "kw.png"
   },
   {
     "country": "Kyrgyzstan",
     "abbreviation": "KG",
-    "callingCode": 996
+    "callingCode": 996,
+    "flag": "kg.png"
   },
   {
     "country": "Laos",
     "abbreviation": "LA",
-    "callingCode": 856
+    "callingCode": 856,
+    "flag": "la.png"
   },
   {
     "country": "Latvia",
     "abbreviation": "LV",
-    "callingCode": 371
+    "callingCode": 371,
+    "flag": "lv.png"
   },
   {
     "country": "Lebanon",
     "abbreviation": "LB",
-    "callingCode": 961
+    "callingCode": 961,
+    "flag": "lb.png"
   },
   {
     "country": "Lesotho",
     "abbreviation": "LS",
-    "callingCode": 266
+    "callingCode": 266,
+    "flag": "ls.png"
   },
   {
     "country": "Liberia",
     "abbreviation": "LR",
-    "callingCode": 231
+    "callingCode": 231,
+    "flag": "lr.png"
   },
   {
     "country": "Libyan Arab Jamahiriya",
     "abbreviation": "LY",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "ly.png"
   },
   {
     "country": "Liechtenstein",
     "abbreviation": "LI",
-    "callingCode": 423
+    "callingCode": 423,
+    "flag": "li.png"
   },
   {
     "country": "Lithuania",
     "abbreviation": "LT",
-    "callingCode": 370
+    "callingCode": 370,
+    "flag": "lt.png"
   },
   {
     "country": "Luxembourg",
     "abbreviation": "LU",
-    "callingCode": 352
+    "callingCode": 352,
+    "flag": "lu.png"
   },
   {
     "country": "Macao",
     "abbreviation": "MO",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "mo.png"
   },
   {
     "country": "North Macedonia",
     "abbreviation": "MK",
-    "callingCode": 389
+    "callingCode": 389,
+    "flag": "mk.png"
   },
   {
     "country": "Madagascar",
     "abbreviation": "MG",
-    "callingCode": 261
+    "callingCode": 261,
+    "flag": "mg.png"
   },
   {
     "country": "Malawi",
     "abbreviation": "MW",
-    "callingCode": 265
+    "callingCode": 265,
+    "flag": "mw.png"
   },
   {
     "country": "Malaysia",
     "abbreviation": "MY",
-    "callingCode": 60
+    "callingCode": 60,
+    "flag": "my.png"
   },
   {
     "country": "Maldives",
     "abbreviation": "MV",
-    "callingCode": 960
+    "callingCode": 960,
+    "flag": "mv.png"
   },
   {
     "country": "Mali",
     "abbreviation": "ML",
-    "callingCode": 223
+    "callingCode": 223,
+    "flag": "ml.png"
   },
   {
     "country": "Malta",
     "abbreviation": "MT",
-    "callingCode": 356
+    "callingCode": 356,
+    "flag": "mt.png"
   },
   {
     "country": "Marshall Islands",
     "abbreviation": "MH",
-    "callingCode": 692
+    "callingCode": 692,
+    "flag": "mh.png"
   },
   {
     "country": "Martinique",
     "abbreviation": "MQ",
-    "callingCode": 596
+    "callingCode": 596,
+    "flag": "mq.png"
   },
   {
     "country": "Mauritania",
     "abbreviation": "MR",
-    "callingCode": 222
+    "callingCode": 222,
+    "flag": "mr.png"
   },
   {
     "country": "Mauritius",
     "abbreviation": "MU",
-    "callingCode": 230
+    "callingCode": 230,
+    "flag": "mu.png"
   },
   {
     "country": "Mayotte",
     "abbreviation": "YT",
-    "callingCode": 262
+    "callingCode": 262,
+    "flag": "yt.png"
   },
   {
     "country": "Mexico",
     "abbreviation": "MX",
-    "callingCode": 52
+    "callingCode": 52,
+    "flag": "mx.png"
   },
   {
     "country": "Micronesia, Federated States of",
     "abbreviation": "FM",
-    "callingCode": 691
+    "callingCode": 691,
+    "flag": "fm.png"
   },
   {
     "country": "Moldova",
     "abbreviation": "MD",
-    "callingCode": 373
+    "callingCode": 373,
+    "flag": "md.png"
   },
   {
     "country": "Monaco",
     "abbreviation": "MC",
-    "callingCode": 377
+    "callingCode": 377,
+    "flag": "mc.png"
   },
   {
     "country": "Mongolia",
     "abbreviation": "MN",
-    "callingCode": 976
+    "callingCode": 976,
+    "flag": "mn.png"
   },
   {
     "country": "Montenegro",
-    "abbreviation": "ME"
+    "abbreviation": "ME",
+    "flag": "me.png"
   },
   {
     "country": "Montserrat",
     "abbreviation": "MS",
-    "callingCode": 1664
+    "callingCode": 1664,
+    "flag": "ms.png"
   },
   {
     "country": "Morocco",
     "abbreviation": "MA",
-    "callingCode": 212
+    "callingCode": 212,
+    "flag": "ma.png"
   },
   {
     "country": "Mozambique",
     "abbreviation": "MZ",
-    "callingCode": 258
+    "callingCode": 258,
+    "flag": "mz.png"
   },
   {
     "country": "Myanmar",
     "abbreviation": "MM",
-    "callingCode": 95
+    "callingCode": 95,
+    "flag": "mm.png"
   },
   {
     "country": "Namibia",
     "abbreviation": "NA",
-    "callingCode": 264
+    "callingCode": 264,
+    "flag": "na.png"
   },
   {
     "country": "Nauru",
     "abbreviation": "NR",
-    "callingCode": 674
+    "callingCode": 674,
+    "flag": "nr.png"
   },
   {
     "country": "Nepal",
     "abbreviation": "NP",
-    "callingCode": 977
+    "callingCode": 977,
+    "flag": "np.png"
   },
   {
     "country": "Netherlands",
     "abbreviation": "NL",
-    "callingCode": 31
+    "callingCode": 31,
+    "flag": "nl.png"
   },
   {
     "country": "Netherlands Antilles",
     "abbreviation": "AN",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "an.png"
   },
   {
     "country": "New Caledonia",
     "abbreviation": "NC",
-    "callingCode": 687
+    "callingCode": 687,
+    "flag": "nc.png"
   },
   {
     "country": "New Zealand",
     "abbreviation": "NZ",
-    "callingCode": 64
+    "callingCode": 64,
+    "flag": "nz.png"
   },
   {
     "country": "Nicaragua",
     "abbreviation": "NI",
-    "callingCode": 505
+    "callingCode": 505,
+    "flag": "ni.png"
   },
   {
     "country": "Niger",
     "abbreviation": "NE",
-    "callingCode": 227
+    "callingCode": 227,
+    "flag": "ne.png"
   },
   {
     "country": "Nigeria",
     "abbreviation": "NG",
-    "callingCode": 234
+    "callingCode": 234,
+    "flag": "ng.png"
   },
   {
     "country": "Niue",
     "abbreviation": "NU",
-    "callingCode": 683
+    "callingCode": 683,
+    "flag": "nu.png"
   },
   {
     "country": "Norfolk Island",
     "abbreviation": "NF",
-    "callingCode": 672
+    "callingCode": 672,
+    "flag": "nf.png"
   },
   {
     "country": "North Korea",
     "abbreviation": "KP",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "kp.png"
   },
   {
     "country": "Northern Ireland",
     "abbreviation": "GB",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "gb.png"
   },
   {
     "country": "Northern Mariana Islands",
     "abbreviation": "MP",
-    "callingCode": 1670
+    "callingCode": 1670,
+    "flag": "mp.png"
   },
   {
     "country": "Norway",
     "abbreviation": "NO",
-    "callingCode": 47
+    "callingCode": 47,
+    "flag": "no.png"
   },
   {
     "country": "Oman",
     "abbreviation": "OM",
-    "callingCode": 968
+    "callingCode": 968,
+    "flag": "om.png"
   },
   {
     "country": "Pakistan",
     "abbreviation": "PK",
-    "callingCode": 92
+    "callingCode": 92,
+    "flag": "pk.png"
   },
   {
     "country": "Palau",
     "abbreviation": "PW",
-    "callingCode": 680
+    "callingCode": 680,
+    "flag": "pw.png"
   },
   {
     "country": "Palestine",
     "abbreviation": "PS",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "ps.png"
   },
   {
     "country": "Panama",
     "abbreviation": "PA",
-    "callingCode": 507
+    "callingCode": 507,
+    "flag": "pa.png"
   },
   {
     "country": "Papua New Guinea",
     "abbreviation": "PG",
-    "callingCode": 675
+    "callingCode": 675,
+    "flag": "pg.png"
   },
   {
     "country": "Paraguay",
     "abbreviation": "PY",
-    "callingCode": 595
+    "callingCode": 595,
+    "flag": "py.png"
   },
   {
     "country": "Peru",
     "abbreviation": "PE",
-    "callingCode": 51
+    "callingCode": 51,
+    "flag": "pe.png"
   },
   {
     "country": "Philippines",
     "abbreviation": "PH",
-    "callingCode": 63
+    "callingCode": 63,
+    "flag": "ph.png"
   },
   {
     "country": "Pitcairn",
     "abbreviation": "PN",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "pn.png"
   },
   {
     "country": "Poland",
     "abbreviation": "PL",
-    "callingCode": 48
+    "callingCode": 48,
+    "flag": "pl.png"
   },
   {
     "country": "Portugal",
     "abbreviation": "PT",
-    "callingCode": 351
+    "callingCode": 351,
+    "flag": "pt.png"
   },
   {
     "country": "Puerto Rico",
     "abbreviation": "PR",
-    "callingCode": 1939
+    "callingCode": 1939,
+    "flag": "pr.png"
   },
   {
     "country": "Qatar",
     "abbreviation": "QA",
-    "callingCode": 974
+    "callingCode": 974,
+    "flag": "qa.png"
   },
   {
     "country": "Reunion",
     "abbreviation": "RE",
-    "callingCode": 262
+    "callingCode": 262,
+    "flag": "re.png"
   },
   {
     "country": "Romania",
     "abbreviation": "RO",
-    "callingCode": 40
+    "callingCode": 40,
+    "flag": "ro.png"
   },
   {
     "country": "Russian Federation",
     "abbreviation": "RU",
-    "callingCode": 7
+    "callingCode": 7,
+    "flag": "ru.png"
   },
   {
     "country": "Rwanda",
     "abbreviation": "RW",
-    "callingCode": 250
+    "callingCode": 250,
+    "flag": "rw.png"
   },
   {
     "country": "Saint Helena",
     "abbreviation": "SH",
-    "callingCode": 290
+    "callingCode": 290,
+    "flag": "sh.png"
   },
   {
     "country": "Saint Kitts and Nevis",
     "abbreviation": "KN",
-    "callingCode": 1869
+    "callingCode": 1869,
+    "flag": "kn.png"
   },
   {
     "country": "Saint Lucia",
     "abbreviation": "LC",
-    "callingCode": 1758
+    "callingCode": 1758,
+    "flag": "lc.png"
   },
   {
     "country": "Saint Pierre and Miquelon",
     "abbreviation": "PM",
-    "callingCode": 508
+    "callingCode": 508,
+    "flag": "pm.png"
   },
   {
     "country": "Saint Vincent and the Grenadines",
     "abbreviation": "VC",
-    "callingCode": 1784
+    "callingCode": 1784,
+    "flag": "vc.png"
   },
   {
     "country": "Samoa",
     "abbreviation": "WS",
-    "callingCode": 685
+    "callingCode": 685,
+    "flag": "ws.png"
   },
   {
     "country": "San Marino",
     "abbreviation": "SM",
-    "callingCode": 378
+    "callingCode": 378,
+    "flag": "sm.png"
   },
   {
     "country": "Sao Tome and Principe",
     "abbreviation": "ST",
-    "callingCode": 239
+    "callingCode": 239,
+    "flag": "st.png"
   },
   {
     "country": "Saudi Arabia",
     "abbreviation": "SA",
-    "callingCode": 966
+    "callingCode": 966,
+    "flag": "sa.png"
   },
   {
     "country": "Senegal",
     "abbreviation": "SN",
-    "callingCode": 221
+    "callingCode": 221,
+    "flag": "sn.png"
   },
   {
     "country": "Serbia",
-    "abbreviation": "RS"
+    "abbreviation": "RS",
+    "flag": "rs.png"
   },
   {
     "country": "Seychelles",
     "abbreviation": "SC",
-    "callingCode": 248
+    "callingCode": 248,
+    "flag": "sc.png"
   },
   {
     "country": "Sierra Leone",
     "abbreviation": "SL",
-    "callingCode": 232
+    "callingCode": 232,
+    "flag": "sl.png"
   },
   {
     "country": "Singapore",
     "abbreviation": "SG",
-    "callingCode": 65
+    "callingCode": 65,
+    "flag": "sg.png"
   },
   {
     "country": "Slovakia",
     "abbreviation": "SK",
-    "callingCode": 421
+    "callingCode": 421,
+    "flag": "sk.png"
   },
   {
     "country": "Slovenia",
     "abbreviation": "SI",
-    "callingCode": 386
+    "callingCode": 386,
+    "flag": "si.png"
   },
   {
     "country": "Solomon Islands",
     "abbreviation": "SB",
-    "callingCode": 677
+    "callingCode": 677,
+    "flag": "sb.png"
   },
   {
     "country": "Somalia",
     "abbreviation": "SO",
-    "callingCode": 252
+    "callingCode": 252,
+    "flag": "so.png"
   },
   {
     "country": "South Africa",
     "abbreviation": "ZA",
-    "callingCode": 27
+    "callingCode": 27,
+    "flag": "za.png"
   },
   {
     "country": "South Georgia and the South Sandwich Islands",
     "abbreviation": "GS",
-    "callingCode": 500
+    "callingCode": 500,
+    "flag": "gs.png"
   },
   {
     "country": "South Korea",
     "abbreviation": "KR",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "kr.png"
   },
   {
     "country": "South Sudan",
     "abbreviation": "SS",
-    "callingCode": 211
+    "callingCode": 211,
+    "flag": "ss.png"
   },
   {
     "country": "Spain",
     "abbreviation": "ES",
-    "callingCode": 34
+    "callingCode": 34,
+    "flag": "es.png"
   },
   {
     "country": "Sri Lanka",
-    "abbreviation": "LK"
+    "abbreviation": "LK",
+    "flag": "lk.png"
   },
   {
     "country": "Sudan",
     "abbreviation": "SD",
-    "callingCode": 249
+    "callingCode": 249,
+    "flag": "sd.png"
   },
   {
     "country": "Suriname",
     "abbreviation": "SR",
-    "callingCode": 597
+    "callingCode": 597,
+    "flag": "sr.png"
   },
   {
     "country": "Svalbard and Jan Mayen",
     "abbreviation": "SJ",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "sj.png"
   },
   {
     "country": "Swaziland",
     "abbreviation": "SZ",
-    "callingCode": 268
+    "callingCode": 268,
+    "flag": "sz.png"
   },
   {
     "country": "Sweden",
     "abbreviation": "SE",
-    "callingCode": 46
+    "callingCode": 46,
+    "flag": "se.png"
   },
   {
     "country": "Switzerland",
     "abbreviation": "CH",
-    "callingCode": 41
+    "callingCode": 41,
+    "flag": "ch.png"
   },
   {
     "country": "Syria",
     "abbreviation": "SY",
-    "callingCode": 963
+    "callingCode": 963,
+    "flag": "sy.png"
   },
   {
     "country": "Tajikistan",
     "abbreviation": "TJ",
-    "callingCode": 992
+    "callingCode": 992,
+    "flag": "tj.png"
   },
   {
     "country": "Tanzania",
     "abbreviation": "TZ",
-    "callingCode": 255
+    "callingCode": 255,
+    "flag": "tz.png"
   },
   {
     "country": "Thailand",
     "abbreviation": "TH",
-    "callingCode": 66
+    "callingCode": 66,
+    "flag": "th.png"
   },
   {
     "country": "The Democratic Republic of Congo",
     "abbreviation": "CD",
-    "callingCode": 243
+    "callingCode": 243,
+    "flag": "cd.png"
   },
   {
     "country": "Timor-Leste",
-    "abbreviation": "TL"
+    "abbreviation": "TL",
+    "flag": "tl.png"
   },
   {
     "country": "Togo",
     "abbreviation": "TG",
-    "callingCode": 228
+    "callingCode": 228,
+    "flag": "tg.png"
   },
   {
     "country": "Tokelau",
     "abbreviation": "TK",
-    "callingCode": 690
+    "callingCode": 690,
+    "flag": "tk.png"
   },
   {
     "country": "Tonga",
     "abbreviation": "TO",
-    "callingCode": 676
+    "callingCode": 676,
+    "flag": "to.png"
   },
   {
     "country": "Trinidad and Tobago",
     "abbreviation": "TT",
-    "callingCode": 1868
+    "callingCode": 1868,
+    "flag": "tt.png"
   },
   {
     "country": "Tunisia",
     "abbreviation": "TN",
-    "callingCode": 216
+    "callingCode": 216,
+    "flag": "tn.png"
   },
   {
     "country": "Turkey",
     "abbreviation": "TR",
-    "callingCode": 90
+    "callingCode": 90,
+    "flag": "tr.png"
   },
   {
     "country": "Turkmenistan",
     "abbreviation": "TM",
-    "callingCode": 993
+    "callingCode": 993,
+    "flag": "tm.png"
   },
   {
     "country": "Turks and Caicos Islands",
     "abbreviation": "TC",
-    "callingCode": 1649
+    "callingCode": 1649,
+    "flag": "tc.png"
   },
   {
     "country": "Tuvalu",
     "abbreviation": "TV",
-    "callingCode": 688
+    "callingCode": 688,
+    "flag": "tv.png"
   },
   {
     "country": "Uganda",
     "abbreviation": "UG",
-    "callingCode": 256
+    "callingCode": 256,
+    "flag": "ug.png"
   },
   {
     "country": "Ukraine",
     "abbreviation": "UA",
-    "callingCode": 380
+    "callingCode": 380,
+    "flag": "ua.png"
   },
   {
     "country": "United Arab Emirates",
     "abbreviation": "AE",
-    "callingCode": 971
+    "callingCode": 971,
+    "flag": "ae.png"
   },
   {
     "country": "United Kingdom",
     "abbreviation": "GB",
-    "callingCode": 44
+    "callingCode": 44,
+    "flag": "gb.png"
   },
   {
     "country": "United States",
     "abbreviation": "US",
-    "callingCode": 1
+    "callingCode": 1,
+    "flag": "us.png"
   },
   {
     "country": "United States Minor Outlying Islands",
     "abbreviation": "UM",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "um.png"
   },
   {
     "country": "Uruguay",
     "abbreviation": "UY",
-    "callingCode": 598
+    "callingCode": 598,
+    "flag": "uy.png"
   },
   {
     "country": "Uzbekistan",
     "abbreviation": "UZ",
-    "callingCode": 998
+    "callingCode": 998,
+    "flag": "uz.png"
   },
   {
     "country": "Vanuatu",
     "abbreviation": "VU",
-    "callingCode": 678
+    "callingCode": 678,
+    "flag": "vu.png"
   },
   {
     "country": "Venezuela",
     "abbreviation": "VE",
-    "callingCode": 58
+    "callingCode": 58,
+    "flag": "ve.png"
   },
   {
     "country": "Vietnam",
     "abbreviation": "VN",
-    "callingCode": 84
+    "callingCode": 84,
+    "flag": "vn.png"
   },
   {
     "country": "Virgin Islands, British",
     "abbreviation": "VG",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "vg.png"
   },
   {
     "country": "Virgin Islands, U.S.",
     "abbreviation": "VI",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "vi.png"
   },
   {
     "country": "Wallis and Futuna",
     "abbreviation": "WF",
-    "callingCode": 681
+    "callingCode": 681,
+    "flag": "wf.png"
   },
   {
     "country": "Western Sahara",
     "abbreviation": "EH",
-    "callingCode": null
+    "callingCode": null,
+    "flag": "eh.png"
   },
   {
     "country": "Yemen",
     "abbreviation": "YE",
-    "callingCode": 967
+    "callingCode": 967,
+    "flag": "ye.png"
   },
   {
     "country": "Yugoslavia",
@@ -1215,11 +1457,13 @@
   {
     "country": "Zambia",
     "abbreviation": "ZM",
-    "callingCode": 260
+    "callingCode": 260,
+    "flag": "zm.png"
   },
   {
     "country": "Zimbabwe",
     "abbreviation": "ZW",
-    "callingCode": 263
+    "callingCode": 263,
+    "flag": "zw.png"
   }
 ]
