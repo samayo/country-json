@@ -764,6 +764,10 @@
         "city": "Dakar"
     },
     {
+        "country": "Serbia",
+        "city": "Belgrade"
+    },
+    {
         "country": "Seychelles",
         "city": "Victoria"
     },
@@ -962,10 +966,6 @@
     {
         "country": "Yemen",
         "city": "Sanaa"
-    },
-    {
-        "country": "Yugoslavia",
-        "city": "Beograd"
     },
     {
         "country": "Zambia",
