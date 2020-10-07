@@ -760,6 +760,10 @@
         "landlocked": "0"
     },
     {
+        "country": "Serbia",
+        "landlocked": "1"
+    },
+    {
         "country": "Seychelles",
         "landlocked": "0"
     },

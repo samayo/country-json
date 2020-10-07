@@ -1687,6 +1687,20 @@
         ]
     },
     {
+        "country": "Serbia",
+        "languages": [
+            "Serbian",
+            "Hungarian",
+            "Slovak",
+            "Romanian",
+            "Croatian",
+            "Rusyn", 
+            "Albanian",
+            "Bulgarian", 
+            "English"
+        ]
+    },
+    {
         "country": "Singapore",
         "languages": [
             "Chinese",
