@@ -760,6 +760,10 @@
         "density": 82.34747832
     },
     {
+        "country": "Serbia",
+        "density": 100
+    },
+    {
         "country": "Seychelles",
         "density": 210.3521739
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "density": 53.97785291
-    },
-    {
-        "country": "Yugoslavia",
-        "density": 168.1546799
     },
     {
         "country": "Zambia",

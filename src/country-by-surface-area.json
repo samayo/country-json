@@ -748,6 +748,10 @@
         "area": 196722.00
     },
     {
+        "country": "Serbia",
+        "area": 88361.00
+    },
+    {
         "country": "Singapore",
         "area": 618.00
     },
@@ -942,10 +946,6 @@
     {
         "country": "Yemen",
         "area": 527968.00
-    },
-    {
-        "country": "Yugoslavia",
-        "area": 102173.00
     },
     {
         "country": "South Africa",

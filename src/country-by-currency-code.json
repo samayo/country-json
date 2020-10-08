@@ -760,6 +760,10 @@
         "currency_code": "XOF"
     },
     {
+        "country": "Serbia",
+        "currency_code": "RSD"
+    },
+    {
         "country": "Seychelles",
         "currency_code": "SCR"
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "currency_code": "YER"
-    },
-    {
-        "country": "Yugoslavia",
-        "currency_code": null
     },
     {
         "country": "Zambia",

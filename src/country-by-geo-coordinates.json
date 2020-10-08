@@ -1337,6 +1337,13 @@
         "east": -11.3559
     },
     {
+        "country": "Serbia",
+        "north": 44.01,
+        "south": null,
+        "west": null,
+        "east": 21.0059
+    },
+    {
         "country": "Seychelles",
         "north": -4.28372,
         "south": -9.75387,
@@ -1685,13 +1692,6 @@
         "south": 12.1111,
         "west": 42.5325,
         "east": 54.5305
-    },
-    {
-        "country": "Yugoslavia",
-        "north": null,
-        "south": null,
-        "west": null,
-        "east": null
     },
     {
         "country": "Zambia",

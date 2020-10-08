@@ -760,6 +760,10 @@
         "costline": 531
     },
     {
+        "country": "Serbia",
+        "costline": 199
+    },
+    {
         "country": "Seychelles",
         "costline": 491
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "costline": 1.906
-    },
-    {
-        "country": "Yugoslavia",
-        "costline": null
     },
     {
         "country": "Zambia",

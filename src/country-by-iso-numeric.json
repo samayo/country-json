@@ -764,6 +764,10 @@
         "iso": 686
     },
     {
+        "country": "Serbia",
+        "iso": 688
+    },
+    {
         "country": "Seychelles",
         "iso": 690
     },
@@ -962,10 +966,6 @@
     {
         "country": "Yemen",
         "iso": 887
-    },
-    {
-        "country": "Yugoslavia",
-        "iso": null
     },
     {
         "country": "Zambia",

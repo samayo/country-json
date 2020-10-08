@@ -760,6 +760,10 @@
         "currency_name": "CFA Franc BCEAO"
     },
     {
+        "country": "Serbia",
+        "currency_name": "Serbian dinar"
+    },
+    {
         "country": "Seychelles",
         "currency_name": "Seychelles Rupee"
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "currency_name": "Yemeni Rial"
-    },
-    {
-        "country": "Yugoslavia",
-        "currency_name": null
     },
     {
         "country": "Zambia",

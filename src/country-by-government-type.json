@@ -760,6 +760,10 @@
         "government": "Republic"
     },
     {
+        "country": "Serbia",
+        "government": "Republic"
+    },
+    {
         "country": "Seychelles",
         "government": "Republic"
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "government": "Republic"
-    },
-    {
-        "country": "Yugoslavia",
-        "government": "Federal Republic"
     },
     {
         "country": "Zambia",

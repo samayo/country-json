@@ -760,6 +760,10 @@
         "calling_code": 221
     },
     {
+        "country": "Serbia",
+        "calling_code": 381
+    },
+    {
         "country": "Seychelles",
         "calling_code": 248
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "calling_code": 967
-    },
-    {
-        "country": "Yugoslavia",
-        "calling_code": null
     },
     {
         "country": "Zambia",

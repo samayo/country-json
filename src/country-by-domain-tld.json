@@ -760,6 +760,10 @@
         "tld": ".sn"
     },
     {
+        "country": "Serbia",
+        "tld": ".rs"
+    },
+    {
         "country": "Seychelles",
         "tld": ".sc"
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "tld": ".ye"
-    },
-    {
-        "country": "Yugoslavia",
-        "tld": null
     },
     {
         "country": "Zambia",

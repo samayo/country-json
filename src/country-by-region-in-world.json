@@ -760,6 +760,10 @@
         "location": "Western Africa"
     },
     {
+        "country": "Serbia",
+        "location": "Central and Southeast Europe"
+    },
+    {
         "country": "Seychelles",
         "location": "Eastern Africa"
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "location": "Middle East"
-    },
-    {
-        "country": "Yugoslavia",
-        "location": "Southern Europe"
     },
     {
         "country": "Zambia",

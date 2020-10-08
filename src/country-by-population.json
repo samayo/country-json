@@ -764,6 +764,10 @@
         "population": 15854360
     },
     {
+        "country": "Serbia",
+        "population": 6963764	
+    },
+    {
         "country": "Seychelles",
         "population": 96762
     },
@@ -962,10 +966,6 @@
     {
         "country": "Yemen",
         "population": 28498687
-    },
-    {
-        "country": "Yugoslavia",
-        "population": null
     },
     {
         "country": "Zambia",

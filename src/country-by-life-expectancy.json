@@ -760,6 +760,10 @@
         "expectancy": 62.2
     },
     {
+        "country": "Serbia",
+        "expectancy": 76.05
+    },
+    {
         "country": "Seychelles",
         "expectancy": 70.4
     },
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "expectancy": 59.8
-    },
-    {
-        "country": "Yugoslavia",
-        "expectancy": 72.4
     },
     {
         "country": "Zambia",
