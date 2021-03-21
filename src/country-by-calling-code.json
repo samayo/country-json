@@ -29,7 +29,7 @@
     },
     {
         "country": "Antarctica",
-        "calling_code": null
+        "calling_code": 672
     },
     {
         "country": "Antigua and Barbuda",
@@ -113,7 +113,7 @@
     },
     {
         "country": "Bouvet Island",
-        "calling_code": null
+        "calling_code": 55
     },
     {
         "country": "Brazil",
@@ -125,7 +125,7 @@
     },
     {
         "country": "Brunei",
-        "calling_code": null
+        "calling_code": 673
     },
     {
         "country": "Bulgaria",
@@ -153,7 +153,7 @@
     },
     {
         "country": "Cape Verde",
-        "calling_code": null
+        "calling_code": 238
     },
     {
         "country": "Cayman Islands",
@@ -253,7 +253,7 @@
     },
     {
         "country": "England",
-        "calling_code": null
+        "calling_code": 44
     },
     {
         "country": "Equatorial Guinea",
@@ -281,7 +281,7 @@
     },
     {
         "country": "Fiji Islands",
-        "calling_code": null
+        "calling_code": 679
     },
     {
         "country": "Finland",
@@ -301,7 +301,7 @@
     },
     {
         "country": "French Southern territories",
-        "calling_code": null
+        "calling_code": 262
     },
     {
         "country": "Gabon",
@@ -369,11 +369,11 @@
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "calling_code": null
+        "calling_code": 672
     },
     {
         "country": "Holy See (Vatican City State)",
-        "calling_code": null
+        "calling_code": 379
     },
     {
         "country": "Honduras",
@@ -477,7 +477,7 @@
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "calling_code": null
+        "calling_code": 218
     },
     {
         "country": "Liechtenstein",
@@ -493,7 +493,7 @@
     },
     {
         "country": "Macao",
-        "calling_code": null
+        "calling_code": 853
     },
     {
         "country": "North Macedonia",
@@ -597,7 +597,7 @@
     },
     {
         "country": "Netherlands Antilles",
-        "calling_code": null
+        "calling_code": 599
     },
     {
         "country": "New Caledonia",
@@ -629,11 +629,11 @@
     },
     {
         "country": "North Korea",
-        "calling_code": null
+        "calling_code": 850
     },
     {
         "country": "Northern Ireland",
-        "calling_code": null
+        "calling_code": 44
     },
     {
         "country": "Northern Mariana Islands",
@@ -657,7 +657,7 @@
     },
     {
         "country": "Palestine",
-        "calling_code": null
+        "calling_code": 970
     },
     {
         "country": "Panama",
@@ -681,7 +681,7 @@
     },
     {
         "country": "Pitcairn",
-        "calling_code": null
+        "calling_code": 64
     },
     {
         "country": "Poland",
@@ -753,7 +753,7 @@
     },
     {
         "country": "Scotland",
-        "calling_code": null
+        "calling_code": 44
     },
     {
         "country": "Senegal",
@@ -801,7 +801,7 @@
     },
     {
         "country": "South Korea",
-        "calling_code": null
+        "calling_code": 82
     },
     {
         "country": "South Sudan",
@@ -812,6 +812,7 @@
         "calling_code": 34
     },
     {
+
         "country": "Sri Lanka",
         "calling_code": null
     },
@@ -825,7 +826,7 @@
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "calling_code": null
+        "calling_code": 47
     },
     {
         "country": "Swaziland",
@@ -917,7 +918,7 @@
     },
     {
         "country": "United States Minor Outlying Islands",
-        "calling_code": null
+        "calling_code": 1
     },
     {
         "country": "Uruguay",
@@ -941,15 +942,15 @@
     },
     {
         "country": "Virgin Islands, British",
-        "calling_code": null
+        "calling_code": 1
     },
     {
         "country": "Virgin Islands, U.S.",
-        "calling_code": null
+        "calling_code": 1
     },
     {
         "country": "Wales",
-        "calling_code": null
+        "calling_code": 44
     },
     {
         "country": "Wallis and Futuna",
@@ -957,7 +958,7 @@
     },
     {
         "country": "Western Sahara",
-        "calling_code": null
+        "calling_code": 212
     },
     {
         "country": "Yemen",
