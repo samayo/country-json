@@ -909,15 +909,15 @@
     },
     {
         "country": "United Kingdom",
-        "currency_name": null
+        "currency_name": "Pound Sterling"
     },
     {
         "country": "United States",
-        "currency_name": null
+        "currency_name": "US Dollar"
     },
     {
         "country": "United States Minor Outlying Islands",
-        "currency_name": null
+        "currency_name": "US Dollar"
     },
     {
         "country": "Uruguay",
@@ -941,11 +941,11 @@
     },
     {
         "country": "Virgin Islands, British",
-        "currency_name": null
+        "currency_name": "Pound Sterling"
     },
     {
         "country": "Virgin Islands, U.S.",
-        "currency_name": null
+        "currency_name": "US Dollar"
     },
     {
         "country": "Wales",
