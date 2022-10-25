@@ -883,9 +883,13 @@
         "country": "Turkey",
         "height": 174.1
     },
+     {
+        "country": "Turkey-Trabzon",
+        "height": 175.7
+    },
     {
         "country": "Turkmenistan",
-        "height": null
+        "height": 173.3
     },
     {
         "country": "Turks and Caicos Islands",
@@ -897,7 +901,7 @@
     },
     {
         "country": "Uganda",
-        "height": null
+        "height": 166.9
     },
     {
         "country": "Ukraine",
@@ -905,7 +909,7 @@
     },
     {
         "country": "United Arab Emirates",
-        "height": null
+        "height": 173.4
     },
     {
         "country": "United Kingdom",
