@@ -105,7 +105,7 @@
     },
     {
         "country": "Bosnia and Herzegovina",
-        "currency_name": null
+        "currency_name": "Convertible Mark"
     },
     {
         "country": "Botswana",
@@ -125,7 +125,7 @@
     },
     {
         "country": "Brunei",
-        "currency_name": null
+        "currency_name": "Brunei Dollar"
     },
     {
         "country": "Bulgaria",
@@ -165,7 +165,7 @@
     },
     {
         "country": "Chad",
-        "currency_name": null
+        "currency_name": "Central African"
     },
     {
         "country": "Chile",
@@ -217,7 +217,7 @@
     },
     {
         "country": "Czech Republic",
-        "currency_name": null
+        "currency_name": "Czech Koruna"
     },
     {
         "country": "Denmark",
@@ -237,7 +237,7 @@
     },
     {
         "country": "East Timor",
-        "currency_name": null
+        "currency_name": "US Dollar"
     },
     {
         "country": "Ecuador",
@@ -253,7 +253,7 @@
     },
     {
         "country": "England",
-        "currency_name": null
+        "currency_name": "Pound Sterlin"
     },
     {
         "country": "Equatorial Guinea",
@@ -273,7 +273,7 @@
     },
     {
         "country": "Falkland Islands",
-        "currency_name": null
+        "currency_name": "Falkland Islands Pound"
     },
     {
         "country": "Faroe Islands",
@@ -281,7 +281,7 @@
     },
     {
         "country": "Fiji Islands",
-        "currency_name": null
+        "currency_name": "Fijian Dollar"
     },
     {
         "country": "Finland",
@@ -297,7 +297,7 @@
     },
     {
         "country": "French Polynesia",
-        "currency_name": null
+        "currency_name": "CFP Franc"
     },
     {
         "country": "French Southern territories",
@@ -341,11 +341,11 @@
     },
     {
         "country": "Guadeloupe",
-        "currency_name": null
+        "currency_name": "Euro"
     },
     {
         "country": "Guam",
-        "currency_name": null
+        "currency_name": "US Dollar"
     },
     {
         "country": "Guatemala",
@@ -357,7 +357,7 @@
     },
     {
         "country": "Guinea-Bissau",
-        "currency_name": null
+        "currency_name": "West African CFA franc"
     },
     {
         "country": "Guyana",
@@ -373,7 +373,7 @@
     },
     {
         "country": "Holy See (Vatican City State)",
-        "currency_name": null
+        "currency_name": "Euro"
     },
     {
         "country": "Honduras",
@@ -437,7 +437,7 @@
     },
     {
         "country": "Kazakhstan",
-        "currency_name": null
+        "currency_name": "Tenge"
     },
     {
         "country": "Kenya",
@@ -477,7 +477,7 @@
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "currency_name": null
+        "currency_name": "Libyan Dinar"
     },
     {
         "country": "Liechtenstein",
@@ -492,8 +492,8 @@
         "currency_name": "Euro"
     },
     {
-        "country": "Macao",
-        "currency_name": null
+        "country": "Macau",
+        "currency_name": "Macanese Pataca"
     },
     {
         "country": "North Macedonia",
@@ -529,7 +529,7 @@
     },
     {
         "country": "Martinique",
-        "currency_name": null
+        "currency_name": "Euro"
     },
     {
         "country": "Mauritania",
@@ -549,7 +549,7 @@
     },
     {
         "country": "Micronesia, Federated States of",
-        "currency_name": null
+        "currency_name": "US Dollar"
     },
     {
         "country": "Moldova",
@@ -557,7 +557,7 @@
     },
     {
         "country": "Monaco",
-        "currency_name": null
+        "currency_name": "Euro"
     },
     {
         "country": "Mongolia",
@@ -601,7 +601,7 @@
     },
     {
         "country": "New Caledonia",
-        "currency_name": null
+        "currency_name": "CFP Franc"
     },
     {
         "country": "New Zealand",
@@ -633,7 +633,7 @@
     },
     {
         "country": "Northern Ireland",
-        "currency_name": null
+        "currency_name": "Pound Sterling"
     },
     {
         "country": "Northern Mariana Islands",
@@ -680,8 +680,8 @@
         "currency_name": "Philippine Peso"
     },
     {
-        "country": "Pitcairn",
-        "currency_name": null
+        "country": "Pitcairn Islands",
+        "currency_name": "New Zealand Dollar"
     },
     {
         "country": "Poland",
@@ -701,7 +701,7 @@
     },
     {
         "country": "Reunion",
-        "currency_name": null
+        "currency_name": "Euro"
     },
     {
         "country": "Romania",
@@ -709,7 +709,7 @@
     },
     {
         "country": "Russian Federation",
-        "currency_name": null
+        "currency_name": "Russian Ruble"
     },
     {
         "country": "Rwanda",
@@ -721,7 +721,7 @@
     },
     {
         "country": "Saint Kitts and Nevis",
-        "currency_name": null
+        "currency_name": "East Caribbean Dollar"
     },
     {
         "country": "Saint Lucia",
@@ -753,7 +753,7 @@
     },
     {
         "country": "Scotland",
-        "currency_name": null
+        "currency_name": "Pound Sterling"
     },
     {
         "country": "Senegal",
@@ -825,7 +825,7 @@
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "currency_name": null
+        "currency_name": "Norwegian Krone"
     },
     {
         "country": "Swaziland",
@@ -889,7 +889,7 @@
     },
     {
         "country": "Turks and Caicos Islands",
-        "currency_name": null
+        "currency_name": "US Dollar"
     },
     {
         "country": "Tuvalu",
@@ -949,11 +949,11 @@
     },
     {
         "country": "Wales",
-        "currency_name": null
+        "currency_name": "Pound Sterlin"
     },
     {
         "country": "Wallis and Futuna",
-        "currency_name": null
+        "currency_name": "CFP Franc"
     },
     {
         "country": "Western Sahara",
