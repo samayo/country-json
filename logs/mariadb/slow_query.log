@@ -1,0 +1,57 @@
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+# Time: 220621 17:52:48
+# User@Host: root[root] @ localhost []
+# Thread_id: 9  Schema: mysql  QC_hit: No
+# Query_time: 16.748007  Lock_time: 0.001959  Rows_sent: 0  Rows_examined: 0
+# Rows_affected: 124448  Bytes_sent: 199
+use mysql;
+SET timestamp=1655833968;
+ALTER TABLE time_zone_transition ORDER BY Time_zone_id, Transition_time;
+# Time: 220621 17:52:49
+# User@Host: root[root] @ localhost []
+# Thread_id: 9  Schema: mysql  QC_hit: No
+# Query_time: 1.185891  Lock_time: 0.001749  Rows_sent: 0  Rows_examined: 0
+# Rows_affected: 9972  Bytes_sent: 103
+SET timestamp=1655833969;
+ALTER TABLE time_zone_transition_type ORDER BY Time_zone_id, Transition_type_id;
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
+mysqld, Version: 10.3.35-MariaDB-1:10.3.35+maria~focal-log (mariadb.org binary distribution). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time		    Id Command	Argument
