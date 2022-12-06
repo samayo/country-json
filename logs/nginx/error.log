@@ -1,2 +1,0 @@
-2022/06/21 17:56:02 [error] 8#8: *1 directory index of "/var/www/app/" is forbidden, client: 192.168.16.1, server: , request: "GET / HTTP/1.1", host: "localhost"
-2022/06/21 17:56:03 [error] 8#8: *1 directory index of "/var/www/app/" is forbidden, client: 192.168.16.1, server: , request: "GET / HTTP/1.1", host: "localhost"
