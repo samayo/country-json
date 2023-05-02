@@ -760,6 +760,10 @@
         "barcode": "604"
     },
     {
+        "country": "Serbia",
+        "barcode": "860"
+    },
+    {
         "country": "Seychelles",
         "barcode": null
     },
@@ -808,7 +812,7 @@
         "barcode": null
     },
     {
-        "country": "SriLanka",
+        "country": "Sri Lanka",
         "barcode": null
     },
     {
@@ -957,10 +961,6 @@
     },
     {
         "country": "Yemen",
-        "barcode": null
-    },
-    {
-        "country": "Yugoslavia",
         "barcode": null
     },
     {

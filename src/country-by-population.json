@@ -1,974 +1,982 @@
 [
     {
         "country": "Afghanistan",
-        "population": "35530081"
+        "population": 37172386
     },
     {
         "country": "Albania",
-        "population": "2930187"
+        "population": 2866376
     },
     {
         "country": "Algeria",
-        "population": "41318142"
+        "population": 42228429
     },
     {
         "country": "American Samoa",
-        "population": "55641"
+        "population": 55465
     },
     {
         "country": "Andorra",
-        "population": "76965"
+        "population": 77006
     },
     {
         "country": "Angola",
-        "population": "29784193"
+        "population": 30809762
     },
     {
         "country": "Anguilla",
-        "population": "14909"
+        "population": 15094
     },
     {
         "country": "Antarctica",
-        "population": null
+        "population": 1106
     },
     {
         "country": "Antigua and Barbuda",
-        "population": "102012"
+        "population": 96286
     },
     {
         "country": "Argentina",
-        "population": "44271041"
+        "population": 44494502
     },
     {
         "country": "Armenia",
-        "population": "2930450"
+        "population": 2951776
     },
     {
         "country": "Aruba",
-        "population": "105264"
+        "population": 105845
     },
     {
         "country": "Australia",
-        "population": "24450561"
+        "population": 24982688
     },
     {
         "country": "Austria",
-        "population": "8735453"
+        "population": 8840521
     },
     {
         "country": "Azerbaijan",
-        "population": "9827589"
+        "population": 9939800
     },
     {
         "country": "Bahamas",
-        "population": "395361"
+        "population": 385640
     },
     {
         "country": "Bahrain",
-        "population": "1492584"
+        "population": 1569439
     },
     {
         "country": "Bangladesh",
-        "population": "164669751"
+        "population": 161356039
     },
     {
         "country": "Barbados",
-        "population": "285719"
+        "population": 286641
     },
     {
         "country": "Belarus",
-        "population": "9468338"
+        "population": 9483499
     },
     {
         "country": "Belgium",
-        "population": "11429336"
+        "population": 11433256
     },
     {
         "country": "Belize",
-        "population": "374681"
+        "population": 383071
     },
     {
         "country": "Benin",
-        "population": "11175692"
+        "population": 11485048
     },
     {
         "country": "Bermuda",
-        "population": "61349"
+        "population": 63973
     },
     {
         "country": "Bhutan",
-        "population": "807610"
+        "population": 754394
     },
     {
         "country": "Bolivia",
-        "population": "11051600"
+        "population": 11353142
     },
     {
         "country": "Bosnia and Herzegovina",
-        "population": "3507017"
+        "population": 3323929
     },
     {
         "country": "Botswana",
-        "population": "2291661"
+        "population": 2254126
     },
     {
         "country": "Bouvet Island",
-        "population": null
+        "population": 0
     },
     {
         "country": "Brazil",
-        "population": "209288278"
+        "population": 209469333
     },
     {
         "country": "British Indian Ocean Territory",
-        "population": null
+        "population": 0
     },
     {
         "country": "Brunei",
-        "population": "428697"
+        "population": 428962
     },
     {
         "country": "Bulgaria",
-        "population": "7084571"
+        "population": 7025037
     },
     {
         "country": "Burkina Faso",
-        "population": "19193382"
+        "population": 19751535
     },
     {
         "country": "Burundi",
-        "population": "10864245"
+        "population": 11175378
+    },
+    {
+        "country": "Cabo Verde",
+        "population": 555987
     },
     {
         "country": "Cambodia",
-        "population": "16005373"
+        "population": 16249798
     },
     {
         "country": "Cameroon",
-        "population": "24053727"
+        "population": 25216237
     },
     {
         "country": "Canada",
-        "population": "36624199"
+        "population": 37057765
     },
     {
         "country": "Cape Verde",
-        "population": "546388"
+        "population": 543767
     },
     {
         "country": "Cayman Islands",
-        "population": "61559"
+        "population": 64174
     },
     {
         "country": "Central African Republic",
-        "population": "4659080"
+        "population": 4666377
     },
     {
         "country": "Chad",
-        "population": "14899994"
+        "population": 15477751
     },
     {
         "country": "Chile",
-        "population": "18054726"
+        "population": 18729160
     },
     {
         "country": "China",
-        "population": "1409517397"
+        "population": 1392730000
     },
     {
         "country": "Christmas Island",
-        "population": "2500"
+        "population": 1402
     },
     {
         "country": "Cocos (Keeling) Islands",
-        "population": "600"
+        "population": 596
     },
     {
         "country": "Colombia",
-        "population": "49065615"
+        "population": 49648685
     },
     {
         "country": "Comoros",
-        "population": "813912"
+        "population": 832322
     },
     {
         "country": "Congo",
-        "population": "5260750"
+        "population": 5244363
     },
     {
         "country": "Cook Islands",
-        "population": "17380"
+        "population": 17379
     },
     {
         "country": "Costa Rica",
-        "population": "4905769"
+        "population": 4999441
     },
     {
         "country": "Croatia",
-        "population": "4189353"
+        "population": 4087843
     },
     {
         "country": "Cuba",
-        "population": "11484636"
+        "population": 11338138
     },
     {
         "country": "Cyprus",
-        "population": "1179551"
+        "population": 1189265
     },
     {
         "country": "Czech Republic",
-        "population": "10618303"
+        "population": 10629928
     },
     {
         "country": "Denmark",
-        "population": "5733551"
+        "population": 5793636
     },
     {
         "country": "Djibouti",
-        "population": "956985"
+        "population": 958920
     },
     {
         "country": "Dominica",
-        "population": "73925"
+        "population": 71625
     },
     {
         "country": "Dominican Republic",
-        "population": "10766998"
+        "population": 10627165
     },
     {
         "country": "East Timor",
-        "population": "1296311"
+        "population": 1267972
     },
     {
         "country": "Ecuador",
-        "population": "16624858"
+        "population": 17084357
     },
     {
         "country": "Egypt",
-        "population": "97553151"
+        "population": 98423595
     },
     {
         "country": "El Salvador",
-        "population": "6377853"
+        "population": 6420744
     },
     {
         "country": "England",
-        "population": null
+        "population": 55619400
     },
     {
         "country": "Equatorial Guinea",
-        "population": "1267689"
+        "population": 1308974
     },
     {
         "country": "Eritrea",
-        "population": "5068831"
+        "population": 6213972
     },
     {
         "country": "Estonia",
-        "population": "1309632"
+        "population": 1321977
     },
     {
         "country": "Ethiopia",
-        "population": "104957438"
+        "population": 109224559
     },
     {
         "country": "Falkland Islands",
-        "population": "2910"
+        "population": 2840
     },
     {
         "country": "Faroe Islands",
-        "population": "49290"
+        "population": 48497
     },
     {
         "country": "Fiji Islands",
-        "population": "905502"
+        "population": 883483
     },
     {
         "country": "Finland",
-        "population": "5523231"
+        "population": 5515525
     },
     {
         "country": "France",
-        "population": "64979548"
+        "population": 66977107
     },
     {
         "country": "French Guiana",
-        "population": "282731"
+        "population": 290691
     },
     {
         "country": "French Polynesia",
-        "population": "283007"
+        "population": 277679
     },
     {
         "country": "French Southern territories",
-        "population": null
+        "population": 0
     },
     {
         "country": "Gabon",
-        "population": "2025137"
+        "population": 2119275
     },
     {
         "country": "Gambia",
-        "population": "2100568"
+        "population": 2280102
     },
     {
         "country": "Georgia",
-        "population": "3912061"
+        "population": 3726549
     },
     {
         "country": "Germany",
-        "population": "82114224"
+        "population": 82905782
     },
     {
         "country": "Ghana",
-        "population": "28833629"
+        "population": 29767108
     },
     {
         "country": "Gibraltar",
-        "population": "34571"
+        "population": 33718
     },
     {
         "country": "Greece",
-        "population": "11159773"
+        "population": 10731726
     },
     {
         "country": "Greenland",
-        "population": "56480"
+        "population": 56025
     },
     {
         "country": "Grenada",
-        "population": "107825"
+        "population": 111454
     },
     {
         "country": "Guadeloupe",
-        "population": "449568"
+        "population": 395700
     },
     {
         "country": "Guam",
-        "population": "164229"
+        "population": 165768
     },
     {
         "country": "Guatemala",
-        "population": "16913503"
+        "population": 17247807
     },
     {
         "country": "Guinea",
-        "population": "12717176"
+        "population": 12414318
     },
     {
         "country": "Guinea-Bissau",
-        "population": "1861283"
+        "population": 1874309
     },
     {
         "country": "Guyana",
-        "population": "777859"
+        "population": 779004
     },
     {
         "country": "Haiti",
-        "population": "10981229"
+        "population": 11123176
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "population": null
+        "population": 0
     },
     {
         "country": "Holy See (Vatican City State)",
-        "population": "1000"
+        "population": 825
     },
     {
         "country": "Honduras",
-        "population": "9265067"
+        "population": 9587522
     },
     {
         "country": "Hong Kong",
-        "population": "7364883"
+        "population": 7451000
     },
     {
         "country": "Hungary",
-        "population": "9721559"
+        "population": 9775564
     },
     {
         "country": "Iceland",
-        "population": "335025"
+        "population": 352721
     },
     {
         "country": "India",
-        "population": "1339180127"
+        "population": 1352617328
     },
     {
         "country": "Indonesia",
-        "population": "263991379"
+        "population": 267663435
     },
     {
         "country": "Iran",
-        "population": "81162788"
+        "population": 81800269
     },
     {
         "country": "Iraq",
-        "population": "38274618"
+        "population": 38433600
     },
     {
         "country": "Ireland",
-        "population": "4761657"
+        "population": 4867309
     },
     {
         "country": "Israel",
-        "population": "8321570"
+        "population": 8882800
     },
     {
         "country": "Italy",
-        "population": "59359900"
+        "population": 60421760
     },
     {
         "country": "Ivory Coast",
-        "population": "24294750"
+        "population": 25069229
     },
     {
         "country": "Jamaica",
-        "population": "2890299"
+        "population": 2934855
     },
     {
         "country": "Japan",
-        "population": "127484450"
+        "population": 126529100
     },
     {
         "country": "Jordan",
-        "population": "9702353"
+        "population": 9956011
     },
     {
         "country": "Kazakhstan",
-        "population": "18204499"
+        "population": 18272430
     },
     {
         "country": "Kenya",
-        "population": "49699862"
+        "population": 51393010
     },
     {
         "country": "Kiribati",
-        "population": "116398"
+        "population": 115847
     },
     {
         "country": "Kuwait",
-        "population": "4136528"
+        "population": 4137309
     },
     {
         "country": "Kyrgyzstan",
-        "population": "6045117"
+        "population": 6322800
     },
     {
         "country": "Laos",
-        "population": "6858160"
+        "population": 7061507
     },
     {
         "country": "Latvia",
-        "population": "1949670"
+        "population": 1927174
     },
     {
         "country": "Lebanon",
-        "population": "6082357"
+        "population": 6848925
     },
     {
         "country": "Lesotho",
-        "population": "2233339"
+        "population": 2108132
     },
     {
         "country": "Liberia",
-        "population": "4731906"
+        "population": 4818977
     },
     {
         "country": "Libyan Arab Jamahiriya",
-        "population": "5605000"
+        "population": 6678567
     },
     {
         "country": "Liechtenstein",
-        "population": "37922"
+        "population": 37910
     },
     {
         "country": "Lithuania",
-        "population": "2890297"
+        "population": 2801543
     },
     {
         "country": "Luxembourg",
-        "population": "583455"
+        "population": 607950
     },
     {
         "country": "Macao",
-        "population": "473000"
+        "population": 631636
     },
     {
         "country": "North Macedonia",
-        "population": "2024000"
+        "population": 2084367
     },
     {
         "country": "Madagascar",
-        "population": "25570895"
+        "population": 26262368
     },
     {
         "country": "Malawi",
-        "population": "18622104"
+        "population": 18143315
     },
     {
         "country": "Malaysia",
-        "population": "31624264"
+        "population": 31528585
     },
     {
         "country": "Maldives",
-        "population": "436330"
+        "population": 515696
     },
     {
         "country": "Mali",
-        "population": "18541980"
+        "population": 19077690
     },
     {
         "country": "Malta",
-        "population": "430835"
+        "population": 484630
     },
     {
         "country": "Marshall Islands",
-        "population": "53127"
+        "population": 58413
     },
     {
         "country": "Martinique",
-        "population": "384896"
+        "population": 376480
     },
     {
         "country": "Mauritania",
-        "population": "4420184"
+        "population": 4403319
     },
     {
         "country": "Mauritius",
-        "population": "1265138"
+        "population": 1265303
     },
     {
         "country": "Mayotte",
-        "population": "253045"
+        "population": 270372
     },
     {
         "country": "Mexico",
-        "population": "129163276"
+        "population": 126190788
     },
     {
         "country": "Micronesia, Federated States of",
-        "population": null
+        "population": 112640
     },
     {
         "country": "Moldova",
-        "population": "4051212"
+        "population": 2706049
     },
     {
         "country": "Monaco",
-        "population": "38695"
+        "population": 38682
     },
     {
         "country": "Mongolia",
-        "population": "3075647"
+        "population": 3170208
+    },
+    {
+        "country": "Montenegro",
+        "population": 631219
     },
     {
         "country": "Montserrat",
-        "population": "5177"
+        "population": 5900
     },
     {
         "country": "Morocco",
-        "population": "35739580"
+        "population": 36029138
     },
     {
         "country": "Mozambique",
-        "population": "29668834"
+        "population": 29495962
     },
     {
         "country": "Myanmar",
-        "population": "53370609"
+        "population": 53708395
     },
     {
         "country": "Namibia",
-        "population": "2533794"
+        "population": 2448255
     },
     {
         "country": "Nauru",
-        "population": "11359"
+        "population": 12704
     },
     {
         "country": "Nepal",
-        "population": "29304998"
+        "population": 28087871
     },
     {
         "country": "Netherlands",
-        "population": "17035938"
+        "population": 17231624
     },
     {
         "country": "Netherlands Antilles",
-        "population": "217000"
+        "population": 227049
     },
     {
         "country": "New Caledonia",
-        "population": "276255"
+        "population": 284060
     },
     {
         "country": "New Zealand",
-        "population": "4705818"
+        "population": 4841000
     },
     {
         "country": "Nicaragua",
-        "population": "6217581"
+        "population": 6465513
     },
     {
         "country": "Niger",
-        "population": "21477348"
+        "population": 22442948
     },
     {
         "country": "Nigeria",
-        "population": "190886311"
+        "population": 195874740
     },
     {
         "country": "Niue",
-        "population": "1618"
+        "population": 1624
     },
     {
         "country": "Norfolk Island",
-        "population": "2000"
+        "population": 2169
     },
     {
         "country": "North Korea",
-        "population": "25490965"
+        "population": 25549819
     },
     {
         "country": "Northern Ireland",
-        "population": null
+        "population": 1885400
     },
     {
         "country": "Northern Mariana Islands",
-        "population": "55144"
+        "population": 56882
     },
     {
         "country": "Norway",
-        "population": "5305383"
+        "population": 5311916
     },
     {
         "country": "Oman",
-        "population": "4636262"
+        "population": 4829483
     },
     {
         "country": "Pakistan",
-        "population": "197015955"
+        "population": 212215030
     },
     {
         "country": "Palau",
-        "population": "21729"
+        "population": 17907
     },
     {
         "country": "Palestine",
-        "population": "4920724"
+        "population": 4569087
     },
     {
         "country": "Panama",
-        "population": "4098587"
+        "population": 4176873
     },
     {
         "country": "Papua New Guinea",
-        "population": "8251162"
+        "population": 8606316
     },
     {
         "country": "Paraguay",
-        "population": "6811297"
+        "population": 6956071
     },
     {
         "country": "Peru",
-        "population": "32165485"
+        "population": 31989256
     },
     {
         "country": "Philippines",
-        "population": "104918090"
+        "population": 106651922
     },
     {
         "country": "Pitcairn",
-        "population": "50"
+        "population": 67
     },
     {
         "country": "Poland",
-        "population": "38170712"
+        "population": 37974750
     },
     {
         "country": "Portugal",
-        "population": "10329506"
+        "population": 10283822
     },
     {
         "country": "Puerto Rico",
-        "population": "3663131"
+        "population": 3195153
     },
     {
         "country": "Qatar",
-        "population": "2639211"
+        "population": 2781677
     },
     {
         "country": "Reunion",
-        "population": "699000"
+        "population": 859959
     },
     {
         "country": "Romania",
-        "population": "19679306"
+        "population": 19466145
     },
     {
         "country": "Russian Federation",
-        "population": "143989754"
+        "population": 144478050
     },
     {
         "country": "Rwanda",
-        "population": "12208407"
+        "population": 12301939
     },
     {
         "country": "Saint Helena",
-        "population": "4049"
+        "population": 6600
     },
     {
         "country": "Saint Kitts and Nevis",
-        "population": "55345"
+        "population": 52441
     },
     {
         "country": "Saint Lucia",
-        "population": "178844"
+        "population": 181889
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "population": "6320"
+        "population": 5888
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "population": "109897"
+        "population": 110210
     },
     {
         "country": "Samoa",
-        "population": "196440"
+        "population": 196130
     },
     {
         "country": "San Marino",
-        "population": "33400"
+        "population": 33785
     },
     {
         "country": "Sao Tome and Principe",
-        "population": "204327"
+        "population": 211028
     },
     {
         "country": "Saudi Arabia",
-        "population": "32938213"
+        "population": 33699947
     },
     {
         "country": "Scotland",
-        "population": null
+        "population": 5424800
     },
     {
         "country": "Senegal",
-        "population": "15850567"
+        "population": 15854360
+    },
+    {
+        "country": "Serbia",
+        "population": 6963764	
     },
     {
         "country": "Seychelles",
-        "population": "94737"
+        "population": 96762
     },
     {
         "country": "Sierra Leone",
-        "population": "7557212"
+        "population": 7650154
     },
     {
         "country": "Singapore",
-        "population": "5708844"
+        "population": 5638676
     },
     {
         "country": "Slovakia",
-        "population": "5447662"
+        "population": 5446771
     },
     {
         "country": "Slovenia",
-        "population": "2079976"
+        "population": 2073894
     },
     {
         "country": "Solomon Islands",
-        "population": "611343"
+        "population": 652858
     },
     {
         "country": "Somalia",
-        "population": "14742523"
+        "population": 15008154
     },
     {
         "country": "South Africa",
-        "population": "56717156"
+        "population": 57779622
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "population": null
+        "population": 30
     },
     {
         "country": "South Korea",
-        "population": "50982212"
+        "population": 51606633
     },
     {
         "country": "South Sudan",
-        "population": "12575714"
+        "population": 10975920
     },
     {
         "country": "Spain",
-        "population": "46354321"
+        "population": 46796540
     },
     {
-        "country": "SriLanka",
-        "population": "20876917"
+        "country": "Sri Lanka",
+        "population": 21670000
     },
     {
         "country": "Sudan",
-        "population": "40533330"
+        "population": 41801533
     },
     {
         "country": "Suriname",
-        "population": "563402"
+        "population": 575991
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "population": "3200"
+        "population": 2572
     },
     {
         "country": "Swaziland",
-        "population": "1008000"
+        "population": 1136191
     },
     {
         "country": "Sweden",
-        "population": "9910701"
+        "population": 10175214
     },
     {
         "country": "Switzerland",
-        "population": "8476005"
+        "population": 8513227
     },
     {
         "country": "Syria",
-        "population": "18269868"
+        "population": 16906283
     },
     {
         "country": "Tajikistan",
-        "population": "8921343"
+        "population": 9100837
     },
     {
         "country": "Tanzania",
-        "population": "57310019"
+        "population": 56318348
     },
     {
         "country": "Thailand",
-        "population": "69037513"
+        "population": 69428524
     },
     {
         "country": "The Democratic Republic of Congo",
-        "population": null
+        "population": 84068091
     },
     {
         "country": "Togo",
-        "population": "7797694"
+        "population": 7889094
     },
     {
         "country": "Tokelau",
-        "population": "1300"
+        "population": 1411
     },
     {
         "country": "Tonga",
-        "population": "108020"
+        "population": 103197
     },
     {
         "country": "Trinidad and Tobago",
-        "population": "1369125"
+        "population": 1389858
     },
     {
         "country": "Tunisia",
-        "population": "11532127"
+        "population": 11565204
     },
     {
         "country": "Turkey",
-        "population": "80745020"
+        "population": 82319724
     },
     {
         "country": "Turkmenistan",
-        "population": "5758075"
+        "population": 5850908
     },
     {
         "country": "Turks and Caicos Islands",
-        "population": "35446"
+        "population": 37665
     },
     {
         "country": "Tuvalu",
-        "population": "11192"
+        "population": 11508
     },
     {
         "country": "Uganda",
-        "population": "42862958"
+        "population": 42723139
     },
     {
         "country": "Ukraine",
-        "population": "44222947"
+        "population": 44622516
     },
     {
         "country": "United Arab Emirates",
-        "population": "9400145"
+        "population": 9630959
     },
     {
         "country": "United Kingdom",
-        "population": "66181585"
+        "population": 66460344
     },
     {
         "country": "United States",
-        "population": "324459463"
+        "population": 326687501
     },
     {
         "country": "United States Minor Outlying Islands",
-        "population": null
+        "population": 300
     },
     {
         "country": "Uruguay",
-        "population": "3456750"
+        "population": 3449299
     },
     {
         "country": "Uzbekistan",
-        "population": "31910641"
+        "population": 32955400
     },
     {
         "country": "Vanuatu",
-        "population": "276244"
+        "population": 292680
     },
     {
         "country": "Venezuela",
-        "population": "31977065"
+        "population": 28870195
     },
     {
         "country": "Vietnam",
-        "population": "95540800"
+        "population": 95540395
     },
     {
         "country": "Virgin Islands, British",
-        "population": null
+        "population": 29802
     },
     {
         "country": "Virgin Islands, U.S.",
-        "population": null
+        "population": 106977
     },
     {
         "country": "Wales",
-        "population": null
+        "population": 3139000
     },
     {
         "country": "Wallis and Futuna",
-        "population": "11773"
+        "population": 15289
     },
     {
         "country": "Western Sahara",
-        "population": "552628"
+        "population": 652271
     },
     {
         "country": "Yemen",
-        "population": "28250420"
-    },
-    {
-        "country": "Yugoslavia",
-        "population": "10640000"
+        "population": 28498687
     },
     {
         "country": "Zambia",
-        "population": "17094130"
+        "population": 17351822
     },
     {
         "country": "Zimbabwe",
-        "population": "16529904"
+        "population": 14439018
     }
 ]

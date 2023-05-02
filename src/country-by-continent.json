@@ -253,7 +253,7 @@
     },
     {
         "country": "England",
-        "continent": null
+        "continent": "Europe"
     },
     {
         "country": "Equatorial Guinea",
@@ -437,7 +437,7 @@
     },
     {
         "country": "Kazakhstan",
-        "continent": null
+        "continent": "Asia"
     },
     {
         "country": "Kenya",
@@ -549,7 +549,7 @@
     },
     {
         "country": "Micronesia, Federated States of",
-        "continent": null
+        "continent": "Oceania"
     },
     {
         "country": "Moldova",
@@ -562,6 +562,10 @@
     {
         "country": "Mongolia",
         "continent": "Asia"
+    },
+    {
+        "country": "Montenegro",
+        "continent": "Europe"
     },
     {
         "country": "Montserrat",
@@ -633,7 +637,7 @@
     },
     {
         "country": "Northern Ireland",
-        "continent": null
+        "continent": "Europe"
     },
     {
         "country": "Northern Mariana Islands",
@@ -753,11 +757,15 @@
     },
     {
         "country": "Scotland",
-        "continent": null
+        "continent": "Europe"
     },
     {
         "country": "Senegal",
         "continent": "Africa"
+    },
+    {
+        "country": "Serbia",
+        "continent": "Europe"
     },
     {
         "country": "Seychelles",
@@ -808,8 +816,8 @@
         "continent": "Europe"
     },
     {
-        "country": "SriLanka",
-        "continent": null
+        "country": "Sri Lanka",
+        "continent": "Asia"
     },
     {
         "country": "Sudan",
@@ -853,7 +861,7 @@
     },
     {
         "country": "The Democratic Republic of Congo",
-        "continent": null
+        "continent": "Africa"
     },
     {
         "country": "Togo",
@@ -937,15 +945,15 @@
     },
     {
         "country": "Virgin Islands, British",
-        "continent": null
+        "continent": "North America"
     },
     {
         "country": "Virgin Islands, U.S.",
-        "continent": null
+        "continent": "North America"
     },
     {
         "country": "Wales",
-        "continent": null
+        "continent": "Europe"
     },
     {
         "country": "Wallis and Futuna",
@@ -958,10 +966,6 @@
     {
         "country": "Yemen",
         "continent": "Asia"
-    },
-    {
-        "country": "Yugoslavia",
-        "continent": "Europe"
     },
     {
         "country": "Zambia",

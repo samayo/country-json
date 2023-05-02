@@ -760,6 +760,10 @@
         "government": "Republic"
     },
     {
+        "country": "Serbia",
+        "government": "Republic"
+    },
+    {
         "country": "Seychelles",
         "government": "Republic"
     },
@@ -808,8 +812,8 @@
         "government": "Constitutional Monarchy"
     },
     {
-        "country": "SriLanka",
-        "government": null
+        "country": "Sri Lanka",
+        "government": "Unitary Semi-Presidential Republic"
     },
     {
         "country": "Sudan",
@@ -853,7 +857,7 @@
     },
     {
         "country": "The Democratic Republic of Congo",
-        "government": null
+        "government": "Republic"
     },
     {
         "country": "Togo",
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "government": "Republic"
-    },
-    {
-        "country": "Yugoslavia",
-        "government": "Federal Republic"
     },
     {
         "country": "Zambia",

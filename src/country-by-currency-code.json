@@ -492,7 +492,7 @@
         "currency_code": "EUR"
     },
     {
-        "country": "Macao",
+        "country": "Macau",
         "currency_code": "MOP"
     },
     {
@@ -680,7 +680,7 @@
         "currency_code": "PHP"
     },
     {
-        "country": "Pitcairn",
+        "country": "Pitcairn Islands",
         "currency_code": "NZD"
     },
     {
@@ -760,6 +760,10 @@
         "currency_code": "XOF"
     },
     {
+        "country": "Serbia",
+        "currency_code": "RSD"
+    },
+    {
         "country": "Seychelles",
         "currency_code": "SCR"
     },
@@ -808,7 +812,7 @@
         "currency_code": "EUR"
     },
     {
-        "country": "SriLanka",
+        "country": "Sri Lanka",
         "currency_code": "LKR"
     },
     {
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "currency_code": "YER"
-    },
-    {
-        "country": "Yugoslavia",
-        "currency_code": null
     },
     {
         "country": "Zambia",

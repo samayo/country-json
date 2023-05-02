@@ -145,7 +145,7 @@
     },
     {
         "country": "Cameroon",
-        "city": "Yaound"
+        "city": "Yaounde"
     },
     {
         "country": "Canada",
@@ -165,7 +165,7 @@
     },
     {
         "country": "Chad",
-        "city": "N'Djam"
+        "city": "N'Djamena"
     },
     {
         "country": "Chile",
@@ -201,7 +201,7 @@
     },
     {
         "country": "Costa Rica",
-        "city": "San Jos"
+        "city": "San José"
     },
     {
         "country": "Croatia",
@@ -389,7 +389,7 @@
     },
     {
         "country": "Iceland",
-        "city": "Reykjav"
+        "city": "Reykjavík"
     },
     {
         "country": "India",
@@ -564,6 +564,10 @@
         "city": "Ulan Bator"
     },
     {
+        "country": "Montenegro",
+        "city": "Podgorica"
+    },
+    {
         "country": "Montserrat",
         "city": "Plymouth"
     },
@@ -661,7 +665,7 @@
     },
     {
         "country": "Panama",
-        "city": "Ciudad de Panam"
+        "city": "Ciudad de Panamá"
     },
     {
         "country": "Papua New Guinea",
@@ -669,7 +673,7 @@
     },
     {
         "country": "Paraguay",
-        "city": "Asunci"
+        "city": "Asunción"
     },
     {
         "country": "Peru",
@@ -745,7 +749,7 @@
     },
     {
         "country": "Sao Tome and Principe",
-        "city": "S"
+        "city": "São Tomé"
     },
     {
         "country": "Saudi Arabia",
@@ -758,6 +762,10 @@
     {
         "country": "Senegal",
         "city": "Dakar"
+    },
+    {
+        "country": "Serbia",
+        "city": "Belgrade"
     },
     {
         "country": "Seychelles",
@@ -808,8 +816,8 @@
         "city": "Madrid"
     },
     {
-        "country": "SriLanka",
-        "city": null
+        "country": "Sri Lanka",
+        "city": "Colombo, Sri Jayawardenepura Kotte"
     },
     {
         "country": "Sudan",
@@ -853,11 +861,11 @@
     },
     {
         "country": "The Democratic Republic of Congo",
-        "city": null
+        "city": "Kinshasa"
     },
     {
         "country": "Togo",
-        "city": "Lom"
+        "city": "Lomé"
     },
     {
         "country": "Tokelau",
@@ -931,6 +939,10 @@
         "country": "Venezuela",
         "city": "Caracas"
     },
+       {
+        "country": "Vetican City",
+        "city": "Vetican City"
+    },
     {
         "country": "Vietnam",
         "city": "Hanoi"
@@ -958,10 +970,6 @@
     {
         "country": "Yemen",
         "city": "Sanaa"
-    },
-    {
-        "country": "Yugoslavia",
-        "city": "Beograd"
     },
     {
         "country": "Zambia",

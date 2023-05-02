@@ -1,974 +1,974 @@
 [
-  {
-    "country": "Afghanistan",
-    "elevation": null
-  },
-  {
-    "country": "Albania",
-    "elevation": null
-  },
-  {
-    "country": "Algeria",
-    "elevation": "800m"
-  },
-  {
-    "country": "American Samoa",
-    "elevation": null
-  },
-  {
-    "country": "Andorra",
-    "elevation": "1,996m"
-  },
-  {
-    "country": "Angola",
-    "elevation": "1,112m"
-  },
-  {
-    "country": "Anguilla",
-    "elevation": null
-  },
-  {
-    "country": "Antarctica",
-    "elevation": "2,300m"
-  },
-  {
-    "country": "Antigua and Barbuda",
-    "elevation": null
-  },
-  {
-    "country": "Argentina",
-    "elevation": "595m"
-  },
-  {
-    "country": "Armenia",
-    "elevation": "1,792m"
-  },
-  {
-    "country": "Aruba",
-    "elevation": null
-  },
-  {
-    "country": "Australia",
-    "elevation": "330m"
-  },
-  {
-    "country": "Austria",
-    "elevation": "910m"
-  },
-  {
-    "country": "Azerbaijan",
-    "elevation": "384m"
-  },
-  {
-    "country": "Bahamas",
-    "elevation": null
-  },
-  {
-    "country": "Bahrain",
-    "elevation": null
-  },
-  {
-    "country": "Bangladesh",
-    "elevation": "85m"
-  },
-  {
-    "country": "Barbados",
-    "elevation": null
-  },
-  {
-    "country": "Belarus",
-    "elevation": "160m"
-  },
-  {
-    "country": "Belgium",
-    "elevation": "181m"
-  },
-  {
-    "country": "Belize",
-    "elevation": "173m"
-  },
-  {
-    "country": "Benin",
-    "elevation": "273m"
-  },
-  {
-    "country": "Bermuda",
-    "elevation": null
-  },
-  {
-    "country": "Bhutan",
-    "elevation": "3,280m"
-  },
-  {
-    "country": "Bolivia",
-    "elevation": "1,192m"
-  },
-  {
-    "country": "Bosnia and Herzegovina",
-    "elevation": "500m"
-  },
-  {
-    "country": "Botswana",
-    "elevation": "1,013m"
-  },
-  {
-    "country": "Bouvet Island",
-    "elevation": null
-  },
-  {
-    "country": "Brazil",
-    "elevation": "320m"
-  },
-  {
-    "country": "British Indian Ocean Territory",
-    "elevation": null
-  },
-  {
-    "country": "Brunei",
-    "elevation": "478m"
-  },
-  {
-    "country": "Bulgaria",
-    "elevation": "472m"
-  },
-  {
-    "country": "Burkina Faso",
-    "elevation": "297m"
-  },
-  {
-    "country": "Burundi",
-    "elevation": "1,504m"
-  },
-  {
-    "country": "Cambodia",
-    "elevation": "126m"
-  },
-  {
-    "country": "Cameroon",
-    "elevation": "667m"
-  },
-  {
-    "country": "Canada",
-    "elevation": "487m"
-  },
-  {
-    "country": "Cape Verde",
-    "elevation": null
-  },
-  {
-    "country": "Cayman Islands",
-    "elevation": null
-  },
-  {
-    "country": "Central African Republic",
-    "elevation": "635m"
-  },
-  {
-    "country": "Chad",
-    "elevation": "543m"
-  },
-  {
-    "country": "Chile",
-    "elevation": "1,871m"
-  },
-  {
-    "country": "China",
-    "elevation": "1,840m"
-  },
-  {
-    "country": "Christmas Island",
-    "elevation": null
-  },
-  {
-    "country": "Cocos (Keeling) Islands",
-    "elevation": null
-  },
-  {
-    "country": "Colombia",
-    "elevation": "593m"
-  },
-  {
-    "country": "Comoros",
-    "elevation": null
-  },
-  {
-    "country": "Congo",
-    "elevation": "430m"
-  },
-  {
-    "country": "Cook Islands",
-    "elevation": null
-  },
-  {
-    "country": "Costa Rica",
-    "elevation": "746m"
-  },
-  {
-    "country": "Croatia",
-    "elevation": "331m"
-  },
-  {
-    "country": "Cuba",
-    "elevation": "108m"
-  },
-  {
-    "country": "Cyprus",
-    "elevation": "91m"
-  },
-  {
-    "country": "Czech Republic",
-    "elevation": "433m"
-  },
-  {
-    "country": "Denmark",
-    "elevation": "34m"
-  },
-  {
-    "country": "Djibouti",
-    "elevation": "430m"
-  },
-  {
-    "country": "Dominica",
-    "elevation": null
-  },
-  {
-    "country": "Dominican Republic",
-    "elevation": "424m"
-  },
-  {
-    "country": "East Timor",
-    "elevation": null
-  },
-  {
-    "country": "Ecuador",
-    "elevation": "1,117m"
-  },
-  {
-    "country": "Egypt",
-    "elevation": "321m"
-  },
-  {
-    "country": "El Salvador",
-    "elevation": "442m"
-  },
-  {
-    "country": "England",
-    "elevation": null
-  },
-  {
-    "country": "Equatorial Guinea",
-    "elevation": "577m"
-  },
-  {
-    "country": "Eritrea",
-    "elevation": "853m"
-  },
-  {
-    "country": "Estonia",
-    "elevation": "61m"
-  },
-  {
-    "country": "Ethiopia",
-    "elevation": "1,330m"
-  },
-  {
-    "country": "Falkland Islands",
-    "elevation": null
-  },
-  {
-    "country": "Faroe Islands",
-    "elevation": null
-  },
-  {
-    "country": "Fiji Islands",
-    "elevation": null
-  },
-  {
-    "country": "Finland",
-    "elevation": "164m"
-  },
-  {
-    "country": "France",
-    "elevation": "375m"
-  },
-  {
-    "country": "French Guiana",
-    "elevation": "168m"
-  },
-  {
-    "country": "French Polynesia",
-    "elevation": null
-  },
-  {
-    "country": "French Southern territories",
-    "elevation": null
-  },
-  {
-    "country": "Gabon",
-    "elevation": "377m"
-  },
-  {
-    "country": "Gambia",
-    "elevation": "34m"
-  },
-  {
-    "country": "Georgia",
-    "elevation": "1,432m"
-  },
-  {
-    "country": "Germany",
-    "elevation": "263m"
-  },
-  {
-    "country": "Ghana",
-    "elevation": "190m"
-  },
-  {
-    "country": "Gibraltar",
-    "elevation": null
-  },
-  {
-    "country": "Greece",
-    "elevation": "498m"
-  },
-  {
-    "country": "Greenland",
-    "elevation": "1,792m"
-  },
-  {
-    "country": "Grenada",
-    "elevation": null
-  },
-  {
-    "country": "Guadeloupe",
-    "elevation": null
-  },
-  {
-    "country": "Guam",
-    "elevation": null
-  },
-  {
-    "country": "Guatemala",
-    "elevation": "759m"
-  },
-  {
-    "country": "Guinea",
-    "elevation": "472m"
-  },
-  {
-    "country": "Guinea-Bissau",
-    "elevation": "70m"
-  },
-  {
-    "country": "Guyana",
-    "elevation": "207m"
-  },
-  {
-    "country": "Haiti",
-    "elevation": "470m"
-  },
-  {
-    "country": "Heard Island and McDonald Islands",
-    "elevation": null
-  },
-  {
-    "country": "Holy See (Vatican City State)",
-    "elevation": null
-  },
-  {
-    "country": "Honduras",
-    "elevation": "684m"
-  },
-  {
-    "country": "Hong Kong",
-    "elevation": null
-  },
-  {
-    "country": "Hungary",
-    "elevation": "143m"
-  },
-  {
-    "country": "Iceland",
-    "elevation": "557m"
-  },
-  {
-    "country": "India",
-    "elevation": "160m"
-  },
-  {
-    "country": "Indonesia",
-    "elevation": "367m"
-  },
-  {
-    "country": "Iran",
-    "elevation": "1,305m"
-  },
-  {
-    "country": "Iraq",
-    "elevation": "312m"
-  },
-  {
-    "country": "Ireland",
-    "elevation": "118m"
-  },
-  {
-    "country": "Israel",
-    "elevation": "508m"
-  },
-  {
-    "country": "Italy",
-    "elevation": "538m"
-  },
-  {
-    "country": "Ivory Coast",
-    "elevation": "250m"
-  },
-  {
-    "country": "Jamaica",
-    "elevation": "18m"
-  },
-  {
-    "country": "Japan",
-    "elevation": "438m"
-  },
-  {
-    "country": "Jordan",
-    "elevation": "812m"
-  },
-  {
-    "country": "Kazakhstan",
-    "elevation": null
-  },
-  {
-    "country": "Kenya",
-    "elevation": "762m"
-  },
-  {
-    "country": "Kiribati",
-    "elevation": null
-  },
-  {
-    "country": "Kuwait",
-    "elevation": "108m"
-  },
-  {
-    "country": "Kyrgyzstan",
-    "elevation": "2,988m"
-  },
-  {
-    "country": "Laos",
-    "elevation": "710m"
-  },
-  {
-    "country": "Latvia",
-    "elevation": "87m"
-  },
-  {
-    "country": "Lebanon",
-    "elevation": "1,250m"
-  },
-  {
-    "country": "Lesotho",
-    "elevation": "2,161m"
-  },
-  {
-    "country": "Liberia",
-    "elevation": "243m"
-  },
-  {
-    "country": "Libyan Arab Jamahiriya",
-    "elevation": null
-  },
-  {
-    "country": "Liechtenstein",
-    "elevation": null
-  },
-  {
-    "country": "Lithuania",
-    "elevation": "110m"
-  },
-  {
-    "country": "Luxembourg",
-    "elevation": "325m"
-  },
-  {
-    "country": "Macao",
-    "elevation": null
-  },
-  {
-    "country": "North Macedonia",
-    "elevation": "741m"
-  },
-  {
-    "country": "Madagascar",
-    "elevation": "615m"
-  },
-  {
-    "country": "Malawi",
-    "elevation": "779m"
-  },
-  {
-    "country": "Malaysia",
-    "elevation": "538m"
-  },
-  {
-    "country": "Maldives",
-    "elevation": "1.8m"
-  },
-  {
-    "country": "Mali",
-    "elevation": "343m"
-  },
-  {
-    "country": "Malta",
-    "elevation": null
-  },
-  {
-    "country": "Marshall Islands",
-    "elevation": null
-  },
-  {
-    "country": "Martinique",
-    "elevation": null
-  },
-  {
-    "country": "Mauritania",
-    "elevation": "276m"
-  },
-  {
-    "country": "Mauritius",
-    "elevation": null
-  },
-  {
-    "country": "Mayotte",
-    "elevation": null
-  },
-  {
-    "country": "Mexico",
-    "elevation": "1,111m"
-  },
-  {
-    "country": "Micronesia, Federated States of",
-    "elevation": null
-  },
-  {
-    "country": "Moldova",
-    "elevation": "139m"
-  },
-  {
-    "country": "Monaco",
-    "elevation": null
-  },
-  {
-    "country": "Mongolia",
-    "elevation": "1,528m"
-  },
-  {
-    "country": "Montserrat",
-    "elevation": null
-  },
-  {
-    "country": "Morocco",
-    "elevation": "909m"
-  },
-  {
-    "country": "Mozambique",
-    "elevation": "345m"
-  },
-  {
-    "country": "Myanmar",
-    "elevation": null
-  },
-  {
-    "country": "Namibia",
-    "elevation": "1,141m"
-  },
-  {
-    "country": "Nauru",
-    "elevation": null
-  },
-  {
-    "country": "Nepal",
-    "elevation": "3,265m"
-  },
-  {
-    "country": "Netherlands",
-    "elevation": "30m"
-  },
-  {
-    "country": "Netherlands Antilles",
-    "elevation": null
-  },
-  {
-    "country": "New Caledonia",
-    "elevation": null
-  },
-  {
-    "country": "New Zealand",
-    "elevation": "388m"
-  },
-  {
-    "country": "Nicaragua",
-    "elevation": "298m"
-  },
-  {
-    "country": "Niger",
-    "elevation": "474m"
-  },
-  {
-    "country": "Nigeria",
-    "elevation": "380m"
-  },
-  {
-    "country": "Niue",
-    "elevation": null
-  },
-  {
-    "country": "Norfolk Island",
-    "elevation": null
-  },
-  {
-    "country": "North Korea",
-    "elevation": "400m"
-  },
-  {
-    "country": "Northern Ireland",
-    "elevation": null
-  },
-  {
-    "country": "Northern Mariana Islands",
-    "elevation": null
-  },
-  {
-    "country": "Norway",
-    "elevation": "460m"
-  },
-  {
-    "country": "Oman",
-    "elevation": "310m"
-  },
-  {
-    "country": "Pakistan",
-    "elevation": "900m"
-  },
-  {
-    "country": "Palau",
-    "elevation": null
-  },
-  {
-    "country": "Palestine",
-    "elevation": null
-  },
-  {
-    "country": "Panama",
-    "elevation": "360m"
-  },
-  {
-    "country": "Papua New Guinea",
-    "elevation": "667m"
-  },
-  {
-    "country": "Paraguay",
-    "elevation": "178m"
-  },
-  {
-    "country": "Peru",
-    "elevation": "1,555m"
-  },
-  {
-    "country": "Philippines",
-    "elevation": "442m"
-  },
-  {
-    "country": "Pitcairn",
-    "elevation": null
-  },
-  {
-    "country": "Poland",
-    "elevation": "173m"
-  },
-  {
-    "country": "Portugal",
-    "elevation": "372m"
-  },
-  {
-    "country": "Puerto Rico",
-    "elevation": "261m"
-  },
-  {
-    "country": "Qatar",
-    "elevation": "28m"
-  },
-  {
-    "country": "Reunion",
-    "elevation": null
-  },
-  {
-    "country": "Romania",
-    "elevation": "414m"
-  },
-  {
-    "country": "Russian Federation",
-    "elevation": null
-  },
-  {
-    "country": "Rwanda",
-    "elevation": "1,598m"
-  },
-  {
-    "country": "Saint Helena",
-    "elevation": null
-  },
-  {
-    "country": "Saint Kitts and Nevis",
-    "elevation": null
-  },
-  {
-    "country": "Saint Lucia",
-    "elevation": null
-  },
-  {
-    "country": "Saint Pierre and Miquelon",
-    "elevation": null
-  },
-  {
-    "country": "Saint Vincent and the Grenadines",
-    "elevation": null
-  },
-  {
-    "country": "Samoa",
-    "elevation": null
-  },
-  {
-    "country": "San Marino",
-    "elevation": null
-  },
-  {
-    "country": "Sao Tome and Principe",
-    "elevation": null
-  },
-  {
-    "country": "Saudi Arabia",
-    "elevation": "665m"
-  },
-  {
-    "country": "Scotland",
-    "elevation": null
-  },
-  {
-    "country": "Senegal",
-    "elevation": "69m"
-  },
-  {
-    "country": "Seychelles",
-    "elevation": null
-  },
-  {
-    "country": "Sierra Leone",
-    "elevation": "279m"
-  },
-  {
-    "country": "Singapore",
-    "elevation": null
-  },
-  {
-    "country": "Slovakia",
-    "elevation": "458m"
-  },
-  {
-    "country": "Slovenia",
-    "elevation": "492m"
-  },
-  {
-    "country": "Solomon Islands",
-    "elevation": null
-  },
-  {
-    "country": "Somalia",
-    "elevation": "410m"
-  },
-  {
-    "country": "South Africa",
-    "elevation": "1,034m"
-  },
-  {
-    "country": "South Georgia and the South Sandwich Islands",
-    "elevation": null
-  },
-  {
-    "country": "South Korea",
-    "elevation": "282m"
-  },
-  {
-    "country": "South Sudan",
-    "elevation": null
-  },
-  {
-    "country": "Spain",
-    "elevation": "660m"
-  },
-  {
-    "country": "SriLanka",
-    "elevation": null
-  },
-  {
-    "country": "Sudan",
-    "elevation": "568m"
-  },
-  {
-    "country": "Suriname",
-    "elevation": "246m"
-  },
-  {
-    "country": "Svalbard and Jan Mayen",
-    "elevation": null
-  },
-  {
-    "country": "Swaziland",
-    "elevation": "305m"
-  },
-  {
-    "country": "Sweden",
-    "elevation": "320m"
-  },
-  {
-    "country": "Switzerland",
-    "elevation": "1,350m"
-  },
-  {
-    "country": "Syria",
-    "elevation": "514m"
-  },
-  {
-    "country": "Tajikistan",
-    "elevation": "3,186m"
-  },
-  {
-    "country": "Tanzania",
-    "elevation": "1,018m"
-  },
-  {
-    "country": "Thailand",
-    "elevation": "287m"
-  },
-  {
-    "country": "The Democratic Republic of Congo",
-    "elevation": null
-  },
-  {
-    "country": "Togo",
-    "elevation": "236m"
-  },
-  {
-    "country": "Tokelau",
-    "elevation": null
-  },
-  {
-    "country": "Tonga",
-    "elevation": null
-  },
-  {
-    "country": "Trinidad and Tobago",
-    "elevation": "83m"
-  },
-  {
-    "country": "Tunisia",
-    "elevation": "246m"
-  },
-  {
-    "country": "Turkey",
-    "elevation": "1,132m"
-  },
-  {
-    "country": "Turkmenistan",
-    "elevation": "230m"
-  },
-  {
-    "country": "Turks and Caicos Islands",
-    "elevation": null
-  },
-  {
-    "country": "Tuvalu",
-    "elevation": null
-  },
-  {
-    "country": "Uganda",
-    "elevation": null
-  },
-  {
-    "country": "Ukraine",
-    "elevation": "175m"
-  },
-  {
-    "country": "United Arab Emirates",
-    "elevation": "149m"
-  },
-  {
-    "country": "United Kingdom",
-    "elevation": "162m"
-  },
-  {
-    "country": "United States",
-    "elevation": "760m"
-  },
-  {
-    "country": "United States Minor Outlying Islands",
-    "elevation": null
-  },
-  {
-    "country": "Uruguay",
-    "elevation": "109m"
-  },
-  {
-    "country": "Uzbekistan",
-    "elevation": null
-  },
-  {
-    "country": "Vanuatu",
-    "elevation": null
-  },
-  {
-    "country": "Venezuela",
-    "elevation": "450m"
-  },
-  {
-    "country": "Vietnam",
-    "elevation": "398m"
-  },
-  {
-    "country": "Virgin Islands, British",
-    "elevation": null
-  },
-  {
-    "country": "Virgin Islands, U.S.",
-    "elevation": null
-  },
-  {
-    "country": "Wales",
-    "elevation": null
-  },
-  {
-    "country": "Wallis and Futuna",
-    "elevation": null
-  },
-  {
-    "country": "Western Sahara",
-    "elevation": "256m"
-  },
-  {
-    "country": "Yemen",
-    "elevation": "999m"
-  },
-  {
-    "country": "Yugoslavia",
-    "elevation": null
-  },
-  {
-    "country": "Zambia",
-    "elevation": "1,138m"
-  },
-  {
-    "country": "Zimbabwe",
-    "elevation": "961m"
-  }
+    {
+        "country": "Afghanistan",
+        "elevation": null
+    },
+    {
+        "country": "Albania",
+        "elevation": null
+    },
+    {
+        "country": "Algeria",
+        "elevation": 800
+    },
+    {
+        "country": "American Samoa",
+        "elevation": null
+    },
+    {
+        "country": "Andorra",
+        "elevation": 1996
+    },
+    {
+        "country": "Angola",
+        "elevation": 1112
+    },
+    {
+        "country": "Anguilla",
+        "elevation": null
+    },
+    {
+        "country": "Antarctica",
+        "elevation": 2300
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "elevation": null
+    },
+    {
+        "country": "Argentina",
+        "elevation": 595
+    },
+    {
+        "country": "Armenia",
+        "elevation": 1792
+    },
+    {
+        "country": "Aruba",
+        "elevation": null
+    },
+    {
+        "country": "Australia",
+        "elevation": 330
+    },
+    {
+        "country": "Austria",
+        "elevation": 910
+    },
+    {
+        "country": "Azerbaijan",
+        "elevation": 384
+    },
+    {
+        "country": "Bahamas",
+        "elevation": null
+    },
+    {
+        "country": "Bahrain",
+        "elevation": null
+    },
+    {
+        "country": "Bangladesh",
+        "elevation": 85
+    },
+    {
+        "country": "Barbados",
+        "elevation": null
+    },
+    {
+        "country": "Belarus",
+        "elevation": 160
+    },
+    {
+        "country": "Belgiu",
+        "elevation": 181
+    },
+    {
+        "country": "Belize",
+        "elevation": 173
+    },
+    {
+        "country": "Benin",
+        "elevation": 273
+    },
+    {
+        "country": "Bermuda",
+        "elevation": null
+    },
+    {
+        "country": "Bhutan",
+        "elevation": 3280
+    },
+    {
+        "country": "Bolivia",
+        "elevation": 1192
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "elevation": 500
+    },
+    {
+        "country": "Botswana",
+        "elevation": 1013
+    },
+    {
+        "country": "Bouvet Island",
+        "elevation": null
+    },
+    {
+        "country": "Brazil",
+        "elevation": 320
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "elevation": null
+    },
+    {
+        "country": "Brunei",
+        "elevation": 478
+    },
+    {
+        "country": "Bulgaria",
+        "elevation": 472
+    },
+    {
+        "country": "Burkina Faso",
+        "elevation": 297
+    },
+    {
+        "country": "Burundi",
+        "elevation": 1504
+    },
+    {
+        "country": "Cambodia",
+        "elevation": 126
+    },
+    {
+        "country": "Cameroon",
+        "elevation": 667
+    },
+    {
+        "country": "Canada",
+        "elevation": 487
+    },
+    {
+        "country": "Cape Verde",
+        "elevation": null
+    },
+    {
+        "country": "Cayman Islands",
+        "elevation": null
+    },
+    {
+        "country": "Central African Republic",
+        "elevation": 635
+    },
+    {
+        "country": "Chad",
+        "elevation": 543
+    },
+    {
+        "country": "Chile",
+        "elevation": 1871
+    },
+    {
+        "country": "China",
+        "elevation": 1840
+    },
+    {
+        "country": "Christmas Island",
+        "elevation": null
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "elevation": null
+    },
+    {
+        "country": "Colombia",
+        "elevation": 593
+    },
+    {
+        "country": "Comoros",
+        "elevation": null
+    },
+    {
+        "country": "Congo",
+        "elevation": 430
+    },
+    {
+        "country": "Cook Islands",
+        "elevation": null
+    },
+    {
+        "country": "Costa Rica",
+        "elevation": 746
+    },
+    {
+        "country": "Croatia",
+        "elevation": 331
+    },
+    {
+        "country": "Cuba",
+        "elevation": 108
+    },
+    {
+        "country": "Cyprus",
+        "elevation": 91
+    },
+    {
+        "country": "Czech Republic",
+        "elevation": 433
+    },
+    {
+        "country": "Denmark",
+        "elevation": 34
+    },
+    {
+        "country": "Djibouti",
+        "elevation": 430
+    },
+    {
+        "country": "Dominica",
+        "elevation": null
+    },
+    {
+        "country": "Dominican Republic",
+        "elevation": 424
+    },
+    {
+        "country": "East Timor",
+        "elevation": null
+    },
+    {
+        "country": "Ecuador",
+        "elevation": 1117
+    },
+    {
+        "country": "Egypt",
+        "elevation": 321
+    },
+    {
+        "country": "El Salvador",
+        "elevation": 442
+    },
+    {
+        "country": "England",
+        "elevation": null
+    },
+    {
+        "country": "Equatorial Guinea",
+        "elevation": 577
+    },
+    {
+        "country": "Eritrea",
+        "elevation": 853
+    },
+    {
+        "country": "Estonia",
+        "elevation": 61
+    },
+    {
+        "country": "Ethiopia",
+        "elevation": 1330
+    },
+    {
+        "country": "Falkland Islands",
+        "elevation": null
+    },
+    {
+        "country": "Faroe Islands",
+        "elevation": null
+    },
+    {
+        "country": "Fiji Islands",
+        "elevation": null
+    },
+    {
+        "country": "Finland",
+        "elevation": 164
+    },
+    {
+        "country": "France",
+        "elevation": 375
+    },
+    {
+        "country": "French Guiana",
+        "elevation": 168
+    },
+    {
+        "country": "French Polynesia",
+        "elevation": null
+    },
+    {
+        "country": "French Southern territories",
+        "elevation": null
+    },
+    {
+        "country": "Gabon",
+        "elevation": 377
+    },
+    {
+        "country": "Gambia",
+        "elevation": 34
+    },
+    {
+        "country": "Georgia",
+        "elevation": 1432
+    },
+    {
+        "country": "Germany",
+        "elevation": 263
+    },
+    {
+        "country": "Ghana",
+        "elevation": 190
+    },
+    {
+        "country": "Gibraltar",
+        "elevation": null
+    },
+    {
+        "country": "Greece",
+        "elevation": 498
+    },
+    {
+        "country": "Greenland",
+        "elevation": 1792
+    },
+    {
+        "country": "Grenada",
+        "elevation": null
+    },
+    {
+        "country": "Guadeloupe",
+        "elevation": null
+    },
+    {
+        "country": "Gua",
+        "elevation": null
+    },
+    {
+        "country": "Guatemala",
+        "elevation": 759
+    },
+    {
+        "country": "Guinea",
+        "elevation": 472
+    },
+    {
+        "country": "Guinea-Bissau",
+        "elevation": 70
+    },
+    {
+        "country": "Guyana",
+        "elevation": 207
+    },
+    {
+        "country": "Haiti",
+        "elevation": 470
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "elevation": null
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "elevation": null
+    },
+    {
+        "country": "Honduras",
+        "elevation": 684
+    },
+    {
+        "country": "Hong Kong",
+        "elevation": null
+    },
+    {
+        "country": "Hungary",
+        "elevation": 143
+    },
+    {
+        "country": "Iceland",
+        "elevation": 557
+    },
+    {
+        "country": "India",
+        "elevation": 160
+    },
+    {
+        "country": "Indonesia",
+        "elevation": 367
+    },
+    {
+        "country": "Iran",
+        "elevation": 1305
+    },
+    {
+        "country": "Iraq",
+        "elevation": 312
+    },
+    {
+        "country": "Ireland",
+        "elevation": 118
+    },
+    {
+        "country": "Israel",
+        "elevation": 508
+    },
+    {
+        "country": "Italy",
+        "elevation": 538
+    },
+    {
+        "country": "Ivory Coast",
+        "elevation": 250
+    },
+    {
+        "country": "Jamaica",
+        "elevation": 18
+    },
+    {
+        "country": "Japan",
+        "elevation": 438
+    },
+    {
+        "country": "Jordan",
+        "elevation": 812
+    },
+    {
+        "country": "Kazakhstan",
+        "elevation": null
+    },
+    {
+        "country": "Kenya",
+        "elevation": 762
+    },
+    {
+        "country": "Kiribati",
+        "elevation": null
+    },
+    {
+        "country": "Kuwait",
+        "elevation": 108
+    },
+    {
+        "country": "Kyrgyzstan",
+        "elevation": 2988
+    },
+    {
+        "country": "Laos",
+        "elevation": 710
+    },
+    {
+        "country": "Latvia",
+        "elevation": 87
+    },
+    {
+        "country": "Lebanon",
+        "elevation": 1250
+    },
+    {
+        "country": "Lesotho",
+        "elevation": 2161
+    },
+    {
+        "country": "Liberia",
+        "elevation": 243
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "elevation": null
+    },
+    {
+        "country": "Liechtenstein",
+        "elevation": null
+    },
+    {
+        "country": "Lithuania",
+        "elevation": 110
+    },
+    {
+        "country": "Luxembourg",
+        "elevation": 325
+    },
+    {
+        "country": "Macao",
+        "elevation": null
+    },
+    {
+        "country": "North Macedonia",
+        "elevation": 741
+    },
+    {
+        "country": "Madagascar",
+        "elevation": 615
+    },
+    {
+        "country": "Malawi",
+        "elevation": 779
+    },
+    {
+        "country": "Malaysia",
+        "elevation": 538
+    },
+    {
+        "country": "Maldives",
+        "elevation": 1.8
+    },
+    {
+        "country": "Mali",
+        "elevation": 343
+    },
+    {
+        "country": "Malta",
+        "elevation": null
+    },
+    {
+        "country": "Marshall Islands",
+        "elevation": null
+    },
+    {
+        "country": "Martinique",
+        "elevation": null
+    },
+    {
+        "country": "Mauritania",
+        "elevation": 276
+    },
+    {
+        "country": "Mauritius",
+        "elevation": null
+    },
+    {
+        "country": "Mayotte",
+        "elevation": null
+    },
+    {
+        "country": "Mexico",
+        "elevation": 1111
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "elevation": null
+    },
+    {
+        "country": "Moldova",
+        "elevation": 139
+    },
+    {
+        "country": "Monaco",
+        "elevation": null
+    },
+    {
+        "country": "Mongolia",
+        "elevation": 1528
+    },
+    {
+        "country": "Montserrat",
+        "elevation": null
+    },
+    {
+        "country": "Morocco",
+        "elevation": 909
+    },
+    {
+        "country": "Mozambique",
+        "elevation": 345
+    },
+    {
+        "country": "Myanmar",
+        "elevation": null
+    },
+    {
+        "country": "Namibia",
+        "elevation": 1141
+    },
+    {
+        "country": "Nauru",
+        "elevation": null
+    },
+    {
+        "country": "Nepal",
+        "elevation": 3265
+    },
+    {
+        "country": "Netherlands",
+        "elevation": 30
+    },
+    {
+        "country": "Netherlands Antilles",
+        "elevation": null
+    },
+    {
+        "country": "New Caledonia",
+        "elevation": null
+    },
+    {
+        "country": "New Zealand",
+        "elevation": 388
+    },
+    {
+        "country": "Nicaragua",
+        "elevation": 298
+    },
+    {
+        "country": "Niger",
+        "elevation": 474
+    },
+    {
+        "country": "Nigeria",
+        "elevation": 380
+    },
+    {
+        "country": "Niue",
+        "elevation": null
+    },
+    {
+        "country": "Norfolk Island",
+        "elevation": null
+    },
+    {
+        "country": "North Korea",
+        "elevation": 400
+    },
+    {
+        "country": "Northern Ireland",
+        "elevation": null
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "elevation": null
+    },
+    {
+        "country": "Norway",
+        "elevation": 460
+    },
+    {
+        "country": "Oman",
+        "elevation": 310
+    },
+    {
+        "country": "Pakistan",
+        "elevation": 900
+    },
+    {
+        "country": "Palau",
+        "elevation": null
+    },
+    {
+        "country": "Palestine",
+        "elevation": null
+    },
+    {
+        "country": "Panama",
+        "elevation": 360
+    },
+    {
+        "country": "Papua New Guinea",
+        "elevation": 667
+    },
+    {
+        "country": "Paraguay",
+        "elevation": 178
+    },
+    {
+        "country": "Peru",
+        "elevation": 1555
+    },
+    {
+        "country": "Philippines",
+        "elevation": 442
+    },
+    {
+        "country": "Pitcairn",
+        "elevation": null
+    },
+    {
+        "country": "Poland",
+        "elevation": 173
+    },
+    {
+        "country": "Portugal",
+        "elevation": 372
+    },
+    {
+        "country": "Puerto Rico",
+        "elevation": 261
+    },
+    {
+        "country": "Qatar",
+        "elevation": 28
+    },
+    {
+        "country": "Reunion",
+        "elevation": null
+    },
+    {
+        "country": "Romania",
+        "elevation": 414
+    },
+    {
+        "country": "Russian Federation",
+        "elevation": null
+    },
+    {
+        "country": "Rwanda",
+        "elevation": 1598
+    },
+    {
+        "country": "Saint Helena",
+        "elevation": null
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "elevation": null
+    },
+    {
+        "country": "Saint Lucia",
+        "elevation": null
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "elevation": null
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "elevation": null
+    },
+    {
+        "country": "Samoa",
+        "elevation": null
+    },
+    {
+        "country": "San Marino",
+        "elevation": null
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "elevation": null
+    },
+    {
+        "country": "Saudi Arabia",
+        "elevation": 665
+    },
+    {
+        "country": "Scotland",
+        "elevation": null
+    },
+    {
+        "country": "Senegal",
+        "elevation": 69
+    },
+    {
+        "country": "Serbia",
+        "elevation": 2826 
+    },
+    {
+        "country": "Seychelles",
+        "elevation": null
+    },
+    {
+        "country": "Sierra Leone",
+        "elevation": 279
+    },
+    {
+        "country": "Singapore",
+        "elevation": null
+    },
+    {
+        "country": "Slovakia",
+        "elevation": 458
+    },
+    {
+        "country": "Slovenia",
+        "elevation": 492
+    },
+    {
+        "country": "Solomon Islands",
+        "elevation": null
+    },
+    {
+        "country": "Somalia",
+        "elevation": 410
+    },
+    {
+        "country": "South Africa",
+        "elevation": 1034
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "elevation": null
+    },
+    {
+        "country": "South Korea",
+        "elevation": 282
+    },
+    {
+        "country": "South Sudan",
+        "elevation": null
+    },
+    {
+        "country": "Spain",
+        "elevation": 660
+    },
+    {
+        "country": "Sri Lanka",
+        "elevation": null
+    },
+    {
+        "country": "Sudan",
+        "elevation": 568
+    },
+    {
+        "country": "Suriname",
+        "elevation": 246
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "elevation": null
+    },
+    {
+        "country": "Swaziland",
+        "elevation": 305
+    },
+    {
+        "country": "Sweden",
+        "elevation": 320
+    },
+    {
+        "country": "Switzerland",
+        "elevation": 1350
+    },
+    {
+        "country": "Syria",
+        "elevation": 514
+    },
+    {
+        "country": "Tajikistan",
+        "elevation": 3186
+    },
+    {
+        "country": "Tanzania",
+        "elevation": 1018
+    },
+    {
+        "country": "Thailand",
+        "elevation": 287
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "elevation": null
+    },
+    {
+        "country": "Togo",
+        "elevation": 236
+    },
+    {
+        "country": "Tokelau",
+        "elevation": null
+    },
+    {
+        "country": "Tonga",
+        "elevation": null
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "elevation": 83
+    },
+    {
+        "country": "Tunisia",
+        "elevation": 246
+    },
+    {
+        "country": "Turkey",
+        "elevation": 1132
+    },
+    {
+        "country": "Turkmenistan",
+        "elevation": 230
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "elevation": null
+    },
+    {
+        "country": "Tuvalu",
+        "elevation": null
+    },
+    {
+        "country": "Uganda",
+        "elevation": null
+    },
+    {
+        "country": "Ukraine",
+        "elevation": 175
+    },
+    {
+        "country": "United Arab Emirates",
+        "elevation": 149
+    },
+    {
+        "country": "United Kingdo",
+        "elevation": 162
+    },
+    {
+        "country": "United States",
+        "elevation": 760
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "elevation": null
+    },
+    {
+        "country": "Uruguay",
+        "elevation": 109
+    },
+    {
+        "country": "Uzbekistan",
+        "elevation": null
+    },
+    {
+        "country": "Vanuatu",
+        "elevation": null
+    },
+    {
+        "country": "Venezuela",
+        "elevation": 450
+    },
+    {
+        "country": "Vietna",
+        "elevation": 398
+    },
+    {
+        "country": "Virgin Islands, British",
+        "elevation": null
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "elevation": null
+    },
+    {
+        "country": "Wales",
+        "elevation": null
+    },
+    {
+        "country": "Wallis and Futuna",
+        "elevation": null
+    },
+    {
+        "country": "Western Sahara",
+        "elevation": 256
+    },
+    {
+        "country": "Yemen",
+        "elevation": 999
+    },
+    {
+        "country": "Zambia",
+        "elevation": 1138
+    },
+    {
+        "country": "Zimbabwe",
+        "elevation": 961
+    }
 ]

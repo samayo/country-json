@@ -1,23 +1,23 @@
 [
     {
         "country": "Afghanistan",
-        "height": null
+        "height": 168
     },
     {
         "country": "Albania",
-        "height": null
+        "height": 174
     },
     {
         "country": "Algeria",
-        "height": "170.2"
+        "height": 170.2
     },
     {
         "country": "American Samoa",
-        "height": null
+        "height": 177
     },
     {
         "country": "Andorra",
-        "height": null
+        "height": 178
     },
     {
         "country": "Angola",
@@ -37,7 +37,7 @@
     },
     {
         "country": "Argentina",
-        "height": "171.3"
+        "height": 171.3
     },
     {
         "country": "Armenia",
@@ -49,15 +49,15 @@
     },
     {
         "country": "Australia",
-        "height": "176.3"
+        "height": 176.3
     },
     {
         "country": "Austria",
-        "height": "177"
+        "height": 177
     },
     {
         "country": "Azerbaijan",
-        "height": "172"
+        "height": 172
     },
     {
         "country": "Bahamas",
@@ -65,7 +65,7 @@
     },
     {
         "country": "Bahrain",
-        "height": "165.6"
+        "height": 165.6
     },
     {
         "country": "Bangladesh",
@@ -81,7 +81,7 @@
     },
     {
         "country": "Belgium",
-        "height": "176.6"
+        "height": 176.6
     },
     {
         "country": "Belize",
@@ -117,7 +117,7 @@
     },
     {
         "country": "Brazil",
-        "height": "169.5"
+        "height": 169.5
     },
     {
         "country": "British Indian Ocean Territory",
@@ -141,15 +141,15 @@
     },
     {
         "country": "Cambodia",
-        "height": "160.3"
+        "height": 160.3
     },
     {
         "country": "Cameroon",
-        "height": "170"
+        "height": 170
     },
     {
         "country": "Canada",
-        "height": "174.3"
+        "height": 174.3
     },
     {
         "country": "Cape Verde",
@@ -169,11 +169,11 @@
     },
     {
         "country": "Chile",
-        "height": "169.2"
+        "height": 169.2
     },
     {
         "country": "China",
-        "height": "168.3"
+        "height": 168.3
     },
     {
         "country": "Christmas Island",
@@ -185,7 +185,7 @@
     },
     {
         "country": "Colombia",
-        "height": "169.5"
+        "height": 169.5
     },
     {
         "country": "Comoros",
@@ -205,7 +205,7 @@
     },
     {
         "country": "Croatia",
-        "height": "177.6"
+        "height": 177.6
     },
     {
         "country": "Cuba",
@@ -217,11 +217,11 @@
     },
     {
         "country": "Czech Republic",
-        "height": "178.3"
+        "height": 178.3
     },
     {
         "country": "Denmark",
-        "height": "178.8"
+        "height": 178.8
     },
     {
         "country": "Djibouti",
@@ -245,7 +245,7 @@
     },
     {
         "country": "Egypt",
-        "height": "170.3"
+        "height": 170.3
     },
     {
         "country": "El Salvador",
@@ -261,11 +261,11 @@
     },
     {
         "country": "Eritrea",
-        "height": "175.8"
+        "height": 175.8
     },
     {
         "country": "Estonia",
-        "height": "177.1"
+        "height": 177.1
     },
     {
         "country": "Ethiopia",
@@ -285,11 +285,11 @@
     },
     {
         "country": "Finland",
-        "height": "178.4"
+        "height": 178.4
     },
     {
         "country": "France",
-        "height": "174.1"
+        "height": 174.1
     },
     {
         "country": "French Guiana",
@@ -309,7 +309,7 @@
     },
     {
         "country": "Gambia",
-        "height": "170"
+        "height": 170
     },
     {
         "country": "Georgia",
@@ -317,11 +317,11 @@
     },
     {
         "country": "Germany",
-        "height": "177.4"
+        "height": 177.4
     },
     {
         "country": "Ghana",
-        "height": "169.8"
+        "height": 169.8
     },
     {
         "country": "Gibraltar",
@@ -329,7 +329,7 @@
     },
     {
         "country": "Greece",
-        "height": "175.7"
+        "height": 175.7
     },
     {
         "country": "Greenland",
@@ -381,55 +381,55 @@
     },
     {
         "country": "Hong Kong",
-        "height": "168.5"
+        "height": 168.5
     },
     {
         "country": "Hungary",
-        "height": "175.3"
+        "height": 175.3
     },
     {
         "country": "Iceland",
-        "height": "179.8"
+        "height": 179.8
     },
     {
         "country": "India",
-        "height": "162.3"
+        "height": 162.3
     },
     {
         "country": "Indonesia",
-        "height": "161.5"
+        "height": 161.5
     },
     {
         "country": "Iran",
-        "height": "170.6"
+        "height": 170.6
     },
     {
         "country": "Iraq",
-        "height": "165.4"
+        "height": 165.4
     },
     {
         "country": "Ireland",
-        "height": "175"
+        "height": 175
     },
     {
         "country": "Israel",
-        "height": "175"
+        "height": 175
     },
     {
         "country": "Italy",
-        "height": "173.2"
+        "height": 173.2
     },
     {
         "country": "Ivory Coast",
-        "height": "170.4"
+        "height": 170.4
     },
     {
         "country": "Jamaica",
-        "height": "172.8"
+        "height": 172.8
     },
     {
         "country": "Japan",
-        "height": "168.6"
+        "height": 168.6
     },
     {
         "country": "Jordan",
@@ -465,7 +465,7 @@
     },
     {
         "country": "Lebanon",
-        "height": "174.2"
+        "height": 174.2
     },
     {
         "country": "Lesotho",
@@ -485,11 +485,11 @@
     },
     {
         "country": "Lithuania",
-        "height": "175"
+        "height": 175
     },
     {
         "country": "Luxembourg",
-        "height": "178"
+        "height": 178
     },
     {
         "country": "Macao",
@@ -505,11 +505,11 @@
     },
     {
         "country": "Malawi",
-        "height": "166"
+        "height": 166
     },
     {
         "country": "Malaysia",
-        "height": "166"
+        "height": 166
     },
     {
         "country": "Maldives",
@@ -517,7 +517,7 @@
     },
     {
         "country": "Mali",
-        "height": "172.5"
+        "height": 172.5
     },
     {
         "country": "Malta",
@@ -545,7 +545,7 @@
     },
     {
         "country": "Mexico",
-        "height": "167.5"
+        "height": 167.5
     },
     {
         "country": "Micronesia, Federated States of",
@@ -561,7 +561,7 @@
     },
     {
         "country": "Mongolia",
-        "height": "166.4"
+        "height": 166.4
     },
     {
         "country": "Montserrat",
@@ -569,7 +569,7 @@
     },
     {
         "country": "Morocco",
-        "height": "170.7"
+        "height": 170.7
     },
     {
         "country": "Mozambique",
@@ -589,11 +589,11 @@
     },
     {
         "country": "Nepal",
-        "height": "163"
+        "height": 163
     },
     {
         "country": "Netherlands",
-        "height": "181"
+        "height": 181
     },
     {
         "country": "Netherlands Antilles",
@@ -605,7 +605,7 @@
     },
     {
         "country": "New Zealand",
-        "height": "175.5"
+        "height": 175.5
     },
     {
         "country": "Nicaragua",
@@ -617,7 +617,7 @@
     },
     {
         "country": "Nigeria",
-        "height": "165"
+        "height": 165
     },
     {
         "country": "Niue",
@@ -641,7 +641,7 @@
     },
     {
         "country": "Norway",
-        "height": "179.7"
+        "height": 179.7
     },
     {
         "country": "Oman",
@@ -649,7 +649,7 @@
     },
     {
         "country": "Pakistan",
-        "height": "167"
+        "height": 167
     },
     {
         "country": "Palau",
@@ -669,15 +669,15 @@
     },
     {
         "country": "Paraguay",
-        "height": "169"
+        "height": 169
     },
     {
         "country": "Peru",
-        "height": "164.3"
+        "height": 164.3
     },
     {
         "country": "Philippines",
-        "height": "162"
+        "height": 162
     },
     {
         "country": "Pitcairn",
@@ -685,11 +685,11 @@
     },
     {
         "country": "Poland",
-        "height": "176"
+        "height": 176
     },
     {
         "country": "Portugal",
-        "height": "170.5"
+        "height": 170.5
     },
     {
         "country": "Puerto Rico",
@@ -705,7 +705,7 @@
     },
     {
         "country": "Romania",
-        "height": "172"
+        "height": 172
     },
     {
         "country": "Russian Federation",
@@ -757,7 +757,11 @@
     },
     {
         "country": "Senegal",
-        "height": "173"
+        "height": 173
+    },
+    {
+        "country": "Serbia",
+        "height": 174.13
     },
     {
         "country": "Seychelles",
@@ -769,7 +773,7 @@
     },
     {
         "country": "Singapore",
-        "height": "166.6"
+        "height": 166.6
     },
     {
         "country": "Slovakia",
@@ -777,7 +781,7 @@
     },
     {
         "country": "Slovenia",
-        "height": "178.1"
+        "height": 178.1
     },
     {
         "country": "Solomon Islands",
@@ -789,7 +793,7 @@
     },
     {
         "country": "South Africa",
-        "height": "170"
+        "height": 170
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
@@ -805,10 +809,10 @@
     },
     {
         "country": "Spain",
-        "height": "172"
+        "height": 172
     },
     {
-        "country": "SriLanka",
+        "country": "Sri Lanka",
         "height": null
     },
     {
@@ -829,15 +833,15 @@
     },
     {
         "country": "Sweden",
-        "height": "179.3"
+        "height": 179.3
     },
     {
         "country": "Switzerland",
-        "height": "176.5"
+        "height": 176.5
     },
     {
         "country": "Syria",
-        "height": "171"
+        "height": 171
     },
     {
         "country": "Tajikistan",
@@ -845,11 +849,11 @@
     },
     {
         "country": "Tanzania",
-        "height": null
+        "height": 166.9
     },
     {
         "country": "Thailand",
-        "height": "166.4"
+        "height": 166.4
     },
     {
         "country": "The Democratic Republic of Congo",
@@ -873,15 +877,19 @@
     },
     {
         "country": "Tunisia",
-        "height": "170.3"
+        "height": 170.3
     },
     {
         "country": "Turkey",
-        "height": "174.1"
+        "height": 174.1
+    },
+     {
+        "country": "Turkey-Trabzon",
+        "height": 175.7
     },
     {
         "country": "Turkmenistan",
-        "height": null
+        "height": 173.3
     },
     {
         "country": "Turks and Caicos Islands",
@@ -893,23 +901,23 @@
     },
     {
         "country": "Uganda",
-        "height": null
+        "height": 166.9
     },
     {
         "country": "Ukraine",
-        "height": "175"
+        "height": 175
     },
     {
         "country": "United Arab Emirates",
-        "height": null
+        "height": 173.4
     },
     {
         "country": "United Kingdom",
-        "height": "175.4"
+        "height": 175.4
     },
     {
         "country": "United States",
-        "height": "176.4"
+        "height": 176.4
     },
     {
         "country": "United States Minor Outlying Islands",
@@ -917,11 +925,11 @@
     },
     {
         "country": "Uruguay",
-        "height": "171.8"
+        "height": 171.8
     },
     {
         "country": "Uzbekistan",
-        "height": "173.4"
+        "height": 173.4
     },
     {
         "country": "Vanuatu",
@@ -929,11 +937,11 @@
     },
     {
         "country": "Venezuela",
-        "height": "169"
+        "height": 169
     },
     {
         "country": "Vietnam",
-        "height": "162.1"
+        "height": 162.1
     },
     {
         "country": "Virgin Islands, British",
@@ -957,10 +965,6 @@
     },
     {
         "country": "Yemen",
-        "height": null
-    },
-    {
-        "country": "Yugoslavia",
         "height": null
     },
     {

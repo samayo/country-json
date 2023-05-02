@@ -9,7 +9,7 @@ $ npm install country-json
 ```
 or composer
 ```bash
-$ composer require samayo/country-data
+$ composer require samayo/country-json
 ```
 or  git
 ```bash
@@ -23,14 +23,16 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Barcode Prefix](https://github.com/samayo/country-json/blob/master/src/country-by-barcode-prefix.json)
 - [Country by Calling Code](https://github.com/samayo/country-json/blob/master/src/country-by-calling-code.json)
 - [Country by Capital City](https://github.com/samayo/country-json/blob/master/src/country-by-capital-city.json)
+- [Country by Cities](https://github.com/samayo/country-json/blob/master/src/country-by-cities.json)
 - [Country by Continent](https://github.com/samayo/country-json/blob/master/src/country-by-continent.json)
 - [Country by Costline](https://github.com/samayo/country-json/blob/master/src/country-by-costline.json)
 - [Country by Currency Name](https://github.com/samayo/country-json/blob/master/src/country-by-currency-name.json)
+- [Country by Religion](https://github.com/samayo/country-json/blob/master/src/country-by-religion.json)
 - [Country by Currency Code](https://github.com/samayo/country-json/blob/master/src/country-by-currency-code.json)
 - [Country by Domain Tld](https://github.com/samayo/country-json/blob/master/src/country-by-domain-tld.json)
 - [Country by Elevation](https://github.com/samayo/country-json/blob/master/src/country-by-elevation.json)
 - [Country by Flag](https://github.com/samayo/country-json/blob/master/src/country-by-flag.json)
-- [Country by Geo Coordinates](https://github.com/samayo/country-json/blob/master/src/country-by-geo-cordinations.json)
+- [Country by Geo Coordinates](https://github.com/samayo/country-json/blob/master/src/country-by-geo-coordinates.json)                           
 - [Country by Government Type](https://github.com/samayo/country-json/blob/master/src/country-by-government-type.json)
 - [Country by Independence Date](https://github.com/samayo/country-json/blob/master/src/country-by-independence-date.json)
 - [Country by Iso Numeric](https://github.com/samayo/country-json/blob/master/src/country-by-iso-numeric.json)

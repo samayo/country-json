@@ -9,7 +9,7 @@
     },
     {
         "country": "Algeria",
-        "dish": "Couscous "
+        "dish": "Couscous"
     },
     {
         "country": "American Samoa",
@@ -21,7 +21,7 @@
     },
     {
         "country": "Angola",
-        "dish": "Moamba de galinha "
+        "dish": "Moamba de galinha"
     },
     {
         "country": "Anguilla",
@@ -49,7 +49,7 @@
     },
     {
         "country": "Australia",
-        "dish": "Meat pie,Roast lamb "
+        "dish": "Meat pie,Roast lamb"
     },
     {
         "country": "Austria",
@@ -61,7 +61,7 @@
     },
     {
         "country": "Bahamas",
-        "dish": "Crack conch with peas and rice "
+        "dish": "Crack conch with peas and rice"
     },
     {
         "country": "Bahrain",
@@ -73,7 +73,7 @@
     },
     {
         "country": "Barbados",
-        "dish": "Cou-Cou and Flying Fish "
+        "dish": "Cou-Cou and Flying Fish"
     },
     {
         "country": "Belarus",
@@ -253,7 +253,7 @@
     },
     {
         "country": "England",
-        "dish": "Beef,(especially roast beef/corned beef),Pudding "
+        "dish": "Beef,(especially roast beef/corned beef),Pudding"
     },
     {
         "country": "Equatorial Guinea",
@@ -285,11 +285,11 @@
     },
     {
         "country": "Finland",
-        "dish": "Karjalanpaisti,Mämmi, Sautéed reindeer"
+        "dish": "Karjalanpaisti, Mämmi, Sautéed reindeer"
     },
     {
         "country": "France",
-        "dish": "Crêpe, Pot-au-feu,Macaron, Bisque"
+        "dish": "Crêpe, Pot-au-feu, Macaron, Bisque"
     },
     {
         "country": "French Guiana",
@@ -365,7 +365,7 @@
     },
     {
         "country": "Haiti",
-        "dish": "Red beans and rice "
+        "dish": "Red beans and rice"
     },
     {
         "country": "Heard Island and McDonald Islands",
@@ -409,7 +409,7 @@
     },
     {
         "country": "Ireland",
-        "dish": "Colcannon,Irish stew "
+        "dish": "Colcannon,Irish stew"
     },
     {
         "country": "Israel",
@@ -429,7 +429,7 @@
     },
     {
         "country": "Japan",
-        "dish": "Sushi, Japanese curry,Ramen "
+        "dish": "Sushi, Japanese curry,Ramen"
     },
     {
         "country": "Jordan",
@@ -501,7 +501,7 @@
     },
     {
         "country": "Madagascar",
-        "dish": "Romazava "
+        "dish": "Romazava"
     },
     {
         "country": "Malawi",
@@ -609,7 +609,7 @@
     },
     {
         "country": "Nicaragua",
-        "dish": "Gallo pinto "
+        "dish": "Gallo pinto"
     },
     {
         "country": "Niger",
@@ -760,6 +760,10 @@
         "dish": "Thieboudienne"
     },
     {
+        "country": "Serbia",
+        "dish": null
+    },
+    {
         "country": "Seychelles",
         "dish": null
     },
@@ -805,11 +809,11 @@
     },
     {
         "country": "Spain",
-        "dish": "Tortilla española "
+        "dish": "Tortilla española"
     },
     {
-        "country": "SriLanka",
-        "dish": null
+        "country": "Sri Lanka",
+        "dish": "Rice and curry, pittu, kiribath, wholemeal roti, string hoppers, wattalapam, kottu, and appam"
     },
     {
         "country": "Sudan",
@@ -845,7 +849,7 @@
     },
     {
         "country": "Tanzania",
-        "dish": "Ugali"
+        "dish": "Ugali, Chips Mayai (Zege), Mtori"
     },
     {
         "country": "Thailand",
@@ -897,7 +901,7 @@
     },
     {
         "country": "Ukraine",
-        "dish": "Borscht, Varenyky "
+        "dish": "Borscht, Varenyky"
     },
     {
         "country": "United Arab Emirates",
@@ -958,10 +962,6 @@
     {
         "country": "Yemen",
         "dish": "Saltah"
-    },
-    {
-        "country": "Yugoslavia",
-        "dish": null
     },
     {
         "country": "Zambia",
