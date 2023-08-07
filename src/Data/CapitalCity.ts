@@ -1,1 +1,3 @@
-export interface ICapitalCity {}
+export interface ICapitalCity {
+	capitalCity: string
+}
