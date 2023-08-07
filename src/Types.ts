@@ -8,7 +8,46 @@ interface IISO3166Data {
 	numeric: string
 }
 
-interface IAverageHeightData {}
+enum IAverageHeightDataMethodology {
+	Measured = 'Measured',
+	SelfReported = 'SelfReported',
+}
+
+interface IAverageHeightDataBase {
+	methodology: IAverageHeightDataMethodology
+}
+
+interface IAverageHeightDataMaleNull {
+	male: null
+	female: number
+	maleToFemaleRatio: null
+}
+
+interface IAverageHeightDataFemaleNull {
+	male: number
+	female: null
+	maleToFemaleRatio: null
+}
+
+interface IAverageHeightDataAllNull {
+	male: null
+	female: null
+	maleToFemaleRatio: null
+}
+
+interface IAverageHeightDataAll {
+	male: number
+	female: number
+	maleToFemaleRatio: number
+}
+
+type IAverageHeightData = (
+	| IAverageHeightDataMaleNull
+	| IAverageHeightDataFemaleNull
+	| IAverageHeightDataAllNull
+	| IAverageHeightDataAll
+) &
+	IAverageHeightDataBase
 
 interface ICountriesData {}
 
