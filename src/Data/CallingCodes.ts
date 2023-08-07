@@ -1,1 +1,3 @@
-export interface ICallingCodes {}
+export interface ICallingCodes {
+	code: number
+}
