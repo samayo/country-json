@@ -1,1 +1,3 @@
-export interface INationalDishes {}
+export interface INationalDishes {
+    dishes:string[]
+}
