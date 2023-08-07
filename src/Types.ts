@@ -2,107 +2,60 @@ interface IBaseData {
 	country: string
 }
 
-interface IISO3166Data {
-	alpha2: string
-	alpha3: string
-	numeric: string
-}
+interface ICountries {}
 
-enum IAverageHeightDataMethodology {
-	Measured = 'Measured',
-	SelfReported = 'SelfReported',
-}
+interface ICountriesName {}
 
-interface IAverageHeightDataBase {
-	methodology: IAverageHeightDataMethodology
-}
+interface IGS1Code {}
 
-interface IAverageHeightDataMaleNull {
-	male: null
-	female: number
-	maleToFemaleRatio: null
-}
+interface ICallingCodes {}
 
-interface IAverageHeightDataFemaleNull {
-	male: number
-	female: null
-	maleToFemaleRatio: null
-}
+interface ICapitalCity {}
 
-interface IAverageHeightDataAllNull {
-	male: null
-	female: null
-	maleToFemaleRatio: null
-}
+interface ICities {}
 
-interface IAverageHeightDataAll {
-	male: number
-	female: number
-	maleToFemaleRatio: number
-}
+interface IContinent {}
 
-type IAverageHeightData = (
-	| IAverageHeightDataMaleNull
-	| IAverageHeightDataFemaleNull
-	| IAverageHeightDataAllNull
-	| IAverageHeightDataAll
-) &
-	IAverageHeightDataBase
+interface ICoastline {}
 
-interface ICountriesData {}
+interface IArea {}
 
-interface ICountriesNameData {}
+interface IISO4217 {}
 
-interface IGS1CodeData {}
+interface ICurrencySymbol {}
 
-interface ICallingCodesData {}
+interface ICurrencyName {}
 
-interface ICapitalCityData {}
+interface IccTLD {}
 
-interface ICitiesData {}
+interface IAverageElevation {}
 
-interface IContinentData {}
+interface IFlag {}
 
-interface ICoastlineData {}
+interface IGeoCoordinate {}
 
-interface IAreaData {}
+interface IIndependence {}
 
-interface IISO4217Data {}
+interface ILandlocked {}
 
-interface ICurrencySymbolData {}
+interface ILanguages {}
 
-interface ICurrencyNameData {}
+interface ILifeExpectancy {}
 
-interface IccTLDData {}
+interface INationalDishes {}
 
-interface IAverageElevationData {}
+interface INationalSymbol {}
 
-interface IFlagData {}
+interface IPopulationDensity {}
 
-interface IGeoCoordinateData {}
+interface IPopulation {}
 
-interface IIndependenceData {}
+interface IRegion {}
 
-interface ILandlockedData {}
+interface IReligion {}
 
-interface ILanguagesData {}
+interface IYearlyAverageTemperature {}
 
-interface ILifeExpectancyData {}
-
-interface INationalDishesData {}
-
-interface INationalSymbolData {}
-
-interface IPopulationDensityData {}
-
-interface IPopulationData {}
-
-interface IRegionData {}
-
-interface IReligionData {}
-
-interface IYearlyAverageTemperatureData {}
-
-interface INationalSportData {}
+interface INationalSport {}
 
 type IData<T extends Record<string, any>> = (IBaseData & T)[]
