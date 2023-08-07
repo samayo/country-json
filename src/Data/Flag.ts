@@ -1,1 +1,3 @@
-export interface IFlag {}
+export interface IFlag {
+	flag: string
+}
