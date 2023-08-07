@@ -29,5 +29,8 @@
 	},
 	"scripts": {
 		"start": "ts-node-esm ./src/index.ts"
+	},
+	"dependencies": {
+		"node-html-parser": "^6.1.5"
 	}
 }
