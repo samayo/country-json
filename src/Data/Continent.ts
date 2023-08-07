@@ -1,1 +1,3 @@
-export interface IContinent {}
+export interface IContinent {
+	continent: string
+}
