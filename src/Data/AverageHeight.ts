@@ -31,7 +31,7 @@ interface IAverageHeightAll {
 	maleToFemaleRatio: number
 }
 
-type IAverageHeight = (
+export type IAverageHeight = (
 	| IAverageHeightMaleNull
 	| IAverageHeightFemaleNull
 	| IAverageHeightAllNull
