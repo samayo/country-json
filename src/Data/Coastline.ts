@@ -1,1 +1,3 @@
-export interface ICoastline {}
+export interface ICoastline {
+	length: number
+}
