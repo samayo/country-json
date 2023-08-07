@@ -1,1 +1,3 @@
-export interface ICities {}
+export interface ICities {
+	cities: string[]
+}
