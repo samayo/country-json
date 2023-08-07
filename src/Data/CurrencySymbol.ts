@@ -1,1 +1,3 @@
-export interface ICurrencySymbol {}
+export interface ICurrencySymbol {
+	symbols: string[]
+}
