@@ -1,1 +1,3 @@
-export interface ILandlocked {}
+export interface ILandlocked {
+	isLandlocked: boolean
+}
