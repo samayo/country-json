@@ -1,1 +1,3 @@
-export interface IPopulation {}
+export interface IPopulation {
+	population: number
+}
