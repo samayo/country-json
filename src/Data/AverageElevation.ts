@@ -1,1 +1,3 @@
-export interface IAverageElevation {}
+export interface IAverageElevation {
+	elevation: number
+}
