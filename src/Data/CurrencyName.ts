@@ -1,1 +1,3 @@
-export interface ICurrencyName {}
+export interface ICurrencyName {
+	name: string
+}
