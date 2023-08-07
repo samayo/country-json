@@ -1,1 +1,3 @@
-export interface IISO4217 {}
+export interface IISO4217 {
+	codes: string[]
+}
