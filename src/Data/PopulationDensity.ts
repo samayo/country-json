@@ -1,1 +1,3 @@
-export interface IPopulationDensity {}
+export interface IPopulationDensity {
+	density: number
+}
