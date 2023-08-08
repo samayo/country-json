@@ -1,5 +1,39 @@
+import { parse } from 'node-html-parser'
+
 export interface IISO3166 {
 	alpha2: string
 	alpha3: string
 	numeric: string
 }
+
+const ScrapISO3166 = async () => {
+	const rawHtml = await fetch(
+		'https://en.wikipedia.org/wiki/ISO_3166-1'
+	).then(response => response.text())
+
+	const root = parse(rawHtml)
+
+	const dataTableBody = root.querySelector(
+		'.wikitable.sortable:has(caption) tbody'
+	)
+
+	// Remove header tr element
+	const rows = dataTableBody.querySelectorAll('tr:not(:has(th))')
+
+	for (const row of rows) {
+		// Get all direct children
+		const children = row.querySelectorAll('> *')
+
+		const country = children[0].querySelector('a').innerText
+		const alpha2 = children[1].querySelector('a span').innerText
+		const alpha3 = children[2].querySelector('span').innerText
+		const numeric = parseInt(
+			children[3].querySelector('span').innerText,
+			10
+		)
+
+		console.log({ country, alpha2, alpha3, numeric })
+	}
+}
+
+export default ScrapISO3166
