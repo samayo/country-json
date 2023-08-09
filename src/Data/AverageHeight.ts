@@ -81,17 +81,21 @@ const ScrapAverageHeight = async () => {
 
 		console.log({
 			country,
-			male,
-			female,
-			maleToFemaleRatio,
+			male: Number.isNaN(male) ? null : male,
+			female: Number.isNaN(female) ? null : female,
+			maleToFemaleRatio: Number.isNaN(maleToFemaleRatio)
+				? null
+				: maleToFemaleRatio,
 			methodology,
 		})
 
 		data.push({
 			country,
-			male,
-			female,
-			maleToFemaleRatio,
+			male: Number.isNaN(male) ? null : male,
+			female: Number.isNaN(female) ? null : female,
+			maleToFemaleRatio: Number.isNaN(maleToFemaleRatio)
+				? null
+				: maleToFemaleRatio,
 			methodology,
 		})
 	}
