@@ -1,14 +1,14 @@
 export enum IGovernmentConstitutionalForm {
-	Provisional,
-	Republic,
-	ConstitutionalMonarchy,
-	AbsoluteMonarchy,
+	Provisional = 'Provisional',
+	Republic = 'Republic',
+	ConstitutionalMonarchy = 'ConstitutionalMonarchy',
+	AbsoluteMonarchy = 'AbsoluteMonarchy',
 }
 
 export enum IGovernmentHeadOfState {
-	NotApplicable,
-	Ceremonial,
-	Executive,
+	NotApplicable = 'NotApplicable',
+	Ceremonial = 'Ceremonial',
+	Executive = 'Executive',
 }
 
 export interface IGovernment {
