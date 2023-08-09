@@ -17,7 +17,7 @@ const ScrapISO3166 = async () => {
 		'.wikitable.sortable:has(caption) tbody'
 	)
 
-	// Remove header tr element
+	// Select all rows except header row element
 	const rows = dataTableBody.querySelectorAll('tr:not(:has(th))')
 
 	for (const row of rows) {
