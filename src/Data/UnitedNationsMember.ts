@@ -1,5 +1,6 @@
 import { parse } from 'node-html-parser'
 import DateStringToUnixEpoch from '../Utils/DateStringToUnixEpoch.js'
+import { IData } from '../Types.js'
 
 export interface IUnitedNationsMember {
 	isOriginalMember: boolean
@@ -10,7 +11,9 @@ export interface IUnitedNationsMember {
 	dateOfAdmission: number
 }
 
-const ScrapUnitedNationsMember = async () => {
+const ScrapUnitedNationsMember = async (): Promise<
+	IData<IUnitedNationsMember>
+> => {
 	const rawHtml = await fetch(
 		'https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations'
 	).then(response => response.text())
@@ -23,6 +26,8 @@ const ScrapUnitedNationsMember = async () => {
 
 	// Select all rows except header row element
 	const rows = dataTableBody.querySelectorAll('tr:not(:has(th[scope=col]))')
+
+	const data: IData<IUnitedNationsMember> = []
 
 	for (const row of rows) {
 		// Get all direct children
@@ -39,12 +44,14 @@ const ScrapUnitedNationsMember = async () => {
 			dateOfAdmissionString
 		) as number
 
-		console.log({
+		data.push({
 			country,
 			dateOfAdmission,
 			isOriginalMember,
 		})
 	}
+
+	return data
 }
 
 export default ScrapUnitedNationsMember
