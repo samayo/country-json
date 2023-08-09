@@ -1,6 +1,5 @@
-const HTMLEntities = {
-	NonBreakingSpace: '&#160;',
+enum HTMLEntities {
+	NonBreakingSpace = '&#160;',
 }
-
 
 export default HTMLEntities
