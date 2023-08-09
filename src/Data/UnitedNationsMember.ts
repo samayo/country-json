@@ -1,5 +1,5 @@
 import { parse } from 'node-html-parser'
-import MonthNameToIndex from '../Utils/MonthNameToIndex.js'
+import DateStringToUnixEpoch from '../Utils/DateStringToUnixEpoch.js'
 
 export interface IUnitedNationsMember {
 	isOriginalMember: boolean
@@ -34,24 +34,10 @@ const ScrapUnitedNationsMember = async () => {
 		const isOriginalMember =
 			children[2].getAttribute('data-sort-value') === 'Yes'
 
-		const [
-			dateOfAdmissionDateString,
-			dateOfAdmissionMonthNameString,
-			dateOfAdmissionYearString,
-		] = dateOfAdmissionString.split(' ')
-
-		const dateOfAdmissionMilliseconds = Date.UTC(
-			parseInt(dateOfAdmissionYearString),
-			MonthNameToIndex(dateOfAdmissionMonthNameString) as number, // Assume wikipedia date is always valid
-			parseInt(dateOfAdmissionDateString, 10),
-			0,
-			0,
-			0,
-			0
-		)
-
-        // Unix epoch
-		const dateOfAdmission = dateOfAdmissionMilliseconds / 1000
+		// Assume wikipedia date is valid
+		const dateOfAdmission = DateStringToUnixEpoch(
+			dateOfAdmissionString
+		) as number
 
 		console.log({
 			country,
