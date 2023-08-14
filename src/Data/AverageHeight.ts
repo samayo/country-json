@@ -1,7 +1,7 @@
 import { parse } from 'node-html-parser'
 import { IData } from '../Types'
 import ParseWikipediaFloat from '../Utils/ParseWikipediaFloat.js'
-import HTMLEntities from '../Constants/HtmlEntities.js'
+import HTMLEntities from '../Constants/HTMLEntities.js'
 
 enum IAverageHeightMethodology {
 	Measured = 'Measured',
