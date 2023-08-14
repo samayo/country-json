@@ -79,16 +79,6 @@ const ScrapAverageHeight = async () => {
 		else if (methodologyString === 'Self-reported')
 			methodology = IAverageHeightMethodology.SelfReported
 
-		console.log({
-			country,
-			male: Number.isNaN(male) ? null : male,
-			female: Number.isNaN(female) ? null : female,
-			maleToFemaleRatio: Number.isNaN(maleToFemaleRatio)
-				? null
-				: maleToFemaleRatio,
-			methodology,
-		})
-
 		data.push({
 			country,
 			data: {
@@ -101,6 +91,8 @@ const ScrapAverageHeight = async () => {
 			},
 		})
 	}
+
+	return data
 }
 
 export default ScrapAverageHeight
