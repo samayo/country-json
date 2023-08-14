@@ -46,8 +46,10 @@ const ScrapUnitedNationsMember = async (): Promise<
 
 		data.push({
 			country,
-			dateOfAdmission,
-			isOriginalMember,
+			data: {
+				dateOfAdmission,
+				isOriginalMember,
+			},
 		})
 	}
 

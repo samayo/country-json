@@ -35,7 +35,7 @@ const ScrapISO3166 = async () => {
 			10
 		)
 
-		data.push({ country, alpha2, alpha3, numeric })
+		data.push({ country, data: { alpha2, alpha3, numeric } })
 	}
 }
 
