@@ -10,8 +10,6 @@ const GetWikipediaFinalRedirect = async (title: string) => {
 	while (true) {
 		const [isCached, result] = await GetWikipediaRedirect(lastTitle)
 
-		console.log({ isCached, lastTitle, result })
-
 		if (result === false) return lastTitle
 
 		lastTitle = result
