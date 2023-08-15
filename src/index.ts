@@ -12,6 +12,7 @@ import WikipediaRedirectCache from './Cache/WikipediaRedirectCache.js'
 import DataReader from './Utils/DataReader.js'
 import EnsureDirectoryExist from './Utils/EnsureDirectoryExist.js'
 import EnsureDirectoryExistAndEmpty from './Utils/EnsureDirectoryExistAndEmpty.js'
+import ProcessData from './Utils/ProcessData.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -57,25 +58,16 @@ if (useWikipediaRedirectCache) {
 	}
 }
 
-const unitedNationsMembers = await ScrapUnitedNationsMember()
-const validCountries = unitedNationsMembers.map(row => ({
-	wikipediaTitle: row.wikipediaTitle,
-	country: row.country,
-}))
-
-await DataWriter(outputPath, unitedNationsMembers, 'unitedNationsMembers')
-
-await Wait(delayBetweenRequest)
-
-const ISO3166 = NormalizeData(await ScrapISO3166(), validCountries)
-
-await DataWriter(outputPath, ISO3166, 'ISO3166')
-
-await Wait(delayBetweenRequest)
-
-const averageHeight = NormalizeData(await ScrapAverageHeight(), validCountries)
-
-await DataWriter(outputPath, averageHeight, 'averageHeight')
+await ProcessData(
+	outputPath,
+	{
+		ISO3166: async () => await ScrapISO3166(),
+		AverageHeight: async () => await ScrapAverageHeight(),
+	},
+	{
+		delayBetweenRequest,
+	}
+)
 
 if (writeWikipediaRedirectCache) {
 	// Write wikipedia redirect cache
