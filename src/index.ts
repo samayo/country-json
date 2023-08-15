@@ -13,6 +13,7 @@ import DataReader from './Utils/DataReader.js'
 import EnsureDirectoryExist from './Utils/EnsureDirectoryExist.js'
 import EnsureDirectoryExistAndEmpty from './Utils/EnsureDirectoryExistAndEmpty.js'
 import ProcessData from './Utils/ProcessData.js'
+import ScrapCountriesName from './Data/CountriesName.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -63,6 +64,8 @@ await ProcessData(
 	{
 		ISO3166: async () => await ScrapISO3166(),
 		AverageHeight: async () => await ScrapAverageHeight(),
+		CountriesName: async unitedNationsMembers =>
+			await ScrapCountriesName(unitedNationsMembers),
 	},
 	{
 		delayBetweenRequest,

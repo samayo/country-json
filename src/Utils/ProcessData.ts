@@ -2,13 +2,21 @@ import { IRawData } from '../Types'
 
 import DataWriter from './DataWriter.js'
 
-import ScrapUnitedNationsMember from '../Data/UnitedNationsMember.js'
+import ScrapUnitedNationsMember, {
+	IUnitedNationsMember,
+} from '../Data/UnitedNationsMember.js'
 import Wait from './Wait.js'
 import NormalizeData from './NormalizeData.js'
 
 type IProcessData = (
 	outputPath: string,
-	data: Record<string, () => Promise<IRawData<unknown>>>,
+	data: Record<
+		string,
+		| (() => Promise<IRawData<unknown>>)
+		| ((
+				unitedNationsMembers: IRawData<IUnitedNationsMember>
+		  ) => Promise<IRawData<unknown>>)
+	>,
 	options: { delayBetweenRequest: number }
 ) => Promise<void>
 
@@ -28,7 +36,10 @@ const ProcessData: IProcessData = async (
 	for (const [name, runner] of Object.entries(data)) {
 		await Wait(delayBetweenRequest)
 
-		const result = NormalizeData(await runner(), validCountries)
+		const result = NormalizeData(
+			await runner(unitedNationsMembers),
+			validCountries
+		)
 
 		const normalizedResult = NormalizeData(result, validCountries)
 
