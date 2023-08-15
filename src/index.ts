@@ -10,6 +10,8 @@ import NormalizeData from './Utils/NormalizeData.js'
 import Wait from './Utils/Wait.js'
 import WikipediaRedirectCache from './Cache/WikipediaRedirectCache.js'
 import DataReader from './Utils/DataReader.js'
+import EnsureDirectoryExist from './Utils/EnsureDirectoryExist.js'
+import EnsureDirectoryExistAndEmpty from './Utils/EnsureDirectoryExistAndEmpty.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -24,23 +26,10 @@ const tempDir = '/temp/'
 const outputPath = path.join(dirname, '../', outputDir)
 const tempPath = path.join(dirname, '../', tempDir)
 
-// Ensure output dir exist
-// Remove directory if exist
-try {
-	await fs.access(outputPath, fs.constants.F_OK)
-	await fs.rm(outputPath, { recursive: true })
-} catch {}
-
-// Re create
-await fs.mkdir(outputPath)
+await EnsureDirectoryExistAndEmpty(outputPath)
 
 if (useWikipediaRedirectCache || writeWikipediaRedirectCache) {
-	// Ensure temp dir exist
-	try {
-		await fs.access(tempPath, fs.constants.F_OK)
-	} catch {
-		await fs.mkdir(tempPath)
-	}
+	await EnsureDirectoryExist(tempPath)
 }
 
 const wikipediaRedirectCacheFileName = 'WikipediaRedirectCache'
@@ -63,7 +52,7 @@ if (useWikipediaRedirectCache) {
 
 		WikipediaRedirectCache.Load(wikipediaRedirectCache)
 	} catch (e) {
-		console.error('Use wikipedia redirect cache error',e)
+		console.error('Use wikipedia redirect cache error', e)
 		console.log('Fallback without wikipedia redirect cache')
 	}
 }
