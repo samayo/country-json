@@ -17,4 +17,4 @@ interface IGS1CodeSingle {
 	number: number
 }
 
-export type IGS1Code = IGS1CodeSingle | IGS1CodeRange
+export type IGS1Code = (IGS1CodeSingle | IGS1CodeRange)[]
