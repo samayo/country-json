@@ -1,6 +1,8 @@
 import { parse } from 'node-html-parser'
 import DateStringToUnixEpoch from '../Utils/DateStringToUnixEpoch.js'
-import { IData } from '../Types.js'
+import { IRawData } from '../Types.js'
+import WikipediaURLToTitle from '../Utils/WikipediaURLToTitle.js'
+import GetWikipediaFinalRedirect from '../Utils/GetWikipediaFinalRedirect.js'
 
 export interface IUnitedNationsMember {
 	isOriginalMember: boolean
@@ -12,7 +14,7 @@ export interface IUnitedNationsMember {
 }
 
 const ScrapUnitedNationsMember = async (): Promise<
-	IData<IUnitedNationsMember>
+	IRawData<IUnitedNationsMember>
 > => {
 	const rawHtml = await fetch(
 		'https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations'
@@ -27,13 +29,18 @@ const ScrapUnitedNationsMember = async (): Promise<
 	// Select all rows except header row element
 	const rows = dataTableBody.querySelectorAll('tr:not(:has(th[scope=col]))')
 
-	const data: IData<IUnitedNationsMember> = []
+	const data: IRawData<IUnitedNationsMember> = []
 
 	for (const row of rows) {
 		// Get all direct children
 		const children = row.querySelectorAll('> *')
 
 		const country = children[0].querySelector('a').innerText
+		const wikipediaTitle = await GetWikipediaFinalRedirect(
+			WikipediaURLToTitle(
+				children[0].querySelector('a').getAttribute('href')
+			)
+		)
 		const dateOfAdmissionString =
 			children[1].querySelector('span').innerText
 		const isOriginalMember =
@@ -46,6 +53,7 @@ const ScrapUnitedNationsMember = async (): Promise<
 
 		data.push({
 			country,
+			wikipediaTitle,
 			data: {
 				dateOfAdmission,
 				isOriginalMember,

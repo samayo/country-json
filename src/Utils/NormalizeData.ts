@@ -1,24 +1,38 @@
-import { IData } from '../Types'
-import { ICountriesName } from './CountriesNameFromData'
+import { IRawBaseData, IRawData } from '../Types'
 
-const NormalizeData = <T>(data: IData<T>, countriesName: ICountriesName) => {
-	const newData: IData<T> = []
-	const existCountriesName = []
+const NormalizeData = <T>(
+	data: IRawData<T>,
+	validCountries: IRawBaseData[]
+) => {
+	const validCountriesWikipediaTitle = validCountries.map(
+		row => row.wikipediaTitle
+	)
+	const wikipediaTitleToNameMap = validCountries.reduce((acc, row) => {
+		acc[row.wikipediaTitle] = row.country
+		return acc
+	}, {})
+
+	const newData: IRawData<T> = []
+	const existWikipediaTitle = []
 
 	for (const row of data) {
-		if (!countriesName.includes(row.country)) continue
+		if (!validCountriesWikipediaTitle.includes(row.wikipediaTitle)) continue
 
 		newData.push(row)
 
-		existCountriesName.push(row.country)
+		existWikipediaTitle.push(row.wikipediaTitle)
 	}
 
-	const unexistCountriesName = countriesName.filter(
-		name => !existCountriesName.includes(name)
+	const unexistWikipediaTitle = validCountriesWikipediaTitle.filter(
+		url => !existWikipediaTitle.includes(url)
 	)
 
-	for (const country of unexistCountriesName) {
-		newData.push({ country, data: null })
+	for (const wikipediaTitle of unexistWikipediaTitle) {
+		newData.push({
+			country: wikipediaTitleToNameMap[wikipediaTitle],
+			wikipediaTitle,
+			data: null,
+		})
 	}
 
 	return newData
