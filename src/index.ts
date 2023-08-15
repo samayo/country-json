@@ -12,6 +12,8 @@ import WikipediaRedirectCache from './Cache/WikipediaRedirectCache.js'
 import DataReader from './Utils/DataReader.js'
 
 const delayBetweenRequest = 2000
+const useWikipediaRedirectCache = true
+const writeWikipediaRedirectCache = true
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -32,32 +34,39 @@ try {
 // Re create
 await fs.mkdir(outputPath)
 
-// Ensure temp dir exist
-try {
-	await fs.access(tempPath, fs.constants.F_OK)
-} catch {
-	await fs.mkdir(tempPath)
+if (useWikipediaRedirectCache || writeWikipediaRedirectCache) {
+	// Ensure temp dir exist
+	try {
+		await fs.access(tempPath, fs.constants.F_OK)
+	} catch {
+		await fs.mkdir(tempPath)
+	}
 }
 
 const wikipediaRedirectCacheFileName = 'WikipediaRedirectCache'
 
 console.log('Country JSON Scrapper!')
 
-try {
-	await fs.access(
-		path.join(tempPath, `${wikipediaRedirectCacheFileName}.json`),
-		fs.constants.F_OK
-	)
+if (useWikipediaRedirectCache) {
+	try {
+		await fs.access(
+			path.join(tempPath, `${wikipediaRedirectCacheFileName}.json`),
+			fs.constants.F_OK
+		)
 
-	const wikipediaRedirectCache = await DataReader(
-		tempPath,
-		wikipediaRedirectCacheFileName
-	)
+		const wikipediaRedirectCache = await DataReader(
+			tempPath,
+			wikipediaRedirectCacheFileName
+		)
 
-	console.log('Using wikipedia redirect cache')
+		console.log('Using wikipedia redirect cache')
 
-	WikipediaRedirectCache.Load(wikipediaRedirectCache)
-} catch (e) {}
+		WikipediaRedirectCache.Load(wikipediaRedirectCache)
+	} catch (e) {
+		console.error('Use wikipedia redirect cache error',e)
+		console.log('Fallback without wikipedia redirect cache')
+	}
+}
 
 const unitedNationsMembers = await ScrapUnitedNationsMember()
 const validCountries = unitedNationsMembers.map(row => ({
@@ -79,8 +88,10 @@ const averageHeight = NormalizeData(await ScrapAverageHeight(), validCountries)
 
 await DataWriter(outputPath, averageHeight, 'averageHeight')
 
-// Write wikipedia redirect cache
-await fs.writeFile(
-	path.join(tempPath, `${wikipediaRedirectCacheFileName}.json`),
-	WikipediaRedirectCache.ToJSON()
-)
+if (writeWikipediaRedirectCache) {
+	// Write wikipedia redirect cache
+	await fs.writeFile(
+		path.join(tempPath, `${wikipediaRedirectCacheFileName}.json`),
+		WikipediaRedirectCache.ToJSON()
+	)
+}
