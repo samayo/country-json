@@ -46,7 +46,7 @@ export type IAverageHeight = (
 ) &
 	IAverageHeightBase
 
-const ScrapAverageHeight = async () => {
+const ScrapAverageHeight = async (): Promise<IRawData<IAverageHeight>> => {
 	const rawHtml = await fetch(
 		'https://en.wikipedia.org/wiki/Average_human_height_by_country'
 	).then(response => response.text())

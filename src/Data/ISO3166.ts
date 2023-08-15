@@ -9,7 +9,7 @@ export interface IISO3166 {
 	numeric: number
 }
 
-const ScrapISO3166 = async () => {
+const ScrapISO3166 = async (): Promise<IRawData<IISO3166>> => {
 	const rawHtml = await fetch(
 		'https://en.wikipedia.org/wiki/ISO_3166-1'
 	).then(response => response.text())
