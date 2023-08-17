@@ -14,6 +14,7 @@ import EnsureDirectoryExist from './Utils/EnsureDirectoryExist.js'
 import EnsureDirectoryExistAndEmpty from './Utils/EnsureDirectoryExistAndEmpty.js'
 import ProcessData from './Utils/ProcessData.js'
 import ScrapCountriesName from './Data/CountriesName.js'
+import ScrapGS1Code from './Data/GS1Code.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -66,6 +67,7 @@ await ProcessData(
 		AverageHeight: async () => await ScrapAverageHeight(),
 		CountriesName: async unitedNationsMembers =>
 			await ScrapCountriesName(unitedNationsMembers),
+		ScrapGS1Code: async () => await ScrapGS1Code(),
 	},
 	{
 		delayBetweenRequest,
