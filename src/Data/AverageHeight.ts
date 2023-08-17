@@ -1,5 +1,5 @@
 import { parse } from 'node-html-parser'
-import { IRawData } from '../Types'
+import { IData } from '../Types'
 import ParseWikipediaFloat from '../Utils/ParseWikipediaFloat.js'
 import HTMLEntities from '../Constants/HTMLEntities.js'
 import WikipediaURLToTitle from '../Utils/WikipediaURLToTitle.js'
@@ -46,7 +46,7 @@ export type IAverageHeight = (
 ) &
 	IAverageHeightBase
 
-const ScrapAverageHeight = async (): Promise<IRawData<IAverageHeight>> => {
+const ScrapAverageHeight = async (): Promise<IData<IAverageHeight>> => {
 	const rawHtml = await fetch(
 		'https://en.wikipedia.org/wiki/Average_human_height_by_country'
 	).then(response => response.text())
@@ -58,14 +58,13 @@ const ScrapAverageHeight = async (): Promise<IRawData<IAverageHeight>> => {
 	// Select all rows except header row element
 	const rows = dataTableBody.querySelectorAll('tr:not(:has(th))')
 
-	const data: IRawData<IAverageHeight> = []
+	const data: IData<IAverageHeight> = []
 
 	for (const row of rows) {
 		// Get all direct children
 		const children = row.querySelectorAll('> *')
 
-		const country = children[0].querySelector('a').innerText
-		const wikipediaTitle = await GetWikipediaFinalRedirect(
+		const country = await GetWikipediaFinalRedirect(
 			WikipediaURLToTitle(
 				children[0].querySelector('a').getAttribute('href')
 			)
@@ -88,7 +87,6 @@ const ScrapAverageHeight = async (): Promise<IRawData<IAverageHeight>> => {
 
 		data.push({
 			country,
-			wikipediaTitle,
 			data: {
 				male: Number.isNaN(male) ? null : male,
 				female: Number.isNaN(female) ? null : female,

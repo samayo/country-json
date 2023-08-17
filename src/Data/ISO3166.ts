@@ -1,5 +1,5 @@
 import { parse } from 'node-html-parser'
-import { IRawData } from '../Types'
+import { IData } from '../Types'
 import WikipediaURLToTitle from '../Utils/WikipediaURLToTitle.js'
 import GetWikipediaFinalRedirect from '../Utils/GetWikipediaFinalRedirect.js'
 
@@ -9,7 +9,7 @@ export interface IISO3166 {
 	numeric: number
 }
 
-const ScrapISO3166 = async (): Promise<IRawData<IISO3166>> => {
+const ScrapISO3166 = async (): Promise<IData<IISO3166>> => {
 	const rawHtml = await fetch(
 		'https://en.wikipedia.org/wiki/ISO_3166-1'
 	).then(response => response.text())
@@ -23,14 +23,13 @@ const ScrapISO3166 = async (): Promise<IRawData<IISO3166>> => {
 	// Select all rows except header row element
 	const rows = dataTableBody.querySelectorAll('tr:not(:has(th))')
 
-	const data: IRawData<IISO3166> = []
+	const data: IData<IISO3166> = []
 
 	for (const row of rows) {
 		// Get all direct children
 		const children = row.querySelectorAll('> *')
 
-		const country = children[0].querySelector('a').innerText
-		const wikipediaTitle = await GetWikipediaFinalRedirect(
+		const country = await GetWikipediaFinalRedirect(
 			WikipediaURLToTitle(
 				children[0].querySelector('a').getAttribute('href')
 			)
@@ -44,7 +43,6 @@ const ScrapISO3166 = async (): Promise<IRawData<IISO3166>> => {
 
 		data.push({
 			country,
-			wikipediaTitle,
 			data: { alpha2, alpha3, numeric },
 		})
 	}

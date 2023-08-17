@@ -1,5 +1,5 @@
 import { HTMLElement, NodeType, TextNode, parse } from 'node-html-parser'
-import { IRawData, IRawDataSingle } from '../Types'
+import { IData, IDataSingle } from '../Types'
 import GetWikipediaFinalRedirect from '../Utils/GetWikipediaFinalRedirect.js'
 import WikipediaURLToTitle from '../Utils/WikipediaURLToTitle.js'
 import WikipediaSpecialUnicode from '../Constants/WikipediaSpecialUnicode.js'
@@ -26,7 +26,7 @@ interface IGS1CodeSingle {
 
 export type IGS1Code = (IGS1CodeSingle | IGS1CodeRange)[]
 
-const ScrapGS1Code = async (): Promise<IRawData<IGS1Code>> => {
+const ScrapGS1Code = async (): Promise<IData<IGS1Code>> => {
 	const rawHtml = await fetch(
 		'https://en.wikipedia.org/wiki/List_of_GS1_country_codes'
 	).then(response => response.text())
@@ -38,7 +38,7 @@ const ScrapGS1Code = async (): Promise<IRawData<IGS1Code>> => {
 	// Select all rows except header row element
 	const rows = dataTableBody.querySelectorAll('tr:not(:has(th))')
 
-	const data: Record<string, IRawDataSingle<IGS1Code>> = {}
+	const data: Record<string, IDataSingle<IGS1Code>> = {}
 
 	for (const row of rows) {
 		// Get all direct children
@@ -80,13 +80,12 @@ const ScrapGS1Code = async (): Promise<IRawData<IGS1Code>> => {
 		}
 
 		for (const countryAnchor of countriesAnchor) {
-			const country = countryAnchor.innerText
-			const wikipediaTitle = await GetWikipediaFinalRedirect(
+			const country = await GetWikipediaFinalRedirect(
 				WikipediaURLToTitle(countryAnchor.getAttribute('href'))
 			)
 
-			if (Object.keys(data).includes(wikipediaTitle)) {
-				data[wikipediaTitle].data.push(
+			if (Object.keys(data).includes(country)) {
+				data[country].data.push(
 					isRange
 						? {
 								isRange: true,
@@ -96,9 +95,8 @@ const ScrapGS1Code = async (): Promise<IRawData<IGS1Code>> => {
 						: { isRange: false, number: codeRange[0] }
 				)
 			} else {
-				data[wikipediaTitle] = {
+				data[country] = {
 					country,
-					wikipediaTitle,
 					data: [
 						isRange
 							? {

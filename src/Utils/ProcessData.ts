@@ -1,4 +1,4 @@
-import { IRawData } from '../Types'
+import { IData } from '../Types'
 
 import DataWriter from './DataWriter.js'
 
@@ -12,10 +12,10 @@ type IProcessData = (
 	outputPath: string,
 	data: Record<
 		string,
-		| (() => Promise<IRawData<unknown>>)
+		| (() => Promise<IData<unknown>>)
 		| ((
-				unitedNationsMembers: IRawData<IUnitedNationsMember>
-		  ) => Promise<IRawData<unknown>>)
+				unitedNationsMembers: IData<IUnitedNationsMember>
+		  ) => Promise<IData<unknown>>)
 	>,
 	options: { delayBetweenRequest: number }
 ) => Promise<void>
@@ -27,7 +27,6 @@ const ProcessData: IProcessData = async (
 ) => {
 	const unitedNationsMembers = await ScrapUnitedNationsMember()
 	const validCountries = unitedNationsMembers.map(row => ({
-		wikipediaTitle: row.wikipediaTitle,
 		country: row.country,
 	}))
 
