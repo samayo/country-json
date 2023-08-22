@@ -1,8 +1,8 @@
 export interface IccTLD {
 	tld: string
 	registry: string
-	IDN: boolean
-	DNSSEC: boolean
-	SLD: boolean
-	IPv6: boolean
+	IDN: boolean | null | string
+	DNSSEC: boolean | null | 'Partial'
+	SLD: boolean | null
+	IPv6: boolean | null
 }
