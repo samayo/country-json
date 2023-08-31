@@ -12,6 +12,7 @@ import ProcessData from './Utils/ProcessData.js'
 import ScrapCountriesName from './Data/CountriesName.js'
 import ScrapGS1Code from './Data/GS1Code.js'
 import ScrapCapitalCities from './Data/CapitalCities.js'
+import ScrapCallingCodes from './Data/CallingCodes.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -60,12 +61,13 @@ if (useWikipediaRedirectCache) {
 await ProcessData(
 	outputPath,
 	{
-		ISO3166: async () => await ScrapISO3166(),
-		AverageHeight: async () => await ScrapAverageHeight(),
-		CountriesName: async unitedNationsMembers =>
-			await ScrapCountriesName(unitedNationsMembers),
-		GS1Code: async () => await ScrapGS1Code(),
-		CapitalCities: async () => await ScrapCapitalCities(),
+		// ISO3166: async () => await ScrapISO3166(),
+		// AverageHeight: async () => await ScrapAverageHeight(),
+		// CountriesName: async unitedNationsMembers =>
+		// 	await ScrapCountriesName(unitedNationsMembers),
+		// GS1Code: async () => await ScrapGS1Code(),
+		// CapitalCities: async () => await ScrapCapitalCities(),
+		CallingCodes: async () => await ScrapCallingCodes(),
 	},
 	{
 		delayBetweenRequest,
