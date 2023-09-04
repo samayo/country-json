@@ -15,6 +15,7 @@ import ScrapCapitalCities from './Data/CapitalCities.js'
 import ScrapCallingCodes from './Data/CallingCodes.js'
 import ScrapAverageElevation from './Data/AverageElevation.js'
 import ScrapAverageYearlyTemperature from './Data/AverageYearlyTemperature.js'
+import ScrapNationalSports from './Data/NationalSports.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -77,8 +78,9 @@ await ProcessData(
 		// CapitalCities: async () => await ScrapCapitalCities(),
 		// CallingCodes: async () => await ScrapCallingCodes(),
 		// AverageElevation: async () => await ScrapAverageElevation(),
-		AverageYearlyTemperature: async () =>
-			await ScrapAverageYearlyTemperature(),
+		// AverageYearlyTemperature: async () =>
+		// 	await ScrapAverageYearlyTemperature(),
+		NationalSports: async () => await ScrapNationalSports(),
 	},
 	{
 		delayBetweenRequest,
