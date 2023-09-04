@@ -14,6 +14,7 @@ import ScrapGS1Code from './Data/GS1Code.js'
 import ScrapCapitalCities from './Data/CapitalCities.js'
 import ScrapCallingCodes from './Data/CallingCodes.js'
 import ScrapAverageElevation from './Data/AverageElevation.js'
+import ScrapAverageYearlyTemperature from './Data/AverageYearlyTemperature.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -75,7 +76,9 @@ await ProcessData(
 		// GS1Code: async () => await ScrapGS1Code(),
 		// CapitalCities: async () => await ScrapCapitalCities(),
 		// CallingCodes: async () => await ScrapCallingCodes(),
-		AverageElevation: async () => await ScrapAverageElevation(),
+		// AverageElevation: async () => await ScrapAverageElevation(),
+		AverageYearlyTemperature: async () =>
+			await ScrapAverageYearlyTemperature(),
 	},
 	{
 		delayBetweenRequest,
