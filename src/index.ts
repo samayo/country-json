@@ -13,6 +13,7 @@ import ScrapCountriesName from './Data/CountriesName.js'
 import ScrapGS1Code from './Data/GS1Code.js'
 import ScrapCapitalCities from './Data/CapitalCities.js'
 import ScrapCallingCodes from './Data/CallingCodes.js'
+import ScrapAverageElevation from './Data/AverageElevation.js'
 
 const delayBetweenRequest = 2000
 const useWikipediaRedirectCache = true
@@ -53,7 +54,13 @@ if (useWikipediaRedirectCache) {
 
 		WikipediaRedirectCache.Load(wikipediaRedirectCache)
 	} catch (e) {
-		console.error('Use wikipedia redirect cache error', e)
+		if (
+			e instanceof Error &&
+			e.message.startsWith('ENOENT: no such file or directory')
+		)
+			console.error('Wikipedia redirect cache file not found')
+		else console.error('Use wikipedia redirect cache unknown error', e)
+
 		console.log('Fallback without wikipedia redirect cache')
 	}
 }
@@ -67,7 +74,8 @@ await ProcessData(
 		// 	await ScrapCountriesName(unitedNationsMembers),
 		// GS1Code: async () => await ScrapGS1Code(),
 		// CapitalCities: async () => await ScrapCapitalCities(),
-		CallingCodes: async () => await ScrapCallingCodes(),
+		// CallingCodes: async () => await ScrapCallingCodes(),
+		AverageElevation: async () => await ScrapAverageElevation(),
 	},
 	{
 		delayBetweenRequest,
