@@ -252,10 +252,6 @@
         "abbreviation": "SV"
     },
     {
-        "country": "England",
-        "abbreviation": null
-    },
-    {
         "country": "Equatorial Guinea",
         "abbreviation": "GQ"
     },
@@ -352,6 +348,10 @@
         "abbreviation": "GT"
     },
     {
+        "country": "Guernsey",
+        "abbreviation": "GG"
+    },
+    {
         "country": "Guinea",
         "abbreviation": "GN"
     },
@@ -412,6 +412,10 @@
         "abbreviation": "IE"
     },
     {
+        "country": "Isle of Man",
+        "abbreviation": "IM"
+    },
+    {
         "country": "Israel",
         "abbreviation": "IL"
     },
@@ -432,12 +436,16 @@
         "abbreviation": "JP"
     },
     {
+        "country": "Jersey",
+        "abbreviation": "JE"
+    },
+    {
         "country": "Jordan",
         "abbreviation": "JO"
     },
     {
-        "country": "Kazakstan",
-        "abbreviation": null
+        "country": "Kazakhstan",
+        "abbreviation": "KZ"
     },
     {
         "country": "Kenya",
@@ -496,7 +504,7 @@
         "abbreviation": "MO"
     },
     {
-        "country": "Macedonia",
+        "country": "North Macedonia",
         "abbreviation": "MK"
     },
     {
@@ -549,7 +557,7 @@
     },
     {
         "country": "Micronesia, Federated States of",
-        "abbreviation": null
+        "abbreviation": "FM"
     },
     {
         "country": "Moldova",
@@ -562,6 +570,10 @@
     {
         "country": "Mongolia",
         "abbreviation": "MN"
+    },
+    {
+        "country": "Montenegro",
+        "abbreviation": "ME"
     },
     {
         "country": "Montserrat",
@@ -633,7 +645,7 @@
     },
     {
         "country": "Northern Ireland",
-        "abbreviation": null
+        "abbreviation": "GB"
     },
     {
         "country": "Northern Mariana Islands",
@@ -708,7 +720,7 @@
         "abbreviation": "RO"
     },
     {
-        "country": "Russian Federation",
+        "country": "Russia",
         "abbreviation": "RU"
     },
     {
@@ -752,12 +764,12 @@
         "abbreviation": "SA"
     },
     {
-        "country": "Scotland",
-        "abbreviation": null
-    },
-    {
         "country": "Senegal",
         "abbreviation": "SN"
+    },
+    {
+        "country": "Serbia",
+        "abbreviation": "RS"
     },
     {
         "country": "Seychelles",
@@ -801,15 +813,15 @@
     },
     {
         "country": "South Sudan",
-        "abbreviation": null
+        "abbreviation": "SS"
     },
     {
         "country": "Spain",
         "abbreviation": "ES"
     },
     {
-        "country": "SriLanka",
-        "abbreviation": null
+        "country": "Sri Lanka",
+        "abbreviation": "LK"
     },
     {
         "country": "Sudan",
@@ -853,7 +865,11 @@
     },
     {
         "country": "The Democratic Republic of Congo",
-        "abbreviation": null
+        "abbreviation": "CD"
+    },
+    {
+        "country": "Timor-Leste",
+        "abbreviation": "TL"
     },
     {
         "country": "Togo",
@@ -905,7 +921,7 @@
     },
     {
         "country": "United Kingdom",
-        "abbreviation": "GB"
+        "abbreviation": "UK"
     },
     {
         "country": "United States",
@@ -937,15 +953,11 @@
     },
     {
         "country": "Virgin Islands, British",
-        "abbreviation": null
+        "abbreviation": "VG"
     },
     {
         "country": "Virgin Islands, U.S.",
-        "abbreviation": null
-    },
-    {
-        "country": "Wales",
-        "abbreviation": null
+        "abbreviation": "VI"
     },
     {
         "country": "Wallis and Futuna",
@@ -958,10 +970,6 @@
     {
         "country": "Yemen",
         "abbreviation": "YE"
-    },
-    {
-        "country": "Yugoslavia",
-        "abbreviation": "YU"
     },
     {
         "country": "Zambia",
