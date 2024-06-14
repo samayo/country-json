@@ -469,6 +469,13 @@
         "east": 28.21
     },
     {
+        "country": "Eswatini",
+        "north": -25.7196,
+        "south": -27.3171,
+        "west": 30.7941,
+        "east": 32.1373
+    },
+    {
         "country": "Ethiopia",
         "north": 14.8938,
         "south": 3.40242,
@@ -833,7 +840,7 @@
         "east": -7.36511
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "north": null,
         "south": null,
         "west": null,
@@ -1454,13 +1461,6 @@
         "south": 79.2203,
         "west": 17.6994,
         "east": 33.2873
-    },
-    {
-        "country": "Swaziland",
-        "north": -25.7196,
-        "south": -27.3171,
-        "west": 30.7941,
-        "east": 32.1373
     },
     {
         "country": "Sweden",

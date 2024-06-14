@@ -268,6 +268,10 @@
         "landlocked": "0"
     },
     {
+        "country": "Eswatini",
+        "landlocked": "1"
+    },
+    {
         "country": "Ethiopia",
         "landlocked": "1"
     },
@@ -476,7 +480,7 @@
         "landlocked": "0"
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "landlocked": "0"
     },
     {
@@ -826,10 +830,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "landlocked": "0"
-    },
-    {
-        "country": "Swaziland",
-        "landlocked": "1"
     },
     {
         "country": "Sweden",

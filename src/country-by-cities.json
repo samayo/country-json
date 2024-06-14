@@ -14190,6 +14190,16 @@
         ]
     },
     {
+        "country": "Eswatini",
+        "cities": [
+            "Kwaluseni",
+            "Lobamba",
+            "Manzini",
+            "Mbabane",
+            "Piggs Peak"
+        ]
+    },
+    {
         "country": "Faroe Islands",
         "cities": [
             "Argir",
@@ -56912,16 +56922,6 @@
             "Onverwacht",
             "Paramaribo",
             "Totness"
-        ]
-    },
-    {
-        "country": "Swaziland",
-        "cities": [
-            "Kwaluseni",
-            "Lobamba",
-            "Manzini",
-            "Mbabane",
-            "Piggs Peak"
         ]
     },
     {

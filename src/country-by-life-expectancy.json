@@ -268,6 +268,10 @@
         "expectancy": 69.5
     },
     {
+        "country": "Eswatini",
+        "expectancy": 40.4
+    },
+    {
         "country": "Ethiopia",
         "expectancy": 45.2
     },
@@ -476,7 +480,7 @@
         "expectancy": 51
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "expectancy": 75.5
     },
     {
@@ -826,10 +830,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "expectancy": null
-    },
-    {
-        "country": "Swaziland",
-        "expectancy": 40.4
     },
     {
         "country": "Sweden",

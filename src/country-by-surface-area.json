@@ -272,6 +272,10 @@
         "area": 45227.00
     },
     {
+        "country": "Eswatini",
+        "area": 17364.00
+    },
+    {
         "country": "Ethiopia",
         "area": 1104300.00
     },
@@ -484,7 +488,7 @@
         "area": 111369.00
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "area": 1759540.00
     },
     {
@@ -810,10 +814,6 @@
     {
         "country": "Sweden",
         "area": 449964.00
-    },
-    {
-        "country": "Swaziland",
-        "area": 17364.00
     },
     {
         "country": "Seychelles",

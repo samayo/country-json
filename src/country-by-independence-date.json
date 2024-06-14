@@ -268,6 +268,10 @@
         "independence": 1991
     },
     {
+        "country": "Eswatini",
+        "independence": 1968
+    },
+    {
         "country": "Ethiopia",
         "independence": -1000
     },
@@ -476,7 +480,7 @@
         "independence": 1847
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "independence": 1951
     },
     {
@@ -830,10 +834,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "independence": null
-    },
-    {
-        "country": "Swaziland",
-        "independence": 1968
     },
     {
         "country": "Sweden",

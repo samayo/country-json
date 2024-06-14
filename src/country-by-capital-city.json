@@ -268,6 +268,10 @@
         "city": "Tallinn"
     },
     {
+        "country": "Eswatini",
+        "city": "Mbabane"
+    },
+    {
         "country": "Ethiopia",
         "city": "Addis Abeba"
     },
@@ -476,7 +480,7 @@
         "city": "Monrovia"
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "city": "Tripoli"
     },
     {
@@ -830,10 +834,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "city": "Longyearbyen"
-    },
-    {
-        "country": "Swaziland",
-        "city": "Mbabane"
     },
     {
         "country": "Sweden",

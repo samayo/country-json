@@ -268,6 +268,10 @@
         "symbol": null
     },
     {
+        "country": "Eswatini",
+        "symbol": null
+    },
+    {
         "country": "Ethiopia",
         "symbol": "animal"
     },
@@ -476,7 +480,7 @@
         "symbol": null
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "symbol": null
     },
     {
@@ -821,10 +825,6 @@
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "symbol": null
-    },
-    {
-        "country": "Swaziland",
         "symbol": null
     },
     {
