@@ -1,2 +1,6 @@
 web/*
 npm-debug.log*
+.data/*
+logs/*
+mariadb/
+php7-fpm/
