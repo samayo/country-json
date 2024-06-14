@@ -268,6 +268,10 @@
         "temperature": 5.1
     },
     {
+        "country": "Eswatini",
+        "temperature": 20.64
+    },
+    {
         "country": "Ethiopia",
         "temperature": 22.2
     },
@@ -476,8 +480,8 @@
         "temperature": 25.3
     },
     {
-        "country": "Libyan Arab Jamahiriya",
-        "temperature": null
+        "country": "Libya",
+        "temperature": 22.81
     },
     {
         "country": "Liechtenstein",
@@ -822,10 +826,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "temperature": null
-    },
-    {
-        "country": "Swaziland",
-        "temperature": 21.4
     },
     {
         "country": "Sweden",

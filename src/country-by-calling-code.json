@@ -268,6 +268,10 @@
         "calling_code": 372
     },
     {
+        "country": "Eswatini",
+        "calling_code": 268
+    },
+    {
         "country": "Ethiopia",
         "calling_code": 251
     },
@@ -476,7 +480,7 @@
         "calling_code": 231
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "calling_code": 218
     },
     {
@@ -826,10 +830,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "calling_code": 47
-    },
-    {
-        "country": "Swaziland",
-        "calling_code": 268
     },
     {
         "country": "Sweden",

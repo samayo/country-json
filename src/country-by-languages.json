@@ -593,6 +593,13 @@
         ]
     },
     {
+        "country": "Eswatini",
+        "languages": [
+            "Swazi",
+            "Zulu"
+        ]
+    },
+    {
         "country": "Ethiopia",
         "languages": [
             "Amharic",
@@ -1078,7 +1085,7 @@
         ]
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "languages": [
             "Arabic",
             "Berberi"
@@ -1806,13 +1813,6 @@
             "Southern Slavic Languages",
             "Spanish",
             "Swedish"
-        ]
-    },
-    {
-        "country": "Swaziland",
-        "languages": [
-            "Swazi",
-            "Zulu"
         ]
     },
     {

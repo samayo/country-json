@@ -264,6 +264,10 @@
         "abbreviation": "EE"
     },
     {
+        "country": "Eswatini",
+        "abbreviation": "SZ"
+    },
+    {
         "country": "Ethiopia",
         "abbreviation": "ET"
     },
@@ -484,7 +488,7 @@
         "abbreviation": "LR"
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "abbreviation": "LY"
     },
     {
@@ -834,10 +838,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "abbreviation": "SJ"
-    },
-    {
-        "country": "Swaziland",
-        "abbreviation": "SZ"
     },
     {
         "country": "Sweden",

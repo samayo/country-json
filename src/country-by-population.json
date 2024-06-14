@@ -272,6 +272,10 @@
         "population": 1321977
     },
     {
+        "country": "Eswatini",
+        "population": 1136191
+    },
+    {
         "country": "Ethiopia",
         "population": 109224559
     },
@@ -480,7 +484,7 @@
         "population": 4818977
     },
     {
-        "country": "Libyan Arab Jamahiriya",
+        "country": "Libya",
         "population": 6678567
     },
     {
@@ -834,10 +838,6 @@
     {
         "country": "Svalbard and Jan Mayen",
         "population": 2572
-    },
-    {
-        "country": "Swaziland",
-        "population": 1136191
     },
     {
         "country": "Sweden",
