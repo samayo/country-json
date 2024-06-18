@@ -224,10 +224,6 @@
         "religion": "Unaffiliated Religions"
     },
     {
-        "country": "The Democratic Republic of Congo",
-        "religion": "Christianity"
-    },
-    {
         "country": "Denmark",
         "religion": "Christianity"
     },
@@ -850,6 +846,10 @@
     {
         "country": "Thailand",
         "religion": "Buddhism"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "religion": "Christianity"
     },
     {
         "country": "Timor",
