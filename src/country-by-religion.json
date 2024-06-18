@@ -420,6 +420,10 @@
         "religion": "Christianity"
     },
     {
+        "country": "Ivory Coast",
+        "landlocked": "Islam"
+    },
+    {
         "country": "Jamaica",
         "religion": "Christianity"
     },
@@ -638,6 +642,10 @@
     {
         "country": "North Korea",
         "religion": "Unaffiliated Religions"
+    },
+    {
+        "country": "North Macedonia",
+        "religion": "Christianity"
     },
     {
         "country": "Northern Mariana Islands",
