@@ -30,6 +30,7 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Religion](https://github.com/samayo/country-json/blob/master/src/country-by-religion.json)
 - [Country by Currency Code](https://github.com/samayo/country-json/blob/master/src/country-by-currency-code.json)
 - [Country by Domain Tld](https://github.com/samayo/country-json/blob/master/src/country-by-domain-tld.json)
+- [Country by Driving Side](https://github.com/samayo/country-json/blob/master/src/country-by-driving-side.json)
 - [Country by Elevation](https://github.com/samayo/country-json/blob/master/src/country-by-elevation.json)
 - [Country by Flag](https://github.com/samayo/country-json/blob/master/src/country-by-flag.json)
 - [Country by Geo Coordinates](https://github.com/samayo/country-json/blob/master/src/country-by-geo-coordinates.json)                           
