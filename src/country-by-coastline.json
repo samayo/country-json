@@ -1,974 +1,974 @@
 [
     {
         "country": "Afghanistan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Albania",
-        "costline": 362
+        "coastline": 362
     },
     {
         "country": "Algeria",
-        "costline": 998
+        "coastline": 998
     },
     {
         "country": "American Samoa",
-        "costline": 116
+        "coastline": 116
     },
     {
         "country": "Andorra",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Angola",
-        "costline": 1.6
+        "coastline": 1.6
     },
     {
         "country": "Anguilla",
-        "costline": 61
+        "coastline": 61
     },
     {
         "country": "Antarctica",
-        "costline": 17.968
+        "coastline": 17.968
     },
     {
         "country": "Antigua and Barbuda",
-        "costline": 153
+        "coastline": 153
     },
     {
         "country": "Argentina",
-        "costline": 4.989
+        "coastline": 4.989
     },
     {
         "country": "Armenia",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Aruba",
-        "costline": 68.5
+        "coastline": 68.5
     },
     {
         "country": "Australia",
-        "costline": 25.76
+        "coastline": 25.76
     },
     {
         "country": "Austria",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Azerbaijan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Bahamas",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Bahrain",
-        "costline": 161
+        "coastline": 161
     },
     {
         "country": "Bangladesh",
-        "costline": 580
+        "coastline": 580
     },
     {
         "country": "Barbados",
-        "costline": 97
+        "coastline": 97
     },
     {
         "country": "Belarus",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Belgium",
-        "costline": 66.5
+        "coastline": 66.5
     },
     {
         "country": "Belize",
-        "costline": 386
+        "coastline": 386
     },
     {
         "country": "Benin",
-        "costline": 121
+        "coastline": 121
     },
     {
         "country": "Bermuda",
-        "costline": 103
+        "coastline": 103
     },
     {
         "country": "Bhutan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Bolivia",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Bosnia and Herzegovina",
-        "costline": 20
+        "coastline": 20
     },
     {
         "country": "Botswana",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Bouvet Island",
-        "costline": 29.6
+        "coastline": 29.6
     },
     {
         "country": "Brazil",
-        "costline": 7.491
+        "coastline": 7.491
     },
     {
         "country": "British Indian Ocean Territory",
-        "costline": 698
+        "coastline": 698
     },
     {
         "country": "Brunei",
-        "costline": 161
+        "coastline": 161
     },
     {
         "country": "Bulgaria",
-        "costline": 354
+        "coastline": 354
     },
     {
         "country": "Burkina Faso",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Burundi",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Cambodia",
-        "costline": 443
+        "coastline": 443
     },
     {
         "country": "Cameroon",
-        "costline": 402
+        "coastline": 402
     },
     {
         "country": "Canada",
-        "costline": 202.08
+        "coastline": 202.08
     },
     {
         "country": "Cape Verde",
-        "costline": 965
+        "coastline": 965
     },
     {
         "country": "Cayman Islands",
-        "costline": 160
+        "coastline": 160
     },
     {
         "country": "Central African Republic",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Chad",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Chile",
-        "costline": 6.435
+        "coastline": 6.435
     },
     {
         "country": "China",
-        "costline": 14.5
+        "coastline": 14.5
     },
     {
         "country": "Christmas Island",
-        "costline": 138.9
+        "coastline": 138.9
     },
     {
         "country": "Cocos (Keeling) Islands",
-        "costline": 26
+        "coastline": 26
     },
     {
         "country": "Colombia",
-        "costline": 3.208
+        "coastline": 3.208
     },
     {
         "country": "Comoros",
-        "costline": 340
+        "coastline": 340
     },
     {
         "country": "Congo",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Cook Islands",
-        "costline": 120
+        "coastline": 120
     },
     {
         "country": "Costa Rica",
-        "costline": 1.29
+        "coastline": 1.29
     },
     {
         "country": "Croatia",
-        "costline": 6.268
+        "coastline": 6.268
     },
     {
         "country": "Cuba",
-        "costline": 3.735
+        "coastline": 3.735
     },
     {
         "country": "Cyprus",
-        "costline": 648
+        "coastline": 648
     },
     {
         "country": "Czech Republic",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Denmark",
-        "costline": 7.314
+        "coastline": 7.314
     },
     {
         "country": "Djibouti",
-        "costline": 314
+        "coastline": 314
     },
     {
         "country": "Dominica",
-        "costline": 148
+        "coastline": 148
     },
     {
         "country": "Dominican Republic",
-        "costline": 1.288
+        "coastline": 1.288
     },
     {
         "country": "East Timor",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Ecuador",
-        "costline": 2.237
+        "coastline": 2.237
     },
     {
         "country": "Egypt",
-        "costline": 2.45
+        "coastline": 2.45
     },
     {
         "country": "El Salvador",
-        "costline": 307
+        "coastline": 307
     },
     {
         "country": "England",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Equatorial Guinea",
-        "costline": 296
+        "coastline": 296
     },
     {
         "country": "Eritrea",
-        "costline": 2.234
+        "coastline": 2.234
     },
     {
         "country": "Estonia",
-        "costline": 3.794
+        "coastline": 3.794
     },
     {
         "country": "Eswatini",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Ethiopia",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Falkland Islands",
-        "costline": 1.288
+        "coastline": 1.288
     },
     {
         "country": "Faroe Islands",
-        "costline": 1.117
+        "coastline": 1.117
     },
     {
         "country": "Fiji Islands",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Finland",
-        "costline": 1.25
+        "coastline": 1.25
     },
     {
         "country": "France",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "French Guiana",
-        "costline": 763
+        "coastline": 763
     },
     {
         "country": "French Polynesia",
-        "costline": 2.525
+        "coastline": 2.525
     },
     {
         "country": "French Southern territories",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Gabon",
-        "costline": 885
+        "coastline": 885
     },
     {
         "country": "Gambia",
-        "costline": 80
+        "coastline": 80
     },
     {
         "country": "Georgia",
-        "costline": 310
+        "coastline": 310
     },
     {
         "country": "Germany",
-        "costline": 2.389
+        "coastline": 2.389
     },
     {
         "country": "Ghana",
-        "costline": 539
+        "coastline": 539
     },
     {
         "country": "Gibraltar",
-        "costline": 12
+        "coastline": 12
     },
     {
         "country": "Greece",
-        "costline": 13.676
+        "coastline": 13.676
     },
     {
         "country": "Greenland",
-        "costline": 44.087
+        "coastline": 44.087
     },
     {
         "country": "Grenada",
-        "costline": 121
+        "coastline": 121
     },
     {
         "country": "Guadeloupe",
-        "costline": 581
+        "coastline": 581
     },
     {
         "country": "Guam",
-        "costline": 125.5
+        "coastline": 125.5
     },
     {
         "country": "Guatemala",
-        "costline": 400
+        "coastline": 400
     },
     {
         "country": "Guinea",
-        "costline": 320
+        "coastline": 320
     },
     {
         "country": "Guinea-Bissau",
-        "costline": 350
+        "coastline": 350
     },
     {
         "country": "Guyana",
-        "costline": 459
+        "coastline": 459
     },
     {
         "country": "Haiti",
-        "costline": 1.771
+        "coastline": 1.771
     },
     {
         "country": "Heard Island and McDonald Islands",
-        "costline": 101.9
+        "coastline": 101.9
     },
     {
         "country": "Holy See (Vatican City State)",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Honduras",
-        "costline": 832
+        "coastline": 832
     },
     {
         "country": "Hong Kong",
-        "costline": 733
+        "coastline": 733
     },
     {
         "country": "Hungary",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Iceland",
-        "costline": 4.97
+        "coastline": 4.97
     },
     {
         "country": "India",
-        "costline": 7
+        "coastline": 7
     },
     {
         "country": "Indonesia",
-        "costline": 54.716
+        "coastline": 54.716
     },
     {
         "country": "Iran",
-        "costline": 3.294
+        "coastline": 3.294
     },
     {
         "country": "Iraq",
-        "costline": 58
+        "coastline": 58
     },
     {
         "country": "Ireland",
-        "costline": 1.448
+        "coastline": 1.448
     },
     {
         "country": "Israel",
-        "costline": 273
+        "coastline": 273
     },
     {
         "country": "Italy",
-        "costline": 7.6
+        "coastline": 7.6
     },
     {
         "country": "Ivory Coast",
-        "costline": 515
+        "coastline": 515
     },
     {
         "country": "Jamaica",
-        "costline": 1.022
+        "coastline": 1.022
     },
     {
         "country": "Japan",
-        "costline": 29.751
+        "coastline": 29.751
     },
     {
         "country": "Jordan",
-        "costline": 26
+        "coastline": 26
     },
     {
         "country": "Kazakhstan",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Kenya",
-        "costline": 536
+        "coastline": 536
     },
     {
         "country": "Kiribati",
-        "costline": 1.143
+        "coastline": 1.143
     },
     {
         "country": "Kuwait",
-        "costline": 499
+        "coastline": 499
     },
     {
         "country": "Kyrgyzstan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Laos",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Latvia",
-        "costline": 498
+        "coastline": 498
     },
     {
         "country": "Lebanon",
-        "costline": 225
+        "coastline": 225
     },
     {
         "country": "Lesotho",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Liberia",
-        "costline": 579
+        "coastline": 579
     },
     {
         "country": "Libya",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Liechtenstein",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Lithuania",
-        "costline": 90
+        "coastline": 90
     },
     {
         "country": "Luxembourg",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Macao",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "North Macedonia",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Madagascar",
-        "costline": 4.828
+        "coastline": 4.828
     },
     {
         "country": "Malawi",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Malaysia",
-        "costline": 4.675
+        "coastline": 4.675
     },
     {
         "country": "Maldives",
-        "costline": 644
+        "coastline": 644
     },
     {
         "country": "Mali",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Malta",
-        "costline": 252.81
+        "coastline": 252.81
     },
     {
         "country": "Marshall Islands",
-        "costline": 370.4
+        "coastline": 370.4
     },
     {
         "country": "Martinique",
-        "costline": 369
+        "coastline": 369
     },
     {
         "country": "Mauritania",
-        "costline": 754
+        "coastline": 754
     },
     {
         "country": "Mauritius",
-        "costline": 177
+        "coastline": 177
     },
     {
         "country": "Mayotte",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Mexico",
-        "costline": 9.33
+        "coastline": 9.33
     },
     {
         "country": "Micronesia, Federated States of",
-        "costline": 6.112
+        "coastline": 6.112
     },
     {
         "country": "Moldova",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Monaco",
-        "costline": 4.1
+        "coastline": 4.1
     },
     {
         "country": "Mongolia",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Montserrat",
-        "costline": 40
+        "coastline": 40
     },
     {
         "country": "Morocco",
-        "costline": 1.835
+        "coastline": 1.835
     },
     {
         "country": "Mozambique",
-        "costline": 2.47
+        "coastline": 2.47
     },
     {
         "country": "Myanmar",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Namibia",
-        "costline": 1.572
+        "coastline": 1.572
     },
     {
         "country": "Nauru",
-        "costline": 30
+        "coastline": 30
     },
     {
         "country": "Nepal",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Netherlands",
-        "costline": 451
+        "coastline": 451
     },
     {
         "country": "Netherlands Antilles",
-        "costline": 361
+        "coastline": 361
     },
     {
         "country": "New Caledonia",
-        "costline": 2.254
+        "coastline": 2.254
     },
     {
         "country": "New Zealand",
-        "costline": 15.134
+        "coastline": 15.134
     },
     {
         "country": "Nicaragua",
-        "costline": 910
+        "coastline": 910
     },
     {
         "country": "Niger",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Nigeria",
-        "costline": 853
+        "coastline": 853
     },
     {
         "country": "Niue",
-        "costline": 64
+        "coastline": 64
     },
     {
         "country": "Norfolk Island",
-        "costline": 32
+        "coastline": 32
     },
     {
         "country": "North Korea",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Northern Ireland",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Northern Mariana Islands",
-        "costline": 1.482
+        "coastline": 1.482
     },
     {
         "country": "Norway",
-        "costline": 25.148
+        "coastline": 25.148
     },
     {
         "country": "Oman",
-        "costline": 2.092
+        "coastline": 2.092
     },
     {
         "country": "Pakistan",
-        "costline": 1.046
+        "coastline": 1.046
     },
     {
         "country": "Palau",
-        "costline": 1.519
+        "coastline": 1.519
     },
     {
         "country": "Palestine",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Panama",
-        "costline": 2.49
+        "coastline": 2.49
     },
     {
         "country": "Papua New Guinea",
-        "costline": 5.152
+        "coastline": 5.152
     },
     {
         "country": "Paraguay",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Peru",
-        "costline": 2.414
+        "coastline": 2.414
     },
     {
         "country": "Philippines",
-        "costline": 36.289
+        "coastline": 36.289
     },
     {
         "country": "Pitcairn",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Poland",
-        "costline": 440
+        "coastline": 440
     },
     {
         "country": "Portugal",
-        "costline": 1.793
+        "coastline": 1.793
     },
     {
         "country": "Puerto Rico",
-        "costline": 501
+        "coastline": 501
     },
     {
         "country": "Qatar",
-        "costline": 563
+        "coastline": 563
     },
     {
         "country": "Reunion",
-        "costline": 219
+        "coastline": 219
     },
     {
         "country": "Romania",
-        "costline": 225
+        "coastline": 225
     },
     {
         "country": "Russia",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Rwanda",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Saint Helena",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Saint Kitts and Nevis",
-        "costline": 135
+        "coastline": 135
     },
     {
         "country": "Saint Lucia",
-        "costline": 158
+        "coastline": 158
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "costline": 120
+        "coastline": 120
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "costline": 84
+        "coastline": 84
     },
     {
         "country": "Samoa",
-        "costline": 403
+        "coastline": 403
     },
     {
         "country": "San Marino",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Sao Tome and Principe",
-        "costline": 209
+        "coastline": 209
     },
     {
         "country": "Saudi Arabia",
-        "costline": 2.64
+        "coastline": 2.64
     },
     {
         "country": "Scotland",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Senegal",
-        "costline": 531
+        "coastline": 531
     },
     {
         "country": "Serbia",
-        "costline": 199
+        "coastline": 199
     },
     {
         "country": "Seychelles",
-        "costline": 491
+        "coastline": 491
     },
     {
         "country": "Sierra Leone",
-        "costline": 402
+        "coastline": 402
     },
     {
         "country": "Singapore",
-        "costline": 193
+        "coastline": 193
     },
     {
         "country": "Slovakia",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Slovenia",
-        "costline": 46.6
+        "coastline": 46.6
     },
     {
         "country": "Solomon Islands",
-        "costline": 5.313
+        "coastline": 5.313
     },
     {
         "country": "Somalia",
-        "costline": 3.333
+        "coastline": 3.333
     },
     {
         "country": "South Africa",
-        "costline": 2.798
+        "coastline": 2.798
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "South Korea",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "South Sudan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Spain",
-        "costline": 4.964
+        "coastline": 4.964
     },
     {
         "country": "Sri Lanka",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Sudan",
-        "costline": 853
+        "coastline": 853
     },
     {
         "country": "Suriname",
-        "costline": 386
+        "coastline": 386
     },
     {
         "country": "Svalbard and Jan Mayen",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Sweden",
-        "costline": 3.218
+        "coastline": 3.218
     },
     {
         "country": "Switzerland",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Syria",
-        "costline": 193
+        "coastline": 193
     },
     {
         "country": "Tajikistan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Tanzania",
-        "costline": 1.424
+        "coastline": 1.424
     },
     {
         "country": "Thailand",
-        "costline": 3.219
+        "coastline": 3.219
     },
     {
         "country": "The Democratic Republic of Congo",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Togo",
-        "costline": 56
+        "coastline": 56
     },
     {
         "country": "Tokelau",
-        "costline": 101
+        "coastline": 101
     },
     {
         "country": "Tonga",
-        "costline": 419
+        "coastline": 419
     },
     {
         "country": "Trinidad and Tobago",
-        "costline": 362
+        "coastline": 362
     },
     {
         "country": "Tunisia",
-        "costline": 1.148
+        "coastline": 1.148
     },
     {
         "country": "Turkey",
-        "costline": 7.2
+        "coastline": 7.2
     },
     {
         "country": "Turkmenistan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Turks and Caicos Islands",
-        "costline": 389
+        "coastline": 389
     },
     {
         "country": "Tuvalu",
-        "costline": 24
+        "coastline": 24
     },
     {
         "country": "Uganda",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Ukraine",
-        "costline": 2.782
+        "coastline": 2.782
     },
     {
         "country": "United Arab Emirates",
-        "costline": 1.318
+        "coastline": 1.318
     },
     {
         "country": "United Kingdom",
-        "costline": 12.429
+        "coastline": 12.429
     },
     {
         "country": "United States",
-        "costline": 19.924
+        "coastline": 19.924
     },
     {
         "country": "United States Minor Outlying Islands",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Uruguay",
-        "costline": 660
+        "coastline": 660
     },
     {
         "country": "Uzbekistan",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Vanuatu",
-        "costline": 2.528
+        "coastline": 2.528
     },
     {
         "country": "Venezuela",
-        "costline": 2.8
+        "coastline": 2.8
     },
     {
         "country": "Vietnam",
-        "costline": 3.444
+        "coastline": 3.444
     },
     {
         "country": "Virgin Islands, British",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Virgin Islands, U.S.",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Wales",
-        "costline": null
+        "coastline": null
     },
     {
         "country": "Wallis and Futuna",
-        "costline": 129
+        "coastline": 129
     },
     {
         "country": "Western Sahara",
-        "costline": 1.11
+        "coastline": 1.11
     },
     {
         "country": "Yemen",
-        "costline": 1.906
+        "coastline": 1.906
     },
     {
         "country": "Zambia",
-        "costline": 0
+        "coastline": 0
     },
     {
         "country": "Zimbabwe",
-        "costline": 0
+        "coastline": 0
     }
 ]
