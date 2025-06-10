@@ -1,4 +1,4 @@
-## country>json   [![Build Status](https://github.com/samayo/country-json/actions/workflows/validate.yml/badge.svg)](https://travis-ci.org/samayo/country-json)
+## country-json   [![Build Status](https://github.com/samayo/country-json/actions/workflows/validate.yml/badge.svg)](https://travis-ci.org/samayo/country-json)
 
 A simple data of the world (by country) each in JSON format.
 
