@@ -25,7 +25,7 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Capital City](https://github.com/samayo/country-json/blob/master/src/country-by-capital-city.json)
 - [Country by Cities](https://github.com/samayo/country-json/blob/master/src/country-by-cities.json)
 - [Country by Continent](https://github.com/samayo/country-json/blob/master/src/country-by-continent.json)
-- [Country by Costline](https://github.com/samayo/country-json/blob/master/src/country-by-costline.json)
+- [Country by Coastline](https://github.com/samayo/country-json/blob/master/src/country-by-coastline.json)
 - [Country by Currency Name](https://github.com/samayo/country-json/blob/master/src/country-by-currency-name.json)
 - [Country by Religion](https://github.com/samayo/country-json/blob/master/src/country-by-religion.json)
 - [Country by Currency Code](https://github.com/samayo/country-json/blob/master/src/country-by-currency-code.json)
